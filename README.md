@@ -5,19 +5,24 @@
 ## Grob-Planung
 
 1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist?
+   In dieser LP möchte ich hauptsächlich Python benutzen da ich in meinem Projekt ML benutzen möcht.
+   
 1. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?
+   Mit SQL fühle ich mich schon ziemlich gut und werde in dieser LP MongoDB lernen und verwenden
+   
 1. Was wäre ein geeignetes Abschluss-Projekt?
+   Ich möchte eine APP machen die dem User ein geeignetes Auto vorschlägt, basierent auf Antworten des User auf Fragen vom Programm.
 
 ## 25.4
 
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
-- [ ] *make or break feature* 1:
-- [ ] *make or break feature* 2:
-- [ ] *make or break feature* 3:
+- [x] Frage-Antwort-System zur Nutzerprofil-Erstellung(4 provisorische Fragen)
+- [x] Maschinelles Lernmodell (Kleines Modell mit wenig Daten)
+- [ ] Ein MongoDB Datenbank erstellen
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich getestet, ob mein Projekt umsetzbar ist, mit mein Wissen, in dem ich die wichtigsten Features mit kleinen Prototypen getestet habe. Ich konnte leider nur zwei von drei Projekte fertigstellen, da es beim ML Komplikationen gab. Ich habe im Internet recherchiert und konnte alle Probleme lösen und eine KI trainieren mit einem sehr kleinen Datensatz. Zum Erstellen von DB in MongoDB bin ich noch nicht gekommen und werde es das nächste Mal fertigstellen.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
 
@@ -25,10 +30,10 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] ... (📵)
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Ein MongoDB Datenbank erstellen
+- [ ] Ein Datensatz für mein Projekt suchen oder selber erstellen
+- [ ] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
+- [ ] Wichtigsten Punkte für eine Vorhersage wählen und die Fragen welche gestellt werden sollen überlegen (📵)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
