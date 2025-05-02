@@ -1,0 +1,5001 @@
+alter,automarke,modell,preis,geschlecht
+39,Audi,A1,15814,Weiblich
+52,Tesla,Model S,50710,Männlich
+16,Alfa Romeo,Giulietta,28252,Männlich
+77,Jeep,Cherokee,23122,Männlich
+22,Opel,Mokka,29247,Männlich
+36,Hyundai,Tucson,12073,Männlich
+72,Mercedes,GLE,70500,Männlich
+77,Mercedes,AMG GT,124710,Männlich
+26,Kia,Sportage,9546,Weiblich
+79,Citroen,C4,8708,Weiblich
+20,Nissan,Micra,39973,Weiblich
+43,Renault,Clio,34336,Weiblich
+55,Hyundai,Kona,40050,Männlich
+38,Mercedes,C-Klasse,118548,Weiblich
+26,Honda,Civic,29636,Weiblich
+45,Hyundai,Nexo,31370,Weiblich
+16,BMW Motorrad,R1250GS,8107,Weiblich
+45,Volvo,V90,46554,Weiblich
+80,BMW Motorrad,F900R,7240,Weiblich
+71,Honda,CR-V,28263,Männlich
+29,Peugeot,308,27257,Weiblich
+61,BMW,2er,114230,Männlich
+52,BMW Motorrad,R1250GS,24579,Weiblich
+52,Mazda,Mazda2,36642,Weiblich
+46,Mazda,Mazda2,17108,Männlich
+28,Mazda,Mazda3,12847,Weiblich
+45,Volvo,XC60,27733,Männlich
+49,Mazda,Mazda2,31764,Weiblich
+54,Tesla,Model Y,47232,Weiblich
+26,Ford,Focus,25378,Männlich
+64,Nissan,Leaf,8223,Männlich
+44,Porsche,Taycan,69262,Weiblich
+48,Mazda,Mazda2,24185,Weiblich
+16,Toyota,Land Cruiser,48755,Weiblich
+72,Audi,A8,44460,Weiblich
+18,Volkswagen,Tiguan,14559,Weiblich
+69,Jeep,Cherokee,35871,Weiblich
+28,Peugeot,5008,11074,Männlich
+79,Porsche,Macan,199542,Männlich
+58,Mazda,Mazda2,26064,Weiblich
+37,Audi,A7,106725,Weiblich
+72,Hyundai,Nexo,44035,Männlich
+64,Skoda,Fabia,25245,Männlich
+30,Kia,Ceed,17529,Weiblich
+29,Audi,TT,91661,Männlich
+39,Opel,Grandland,11909,Weiblich
+79,Peugeot,Partner,7160,Weiblich
+80,Skoda,Scala,11580,Männlich
+22,Citroen,C5 Aircross,6261,Männlich
+38,Hyundai,Tucson,37605,Weiblich
+34,Renault,Talisman,28733,Weiblich
+71,Renault,Clio,30412,Männlich
+58,Mazda,Mazda2,30042,Weiblich
+70,Ford,Mustang,18025,Weiblich
+17,Nissan,Qashqai,44279,Weiblich
+67,BMW,4er,65792,Männlich
+40,BMW,4er,49862,Weiblich
+72,Ford,Fiesta,27553,Männlich
+39,Citroen,C4,28826,Männlich
+60,Peugeot,Partner,9336,Weiblich
+58,Opel,Astra,22910,Männlich
+66,Toyota,Corolla,51751,Männlich
+47,Citroen,C5 Aircross,5771,Männlich
+19,Opel,Astra,19184,Weiblich
+56,Mitsubishi,Space Star,33648,Männlich
+25,Volkswagen,Sharan,16012,Männlich
+15,BMW Motorrad,F900R,13748,Weiblich
+39,Kia,Stonic,20915,Männlich
+40,Citroen,C3,8635,Männlich
+24,Kia,Rio,41336,Weiblich
+48,Tesla,Model X,27063,Weiblich
+58,Peugeot,3008,19415,Weiblich
+70,Citroen,C5,26147,Männlich
+32,Mazda,Mazda6,22715,Weiblich
+63,Honda,CR-V,19049,Männlich
+77,BMW,3er,34517,Weiblich
+67,Nissan,X-Trail,21517,Männlich
+31,Mitsubishi,Space Star,13249,Männlich
+47,Opel,Zafira,14718,Männlich
+79,Toyota,Corolla,21416,Weiblich
+21,Nissan,Leaf,31271,Weiblich
+19,Volvo,XC90,34705,Männlich
+37,Audi,TT,78129,Männlich
+64,Peugeot,Partner,14848,Männlich
+54,Citroen,C5 Aircross,31543,Weiblich
+37,Volvo,XC60,18810,Weiblich
+26,Honda,Jazz,15467,Weiblich
+31,Mitsubishi,Outlander,23714,Männlich
+61,Ford,Edge,36257,Männlich
+59,Alfa Romeo,Stelvio,15737,Weiblich
+71,Citroen,C4,34409,Weiblich
+74,Mercedes,GLC,65391,Männlich
+67,Renault,Megane,9309,Männlich
+22,Volvo,XC40,58737,Männlich
+63,Porsche,Panamera,160034,Männlich
+15,Tesla,Model S,73159,Weiblich
+21,Nissan,Leaf,26490,Männlich
+60,Citroen,C3 Aircross,9831,Männlich
+61,Porsche,Macan,136837,Weiblich
+21,Citroen,C3,25886,Weiblich
+59,Jeep,Compass,37318,Männlich
+75,Skoda,Fabia,19765,Männlich
+52,Opel,Zafira,20815,Männlich
+57,Jeep,Grand Cherokee,43531,Männlich
+66,Volkswagen,Sharan,13668,Weiblich
+72,Kia,Rio,20991,Männlich
+38,Mazda,Mazda3,16152,Männlich
+23,Porsche,Cayenne,111219,Weiblich
+79,Opel,Insignia,25247,Männlich
+59,Land Rover,Range Rover,33556,Weiblich
+40,Peugeot,3008,27177,Männlich
+30,Skoda,Fabia,35721,Männlich
+61,Mercedes,S-Klasse,65415,Weiblich
+78,Skoda,Scala,18426,Weiblich
+18,Alfa Romeo,MiTo,63820,Weiblich
+46,Skoda,Superb,17941,Weiblich
+22,Land Rover,Discovery,25803,Männlich
+61,Toyota,Yaris,10859,Weiblich
+26,Porsche,Cayenne,73532,Männlich
+61,Subaru,Outback,21462,Männlich
+76,Kia,Ceed,33401,Männlich
+29,Volvo,XC60,76816,Weiblich
+66,Peugeot,308,18897,Weiblich
+37,Skoda,Octavia,39493,Männlich
+23,Kia,Ceed,14700,Männlich
+36,Land Rover,Defender,108459,Männlich
+54,Peugeot,208,15920,Weiblich
+39,Mitsubishi,ASX,32970,Weiblich
+80,Peugeot,5008,6991,Männlich
+44,Ford,Edge,36552,Männlich
+24,Peugeot,308,10311,Männlich
+44,Audi,TT,73812,Männlich
+54,Kia,Stonic,42760,Weiblich
+80,Tesla,Model 3,47869,Weiblich
+19,Subaru,Forester,16989,Weiblich
+53,Renault,Koleos,16110,Weiblich
+78,Hyundai,Tucson,17337,Weiblich
+78,Hyundai,i10,24421,Weiblich
+80,Porsche,Taycan,133477,Weiblich
+17,Kia,Stonic,9776,Weiblich
+24,Skoda,Kodiaq,36301,Weiblich
+79,Renault,Koleos,13117,Weiblich
+48,BMW Motorrad,F900R,6643,Männlich
+74,Ford,Mondeo,39909,Männlich
+60,Nissan,Leaf,12855,Männlich
+80,Citroen,C4,10722,Männlich
+53,Toyota,RAV4,42327,Weiblich
+72,Audi,Q8,93116,Weiblich
+77,Honda,HR-V,22496,Weiblich
+25,Land Rover,Evoque,96293,Männlich
+33,Subaru,Outback,30100,Weiblich
+63,Subaru,Forester,29546,Männlich
+15,Peugeot,508,21142,Weiblich
+64,Opel,Insignia,18077,Männlich
+75,Tesla,Model S,56718,Männlich
+45,Porsche,Cayenne,186011,Männlich
+76,Kia,Seltos,14915,Weiblich
+20,Mazda,Mazda2,25940,Weiblich
+23,Volkswagen,Tiguan,57330,Männlich
+68,Porsche,Cayenne,116962,Männlich
+57,Subaru,Outback,33146,Männlich
+65,Mitsubishi,ASX,33757,Männlich
+17,Peugeot,3008,7570,Weiblich
+57,Subaru,Forester,16703,Männlich
+21,Ford,Mondeo,25987,Weiblich
+34,Nissan,Qashqai,20536,Männlich
+39,Audi,A4,25720,Männlich
+33,BMW,X5,29811,Weiblich
+31,Skoda,Superb,13731,Weiblich
+33,Honda,Civic,23564,Weiblich
+33,Volvo,V90,47888,Männlich
+68,Honda,CR-V,19960,Männlich
+63,Mitsubishi,Outlander,27137,Männlich
+47,Mercedes,GLS,130675,Männlich
+54,Hyundai,i10,31173,Männlich
+41,Hyundai,Tucson,11344,Weiblich
+71,Mitsubishi,Space Star,24701,Weiblich
+75,Kia,Seltos,18804,Weiblich
+52,Peugeot,5008,26854,Männlich
+37,Volkswagen,Polo,26094,Weiblich
+42,Land Rover,Evoque,33485,Weiblich
+32,Skoda,Superb,13410,Weiblich
+38,BMW Motorrad,F900R,21372,Weiblich
+77,Toyota,Camry,28100,Weiblich
+54,Tesla,Model 3,37851,Weiblich
+26,Mitsubishi,L200,8812,Weiblich
+70,BMW Motorrad,R1250GS,11712,Männlich
+28,Citroen,C5,7758,Männlich
+52,Volkswagen,ID.3,56822,Männlich
+16,Opel,Insignia,18750,Männlich
+58,Jeep,Compass,24012,Weiblich
+49,Alfa Romeo,MiTo,70513,Weiblich
+61,Opel,Insignia,26733,Männlich
+28,Honda,HR-V,13015,Weiblich
+39,Honda,HR-V,21050,Weiblich
+32,Mazda,Mazda3,38555,Weiblich
+79,BMW Motorrad,S1000RR,23801,Weiblich
+31,Skoda,Octavia,40548,Männlich
+37,Peugeot,3008,23416,Weiblich
+49,Peugeot,3008,13152,Weiblich
+60,Mitsubishi,Space Star,28350,Weiblich
+72,Kia,Niro,12656,Weiblich
+29,Audi,A4,106252,Weiblich
+69,Peugeot,5008,29339,Männlich
+32,Skoda,Kamiq,16454,Männlich
+75,Land Rover,Defender,87024,Männlich
+63,Peugeot,508,21618,Weiblich
+80,Volkswagen,ID.4,61456,Weiblich
+50,Honda,CR-V,20190,Männlich
+29,Volvo,XC90,18179,Weiblich
+72,Alfa Romeo,Stelvio,69147,Männlich
+48,Honda,Jazz,17313,Weiblich
+45,Skoda,Superb,18898,Weiblich
+39,Peugeot,3008,27263,Weiblich
+79,Peugeot,3008,6569,Männlich
+34,Hyundai,Kona,29554,Weiblich
+29,Citroen,C3,5189,Weiblich
+68,Hyundai,i10,26368,Weiblich
+52,Citroen,C5 Aircross,32069,Weiblich
+20,Land Rover,Evoque,67892,Weiblich
+47,BMW,5er,49487,Weiblich
+51,Land Rover,Evoque,119903,Männlich
+48,Mitsubishi,Space Star,28706,Männlich
+26,Honda,Accord,29572,Weiblich
+23,Jeep,Renegade,44038,Männlich
+68,BMW,3er,33217,Weiblich
+35,Mercedes,GLE,33314,Weiblich
+47,Peugeot,Partner,21870,Männlich
+21,Peugeot,208,19095,Männlich
+49,Subaru,Impreza,29116,Weiblich
+77,Mazda,CX-5,20093,Weiblich
+61,Jeep,Cherokee,38914,Männlich
+80,Porsche,911,115754,Männlich
+18,Jeep,Grand Cherokee,48543,Weiblich
+15,Alfa Romeo,Stelvio,21422,Männlich
+52,Land Rover,Defender,37144,Männlich
+69,Land Rover,Evoque,76086,Weiblich
+46,Land Rover,Range Rover,43296,Weiblich
+70,Mazda,Mazda2,22732,Weiblich
+77,Hyundai,i30,14804,Weiblich
+69,Mazda,Mazda2,22210,Männlich
+72,Opel,Insignia,14227,Weiblich
+58,Toyota,RAV4,33567,Männlich
+26,Land Rover,Discovery,82646,Weiblich
+57,Nissan,Qashqai,42893,Männlich
+64,Skoda,Kodiaq,26636,Männlich
+75,Honda,Accord,8314,Männlich
+18,Skoda,Fabia,30945,Männlich
+49,Jeep,Grand Cherokee,40441,Weiblich
+18,Tesla,Model X,73829,Männlich
+17,BMW,X5,76584,Weiblich
+37,Ford,Fiesta,28940,Männlich
+23,Opel,Mokka,19722,Männlich
+67,Land Rover,Evoque,99663,Männlich
+67,Ford,Edge,39167,Männlich
+54,Porsche,Taycan,119816,Männlich
+58,Porsche,Macan,188933,Männlich
+18,Opel,Insignia,13396,Weiblich
+61,Renault,Clio,5652,Weiblich
+71,Citroen,C3 Aircross,5141,Männlich
+47,BMW Motorrad,F900R,9587,Männlich
+41,BMW,2er,29944,Weiblich
+62,Porsche,911,174850,Männlich
+63,Opel,Insignia,28659,Männlich
+71,Mazda,Mazda3,17657,Weiblich
+28,Honda,HR-V,11798,Männlich
+24,Volkswagen,Touran,17714,Männlich
+78,Peugeot,5008,26333,Männlich
+50,Audi,A5,78098,Männlich
+15,Volvo,XC60,64963,Weiblich
+18,Kia,Sportage,9016,Weiblich
+79,Opel,Mokka,25610,Weiblich
+49,Subaru,Impreza,31141,Männlich
+70,Volkswagen,Tiguan,48282,Weiblich
+55,Peugeot,Partner,29594,Männlich
+34,Land Rover,Discovery,75873,Männlich
+66,Audi,A8,83858,Männlich
+75,Ford,Fiesta,25353,Männlich
+36,Mitsubishi,L200,23522,Weiblich
+63,Tesla,Model S,32467,Männlich
+26,Jeep,Cherokee,38455,Weiblich
+31,Honda,Accord,30147,Männlich
+31,Volvo,XC60,40908,Weiblich
+30,Mitsubishi,ASX,36476,Männlich
+52,Hyundai,Tucson,24457,Männlich
+22,Hyundai,Nexo,34677,Weiblich
+63,Peugeot,3008,28708,Weiblich
+47,Subaru,Outback,24989,Weiblich
+56,Land Rover,Range Rover,90389,Weiblich
+49,BMW,5er,43957,Weiblich
+39,Alfa Romeo,Giulia,62037,Männlich
+25,Mercedes,GLA,140849,Weiblich
+58,Toyota,Land Cruiser,47730,Männlich
+21,Volvo,XC90,24887,Weiblich
+30,BMW,2er,102716,Männlich
+53,Ford,Mustang,13716,Weiblich
+51,Opel,Corsa,16461,Weiblich
+17,Audi,Q3,103992,Männlich
+61,Peugeot,208,12238,Weiblich
+39,Peugeot,508,27037,Weiblich
+45,Honda,CR-V,23930,Weiblich
+35,Tesla,Model X,31424,Weiblich
+40,Peugeot,Partner,14647,Weiblich
+66,Toyota,Camry,14644,Männlich
+33,Renault,Captur,20285,Männlich
+66,Kia,Stonic,39363,Männlich
+47,Mazda,Mazda3,24642,Weiblich
+76,Toyota,Land Cruiser,54442,Weiblich
+62,Tesla,Model Y,49175,Männlich
+47,Hyundai,Nexo,31717,Weiblich
+17,Nissan,Juke,18600,Weiblich
+65,Mercedes,GLS,126982,Männlich
+37,Opel,Corsa,24577,Weiblich
+56,Porsche,Cayenne,99872,Männlich
+47,Porsche,Taycan,80868,Weiblich
+56,Hyundai,Santa Fe,42696,Weiblich
+76,Mitsubishi,ASX,26454,Männlich
+76,Hyundai,i20,36275,Männlich
+56,Skoda,Octavia,22274,Männlich
+26,Opel,Zafira,21687,Männlich
+36,Porsche,Taycan,167950,Männlich
+38,Mitsubishi,ASX,25876,Weiblich
+73,Renault,Koleos,14085,Männlich
+34,Kia,Seltos,17769,Männlich
+61,BMW,X6,48652,Männlich
+16,Tesla,Model X,29824,Weiblich
+39,Jeep,Cherokee,50116,Weiblich
+73,Honda,CR-V,15840,Männlich
+59,Porsche,Taycan,81937,Männlich
+73,Hyundai,Nexo,40705,Weiblich
+49,Kia,Ceed,32453,Weiblich
+33,Jeep,Compass,48576,Weiblich
+70,Volvo,XC90,53137,Weiblich
+20,Jeep,Wrangler,33252,Männlich
+58,Audi,A1,63415,Männlich
+21,Volvo,V90,68682,Weiblich
+39,Volvo,V90,45088,Männlich
+79,BMW Motorrad,R1200GS,22754,Weiblich
+19,Subaru,XV,11697,Männlich
+15,Mercedes,B-Klasse,144605,Weiblich
+77,BMW,5er,82360,Männlich
+17,Nissan,X-Trail,49026,Weiblich
+26,Jeep,Grand Cherokee,38236,Männlich
+45,Kia,Sportage,25450,Weiblich
+53,Hyundai,i30,25494,Männlich
+52,BMW Motorrad,F900R,22919,Weiblich
+80,Ford,Fiesta,16294,Männlich
+40,Nissan,Juke,11801,Männlich
+15,Audi,A5,24355,Weiblich
+18,Mercedes,A-Klasse,18510,Weiblich
+80,Volkswagen,Touareg,67682,Weiblich
+30,Renault,Clio,27173,Männlich
+48,Tesla,Model S,78189,Männlich
+78,Mazda,Mazda3,13794,Männlich
+80,Citroen,C3,7130,Weiblich
+29,Jeep,Grand Cherokee,22391,Weiblich
+41,Volkswagen,Passat,64076,Männlich
+32,Toyota,Corolla,15740,Weiblich
+62,BMW,X6,73009,Männlich
+79,Land Rover,Discovery,43194,Weiblich
+64,Land Rover,Evoque,44914,Weiblich
+18,Citroen,C5,25143,Männlich
+52,Kia,Rio,31423,Männlich
+60,Peugeot,5008,15545,Männlich
+42,Land Rover,Defender,117975,Männlich
+78,Kia,Rio,20148,Weiblich
+79,Honda,HR-V,31956,Männlich
+62,Jeep,Wrangler,40114,Weiblich
+56,Land Rover,Evoque,62220,Männlich
+72,Porsche,Cayenne,96370,Männlich
+36,BMW,7er,39646,Weiblich
+64,BMW,Z4,92967,Männlich
+23,Mazda,CX-5,31449,Männlich
+27,Subaru,Outback,32250,Männlich
+34,Mazda,Mazda3,32496,Männlich
+29,Land Rover,Range Rover,99576,Männlich
+32,Mercedes,AMG GT,31171,Männlich
+55,Opel,Insignia,23981,Weiblich
+17,Land Rover,Defender,49447,Männlich
+41,BMW Motorrad,R1250GS,11881,Männlich
+58,Kia,Seltos,8057,Männlich
+39,Audi,A1,104756,Männlich
+47,Citroen,C3 Aircross,28367,Weiblich
+36,Tesla,Model 3,76254,Weiblich
+58,Mitsubishi,Space Star,37462,Männlich
+79,Opel,Corsa,16460,Männlich
+80,Skoda,Kodiaq,43597,Weiblich
+57,Mitsubishi,Space Star,14635,Weiblich
+39,Mazda,Mazda3,30118,Weiblich
+52,Opel,Zafira,26681,Männlich
+69,BMW,i4,91576,Männlich
+72,Subaru,Impreza,10250,Männlich
+52,Subaru,Forester,22155,Männlich
+63,Mazda,Mazda6,13249,Männlich
+45,Kia,Sportage,40217,Männlich
+58,Audi,Q3,44799,Männlich
+23,Citroen,C3,31431,Männlich
+71,Porsche,Macan,155499,Weiblich
+50,Citroen,C3,7066,Weiblich
+71,Renault,Koleos,19203,Männlich
+51,Audi,A5,87057,Männlich
+34,Opel,Grandland,17333,Weiblich
+31,Alfa Romeo,MiTo,32063,Weiblich
+33,Peugeot,508,21765,Männlich
+18,Citroen,C4,34557,Männlich
+47,Land Rover,Defender,32281,Männlich
+55,Jeep,Grand Cherokee,54916,Weiblich
+41,BMW Motorrad,R1250GS,12362,Weiblich
+36,Nissan,Qashqai,24938,Männlich
+71,Alfa Romeo,Giulia,46263,Männlich
+59,Mazda,Mazda3,37764,Männlich
+64,Alfa Romeo,Stelvio,64521,Weiblich
+63,Porsche,Panamera,169138,Weiblich
+60,Volkswagen,Golf,66573,Männlich
+77,Skoda,Kamiq,19853,Weiblich
+34,Volvo,V90,51024,Männlich
+74,Nissan,Qashqai,47308,Männlich
+73,Ford,Kuga,15989,Weiblich
+76,Toyota,Yaris,22723,Weiblich
+78,Audi,A7,32214,Männlich
+32,Toyota,C-HR,47672,Weiblich
+64,Alfa Romeo,MiTo,45819,Weiblich
+48,Peugeot,208,26227,Männlich
+23,Jeep,Renegade,40526,Männlich
+80,Land Rover,Evoque,55961,Weiblich
+79,Ford,Fiesta,39870,Weiblich
+72,Hyundai,i30,38678,Weiblich
+48,Nissan,Leaf,25113,Weiblich
+59,Kia,Ceed,35199,Weiblich
+60,Nissan,Leaf,30247,Weiblich
+51,BMW Motorrad,F900R,15605,Weiblich
+41,Audi,Q8,107472,Weiblich
+62,Mercedes,S-Klasse,115167,Weiblich
+80,Opel,Zafira,19242,Weiblich
+32,Audi,A6,93219,Weiblich
+58,Land Rover,Range Rover,70476,Männlich
+61,Porsche,911,159400,Männlich
+51,Volvo,S60,60222,Weiblich
+59,Opel,Grandland,15731,Weiblich
+20,Alfa Romeo,Giulietta,22969,Männlich
+60,Porsche,Panamera,113430,Männlich
+30,Honda,CR-V,33428,Männlich
+29,Volvo,S60,17288,Männlich
+70,Subaru,Forester,21282,Weiblich
+66,Mitsubishi,Space Star,38275,Männlich
+25,Volkswagen,Touran,22083,Weiblich
+39,Alfa Romeo,Giulia,68321,Weiblich
+70,Nissan,Micra,42668,Männlich
+71,Mitsubishi,Outlander,20343,Männlich
+47,BMW Motorrad,R1200GS,13718,Männlich
+17,Hyundai,i20,20092,Weiblich
+29,Mazda,Mazda2,27931,Weiblich
+60,Citroen,C5 Aircross,15574,Männlich
+61,Citroen,C4,28013,Männlich
+41,Alfa Romeo,Giulia,67330,Männlich
+20,Opel,Astra,9998,Weiblich
+80,Mercedes,GLC,142238,Weiblich
+62,Mazda,Mazda6,21565,Weiblich
+28,Mazda,Mazda6,27899,Männlich
+42,Opel,Mokka,23609,Weiblich
+47,Mazda,Mazda3,17431,Männlich
+76,Nissan,Leaf,8845,Weiblich
+34,Ford,Kuga,32695,Weiblich
+79,Porsche,Macan,171848,Weiblich
+17,Mazda,Mazda2,29049,Weiblich
+41,Opel,Grandland,10481,Männlich
+57,Tesla,Model 3,50104,Männlich
+61,Opel,Mokka,14371,Männlich
+37,Citroen,C4,10517,Weiblich
+27,Mitsubishi,ASX,7431,Weiblich
+70,Skoda,Kodiaq,28668,Männlich
+68,Renault,Clio,34359,Männlich
+46,Kia,Stonic,18348,Männlich
+75,BMW,2er,65153,Weiblich
+55,Toyota,Yaris,15272,Männlich
+16,Mercedes,GLA,85219,Männlich
+63,Mazda,Mazda6,12810,Weiblich
+23,Peugeot,Partner,23514,Weiblich
+56,Alfa Romeo,Giulia,39888,Weiblich
+68,Honda,Jazz,17132,Männlich
+62,Skoda,Kamiq,37015,Weiblich
+36,Tesla,Model S,36915,Weiblich
+40,Kia,Niro,27408,Weiblich
+28,Audi,A5,15171,Männlich
+70,Land Rover,Discovery,104775,Weiblich
+67,Honda,CR-V,32117,Weiblich
+25,Peugeot,508,14748,Weiblich
+65,Subaru,Forester,10396,Männlich
+76,Porsche,Cayenne,123447,Männlich
+77,Porsche,Panamera,156635,Weiblich
+68,Volvo,XC40,65971,Weiblich
+47,Mitsubishi,ASX,20266,Weiblich
+23,Subaru,Outback,13742,Weiblich
+41,Mitsubishi,L200,27532,Männlich
+60,Skoda,Superb,43835,Männlich
+51,Jeep,Grand Cherokee,58996,Männlich
+70,BMW,X6,40525,Weiblich
+34,Nissan,Qashqai,23810,Weiblich
+76,Mitsubishi,Space Star,29711,Weiblich
+74,Honda,Jazz,24466,Weiblich
+23,Mazda,Mazda2,18012,Männlich
+63,Audi,A7,38117,Weiblich
+65,Renault,Megane,34846,Männlich
+53,Nissan,Navara,42210,Männlich
+51,Tesla,Model Y,33983,Weiblich
+34,Mazda,Mazda2,27220,Männlich
+71,Peugeot,208,10522,Männlich
+43,Land Rover,Evoque,43863,Männlich
+51,Skoda,Scala,38412,Männlich
+42,Mazda,Mazda6,37361,Weiblich
+27,Jeep,Grand Cherokee,39820,Weiblich
+73,Nissan,Leaf,40293,Weiblich
+75,Peugeot,3008,20007,Weiblich
+65,Toyota,C-HR,24803,Weiblich
+66,Mitsubishi,ASX,25425,Weiblich
+25,Honda,Accord,22822,Weiblich
+36,Alfa Romeo,Stelvio,43974,Männlich
+46,Toyota,Land Cruiser,22681,Männlich
+69,Kia,Rio,24572,Weiblich
+25,Kia,Niro,33757,Weiblich
+21,Honda,HR-V,21645,Weiblich
+54,BMW Motorrad,F900R,12719,Männlich
+49,Mercedes,E-Klasse,48971,Weiblich
+79,Honda,Accord,21516,Männlich
+17,Peugeot,508,19127,Männlich
+49,Opel,Insignia,19028,Weiblich
+45,Alfa Romeo,Giulietta,60142,Männlich
+48,Audi,A1,20784,Männlich
+76,Skoda,Octavia,25913,Weiblich
+29,Volkswagen,Arteon,52298,Weiblich
+67,Porsche,Taycan,190887,Weiblich
+27,Audi,R8,79140,Weiblich
+44,Skoda,Superb,29501,Weiblich
+49,Subaru,XV,29932,Männlich
+65,Peugeot,308,21744,Männlich
+54,Hyundai,i20,40990,Weiblich
+27,Kia,Sportage,16492,Weiblich
+24,Alfa Romeo,Giulietta,51344,Männlich
+67,Citroen,C5,26336,Weiblich
+54,Kia,Stonic,40584,Weiblich
+53,Citroen,C5 Aircross,21169,Weiblich
+47,Tesla,Model 3,54668,Weiblich
+20,Tesla,Model 3,62610,Weiblich
+17,Mercedes,GLE,134447,Weiblich
+37,Subaru,Forester,15310,Weiblich
+22,BMW Motorrad,R1200GS,8943,Männlich
+62,Honda,HR-V,31206,Weiblich
+67,Nissan,Leaf,44105,Männlich
+54,Citroen,C5,23731,Weiblich
+25,Alfa Romeo,Giulietta,24538,Männlich
+59,Opel,Corsa,17576,Männlich
+76,Toyota,Land Cruiser,48013,Männlich
+76,Nissan,Juke,12868,Weiblich
+68,BMW,i3,73789,Weiblich
+24,Honda,Accord,8792,Weiblich
+36,Land Rover,Discovery,25158,Weiblich
+75,Renault,Megane,25539,Weiblich
+58,Opel,Mokka,23642,Männlich
+34,Alfa Romeo,MiTo,38437,Männlich
+65,Jeep,Grand Cherokee,60017,Weiblich
+40,Volvo,XC60,72534,Männlich
+40,Toyota,RAV4,39936,Männlich
+39,Opel,Zafira,29389,Weiblich
+39,Mitsubishi,Space Star,36614,Weiblich
+15,Subaru,Impreza,41887,Weiblich
+56,Jeep,Grand Cherokee,32090,Männlich
+54,Jeep,Cherokee,29373,Weiblich
+26,Tesla,Model Y,59747,Männlich
+22,Tesla,Model Y,57085,Weiblich
+74,BMW,X5,114641,Männlich
+44,Peugeot,Partner,28671,Weiblich
+76,Volkswagen,Golf,31327,Männlich
+80,Citroen,C5 Aircross,12965,Weiblich
+66,Mazda,CX-5,35170,Weiblich
+27,Renault,Megane,29681,Weiblich
+58,Land Rover,Range Rover,103935,Männlich
+70,BMW,7er,71939,Weiblich
+33,Skoda,Fabia,25987,Männlich
+42,Kia,Niro,13425,Männlich
+34,Subaru,Outback,41060,Weiblich
+15,Land Rover,Discovery,49506,Weiblich
+71,Honda,Jazz,32167,Männlich
+16,Land Rover,Range Rover,55265,Männlich
+29,Renault,Captur,18271,Männlich
+64,Renault,Megane,11673,Weiblich
+68,Mercedes,GLC,58656,Männlich
+68,Audi,A7,106337,Weiblich
+33,Subaru,XV,40521,Männlich
+49,BMW,Z4,39016,Weiblich
+22,Volkswagen,Touareg,26778,Weiblich
+17,Mazda,Mazda6,32783,Weiblich
+69,Audi,A7,16395,Männlich
+33,Tesla,Model S,27400,Weiblich
+37,Skoda,Superb,30340,Männlich
+33,Skoda,Scala,31166,Weiblich
+40,Mazda,Mazda2,12442,Weiblich
+63,Skoda,Scala,12925,Männlich
+19,Ford,Edge,13414,Weiblich
+61,Renault,Clio,21734,Männlich
+73,Hyundai,Kona,15116,Weiblich
+42,Subaru,Forester,42118,Weiblich
+44,Opel,Grandland,20946,Männlich
+30,Porsche,Taycan,135728,Weiblich
+60,Volkswagen,Sharan,66505,Männlich
+75,Ford,Fiesta,39725,Weiblich
+36,Land Rover,Defender,87214,Weiblich
+51,Opel,Mokka,28128,Weiblich
+53,Volvo,V90,55048,Weiblich
+55,Skoda,Kodiaq,22563,Männlich
+66,Mercedes,GLA,54212,Weiblich
+16,Nissan,Micra,19657,Weiblich
+36,Mazda,CX-5,21481,Männlich
+67,Kia,Rio,44185,Männlich
+35,Volkswagen,ID.4,13961,Männlich
+56,Mitsubishi,L200,13334,Männlich
+58,Alfa Romeo,Stelvio,64186,Weiblich
+19,Tesla,Model 3,72889,Männlich
+41,Volkswagen,Touran,11554,Weiblich
+27,Opel,Grandland,24466,Männlich
+64,Tesla,Model Y,76132,Weiblich
+31,Alfa Romeo,MiTo,53237,Männlich
+69,Ford,Mustang,18636,Weiblich
+21,Alfa Romeo,Giulia,70331,Männlich
+56,Citroen,C3 Aircross,24228,Weiblich
+22,Kia,Sportage,28984,Weiblich
+35,Mercedes,B-Klasse,81203,Weiblich
+77,Kia,Rio,26161,Männlich
+46,Volvo,XC60,22830,Männlich
+53,Renault,Megane,16015,Weiblich
+61,Mitsubishi,L200,32853,Weiblich
+33,Volkswagen,ID.4,26694,Weiblich
+59,Jeep,Compass,65787,Weiblich
+40,Citroen,C3,6235,Weiblich
+57,Mazda,Mazda6,28074,Weiblich
+45,Toyota,Yaris,14699,Männlich
+24,Volkswagen,ID.4,20468,Weiblich
+75,Honda,CR-V,32983,Männlich
+29,Alfa Romeo,Giulia,54713,Männlich
+15,Citroen,C5 Aircross,25791,Weiblich
+61,Toyota,Yaris,21254,Männlich
+70,Renault,Koleos,13544,Männlich
+78,Nissan,X-Trail,15575,Weiblich
+60,Volvo,V90,64887,Weiblich
+21,Land Rover,Range Rover,82311,Männlich
+21,Kia,Seltos,21258,Weiblich
+47,Renault,Kadjar,18332,Männlich
+60,Kia,Seltos,12252,Weiblich
+57,BMW Motorrad,F900R,9661,Weiblich
+29,Audi,Q5,48647,Weiblich
+65,Opel,Corsa,17322,Männlich
+56,Kia,Stonic,14756,Männlich
+40,Opel,Astra,16404,Weiblich
+68,Honda,Civic,21986,Weiblich
+45,Citroen,C5,9321,Weiblich
+57,Hyundai,i20,27007,Männlich
+40,Ford,Kuga,18196,Männlich
+16,Mazda,Mazda3,16274,Männlich
+72,Hyundai,Tucson,13506,Weiblich
+30,Volvo,V90,17661,Männlich
+78,Jeep,Wrangler,23930,Männlich
+30,Audi,R8,65510,Männlich
+41,Kia,Ceed,38621,Weiblich
+24,Subaru,Impreza,12723,Weiblich
+15,Volkswagen,ID.3,41778,Männlich
+76,Toyota,Yaris,21742,Männlich
+61,Nissan,Qashqai,32405,Weiblich
+71,Mercedes,A-Klasse,102235,Männlich
+51,Volkswagen,Golf,28333,Männlich
+32,Land Rover,Evoque,42124,Männlich
+44,Ford,Fiesta,19164,Männlich
+64,Renault,Talisman,34521,Männlich
+39,Volkswagen,Arteon,43554,Männlich
+34,BMW Motorrad,R1250GS,20859,Weiblich
+36,Peugeot,508,26392,Weiblich
+69,Skoda,Kamiq,44304,Männlich
+24,Kia,Niro,40448,Männlich
+32,Audi,A8,90816,Männlich
+74,Citroen,C5,5458,Männlich
+18,Mercedes,S-Klasse,128130,Weiblich
+80,Toyota,Camry,34159,Männlich
+28,Opel,Corsa,22292,Weiblich
+55,Volkswagen,Arteon,47701,Männlich
+63,Hyundai,i10,37228,Weiblich
+63,Tesla,Model Y,46071,Männlich
+51,BMW Motorrad,F900R,18690,Männlich
+44,Land Rover,Discovery,84269,Weiblich
+68,Toyota,Corolla,39879,Weiblich
+19,Renault,Kadjar,5998,Weiblich
+44,Hyundai,Kona,22112,Männlich
+64,Skoda,Superb,21928,Männlich
+51,Volkswagen,Polo,20992,Männlich
+73,Alfa Romeo,MiTo,63983,Weiblich
+68,Opel,Insignia,26280,Männlich
+23,Honda,CR-V,33437,Männlich
+39,Mitsubishi,L200,21690,Weiblich
+51,Peugeot,Partner,9353,Männlich
+29,Opel,Mokka,23539,Weiblich
+39,Mitsubishi,L200,37898,Weiblich
+17,Tesla,Model X,60355,Männlich
+58,Nissan,Leaf,30405,Männlich
+30,Toyota,Yaris,54078,Männlich
+33,Jeep,Cherokee,59450,Weiblich
+18,Mazda,Mazda3,15335,Weiblich
+31,Tesla,Model Y,75598,Männlich
+79,Ford,Fiesta,33199,Männlich
+69,Volvo,XC40,62127,Weiblich
+50,Land Rover,Defender,75610,Männlich
+80,Skoda,Kamiq,12030,Männlich
+71,Peugeot,3008,24685,Weiblich
+67,Audi,Q8,85663,Männlich
+18,Land Rover,Evoque,48539,Männlich
+19,BMW Motorrad,F900R,23445,Männlich
+64,Peugeot,508,14109,Männlich
+72,Hyundai,i30,12179,Männlich
+18,Renault,Clio,19194,Männlich
+32,Ford,Mondeo,11058,Weiblich
+25,Tesla,Model Y,56092,Weiblich
+54,Nissan,Micra,16399,Weiblich
+41,Toyota,Corolla,33235,Weiblich
+33,Volvo,XC90,71320,Weiblich
+48,Mercedes,GLS,129411,Männlich
+52,Hyundai,Santa Fe,28725,Weiblich
+43,Mitsubishi,Space Star,16526,Männlich
+62,Honda,HR-V,25755,Weiblich
+42,Honda,Jazz,16032,Weiblich
+55,Mitsubishi,ASX,7488,Männlich
+78,Volvo,S60,79326,Männlich
+58,Mercedes,GLS,107312,Männlich
+41,Honda,Accord,29245,Männlich
+80,Volkswagen,Polo,12961,Weiblich
+29,Citroen,C5 Aircross,6169,Männlich
+57,Renault,Clio,18375,Männlich
+66,Peugeot,Partner,15423,Weiblich
+29,Renault,Talisman,14392,Männlich
+62,Mazda,Mazda6,23182,Männlich
+28,Ford,Focus,34792,Männlich
+57,Skoda,Kodiaq,14111,Männlich
+62,Alfa Romeo,Giulia,43271,Männlich
+41,Audi,A3,29969,Weiblich
+48,Skoda,Scala,27059,Männlich
+70,Peugeot,5008,24660,Weiblich
+19,Alfa Romeo,Stelvio,77974,Weiblich
+40,Mazda,Mazda3,37021,Weiblich
+20,Audi,A5,64902,Männlich
+60,Tesla,Model X,42816,Männlich
+62,Skoda,Superb,11771,Weiblich
+72,Toyota,Corolla,49103,Männlich
+75,Citroen,C3,30389,Weiblich
+66,Honda,Civic,31514,Männlich
+51,Ford,Edge,13588,Weiblich
+43,BMW Motorrad,R1250GS,21215,Männlich
+17,Tesla,Model S,48363,Männlich
+41,Volvo,XC60,43848,Weiblich
+25,BMW,1er,30961,Weiblich
+54,Peugeot,3008,20201,Männlich
+56,Land Rover,Range Rover,68183,Männlich
+45,Nissan,Navara,35240,Weiblich
+67,BMW,2er,95104,Weiblich
+77,Hyundai,Nexo,19234,Weiblich
+63,Ford,Kuga,10240,Weiblich
+68,Subaru,XV,31090,Männlich
+67,Kia,Ceed,44783,Weiblich
+40,Porsche,Macan,151909,Weiblich
+18,BMW Motorrad,R1250GS,17113,Männlich
+16,Mazda,Mazda6,22976,Männlich
+42,Hyundai,i10,21629,Männlich
+20,Mitsubishi,ASX,28845,Männlich
+49,Mazda,CX-5,17849,Weiblich
+33,Volkswagen,Sharan,47237,Männlich
+40,Jeep,Grand Cherokee,33547,Weiblich
+47,Renault,Clio,22542,Männlich
+26,Land Rover,Defender,60319,Männlich
+61,Tesla,Model S,28446,Weiblich
+27,Renault,Kadjar,31211,Weiblich
+76,Citroen,C3,10812,Männlich
+45,Skoda,Octavia,36303,Männlich
+69,BMW,Z4,20874,Männlich
+20,Mazda,Mazda2,37741,Männlich
+58,BMW Motorrad,R1250GS,19937,Weiblich
+50,Skoda,Kamiq,17568,Weiblich
+26,Kia,Rio,18737,Weiblich
+20,BMW Motorrad,S1000RR,16909,Weiblich
+73,Alfa Romeo,MiTo,59060,Weiblich
+65,Renault,Megane,5695,Weiblich
+39,Kia,Niro,24056,Weiblich
+26,Kia,Niro,34312,Weiblich
+52,Citroen,C4,29266,Weiblich
+49,Mercedes,GLS,141430,Weiblich
+65,Ford,Focus,35293,Männlich
+22,Alfa Romeo,Giulietta,55686,Weiblich
+44,Land Rover,Defender,108552,Weiblich
+39,Alfa Romeo,MiTo,72123,Weiblich
+75,Toyota,Land Cruiser,41636,Weiblich
+67,Mercedes,GLE,87356,Männlich
+76,Volvo,XC60,34909,Männlich
+21,Tesla,Model 3,79857,Weiblich
+52,Audi,Q7,40335,Weiblich
+69,Volvo,S60,57761,Weiblich
+60,Porsche,Panamera,170954,Weiblich
+75,Porsche,Panamera,77957,Männlich
+52,Nissan,Leaf,27157,Männlich
+47,Peugeot,Partner,19414,Männlich
+76,Tesla,Model S,31614,Männlich
+28,Toyota,RAV4,24490,Männlich
+54,Audi,Q7,26218,Männlich
+52,Tesla,Model 3,26683,Männlich
+71,Peugeot,Partner,22563,Männlich
+33,Mercedes,A-Klasse,106412,Männlich
+23,Hyundai,i30,10423,Weiblich
+67,Honda,Accord,28773,Weiblich
+52,Audi,A6,98483,Weiblich
+59,Jeep,Renegade,52530,Weiblich
+48,BMW,2er,105271,Weiblich
+42,Nissan,Navara,18366,Männlich
+72,Subaru,Outback,35087,Weiblich
+70,Mazda,CX-5,31545,Männlich
+38,Opel,Corsa,12550,Weiblich
+65,Mitsubishi,ASX,12464,Männlich
+35,Kia,Niro,22428,Männlich
+29,Toyota,RAV4,20967,Weiblich
+67,Volkswagen,Touareg,68949,Weiblich
+57,Toyota,Yaris,54425,Weiblich
+74,Honda,HR-V,11212,Männlich
+38,Alfa Romeo,Giulietta,34697,Männlich
+66,Audi,A5,56036,Männlich
+42,Ford,Kuga,18720,Weiblich
+22,Volkswagen,Arteon,44135,Weiblich
+31,BMW,i3,112094,Männlich
+37,Toyota,C-HR,16779,Männlich
+38,Mazda,Mazda2,21247,Männlich
+38,Audi,A4,80519,Männlich
+47,Nissan,X-Trail,29079,Weiblich
+80,Ford,Edge,11609,Weiblich
+40,Kia,Seltos,29680,Männlich
+59,Mazda,Mazda3,36055,Weiblich
+44,Jeep,Compass,19734,Weiblich
+71,Porsche,Cayenne,98867,Weiblich
+68,Kia,Niro,24857,Männlich
+66,BMW Motorrad,S1000RR,6118,Weiblich
+24,Opel,Grandland,15213,Männlich
+35,Ford,Fiesta,29429,Weiblich
+68,Alfa Romeo,Giulietta,67646,Weiblich
+29,BMW Motorrad,F900R,19536,Weiblich
+65,BMW,X5,19562,Weiblich
+69,Toyota,RAV4,45168,Männlich
+68,Porsche,Cayenne,131336,Männlich
+32,Hyundai,Tucson,30655,Männlich
+76,Kia,Stonic,38127,Männlich
+18,Tesla,Model S,61604,Weiblich
+57,Tesla,Model 3,72132,Männlich
+71,Tesla,Model X,30028,Männlich
+78,Audi,Q8,47730,Männlich
+41,Ford,Fiesta,39610,Männlich
+78,Ford,Kuga,27851,Weiblich
+52,Volvo,XC60,64777,Männlich
+18,Skoda,Octavia,41564,Männlich
+70,Hyundai,i30,16868,Männlich
+64,Tesla,Model S,76511,Weiblich
+49,Renault,Talisman,18298,Weiblich
+31,Skoda,Kamiq,41654,Männlich
+60,Land Rover,Range Rover,101013,Weiblich
+15,Subaru,Outback,42025,Weiblich
+35,Honda,CR-V,34481,Weiblich
+37,Hyundai,i20,41030,Weiblich
+79,Hyundai,Kona,30295,Männlich
+42,Skoda,Fabia,31845,Männlich
+34,Citroen,C3,16158,Weiblich
+60,Audi,TT,75109,Weiblich
+45,Peugeot,Partner,11976,Männlich
+61,Kia,Seltos,16513,Weiblich
+60,Mercedes,GLC,62907,Weiblich
+30,Skoda,Octavia,18122,Männlich
+64,Opel,Zafira,24073,Weiblich
+43,Jeep,Grand Cherokee,46997,Männlich
+50,Mitsubishi,ASX,23250,Weiblich
+48,Renault,Captur,8595,Weiblich
+57,Mitsubishi,Space Star,33575,Männlich
+34,Porsche,Macan,80105,Weiblich
+37,Honda,Jazz,32497,Weiblich
+19,Subaru,XV,25168,Männlich
+25,Ford,Kuga,36511,Männlich
+73,Nissan,Qashqai,24952,Weiblich
+68,Alfa Romeo,Stelvio,79478,Weiblich
+47,Mitsubishi,ASX,17005,Männlich
+44,Audi,Q5,51580,Weiblich
+23,Audi,A1,57459,Männlich
+32,Volvo,XC60,63756,Männlich
+23,Land Rover,Range Rover,70122,Weiblich
+76,BMW Motorrad,R1250GS,10898,Männlich
+59,Alfa Romeo,MiTo,15413,Männlich
+52,Opel,Insignia,26336,Männlich
+58,Citroen,C5 Aircross,34901,Männlich
+47,Porsche,911,126496,Männlich
+40,Nissan,Juke,14232,Weiblich
+74,Mazda,CX-5,12802,Männlich
+64,Jeep,Grand Cherokee,42323,Weiblich
+27,Subaru,Outback,41739,Weiblich
+15,Opel,Astra,21364,Männlich
+38,Porsche,Panamera,119103,Männlich
+32,Mazda,Mazda6,18728,Männlich
+55,Skoda,Kodiaq,27024,Weiblich
+56,Hyundai,i30,17162,Weiblich
+74,Land Rover,Range Rover,30530,Weiblich
+16,BMW,4er,40545,Weiblich
+63,Kia,Seltos,10015,Männlich
+18,Honda,HR-V,22321,Weiblich
+17,Volkswagen,ID.4,36403,Weiblich
+39,Mitsubishi,L200,15808,Weiblich
+47,Opel,Corsa,22143,Weiblich
+39,Mitsubishi,ASX,27894,Weiblich
+71,Nissan,Navara,44076,Weiblich
+28,BMW Motorrad,R1250GS,7223,Männlich
+55,BMW,X6,45167,Weiblich
+27,Opel,Grandland,14698,Männlich
+36,Porsche,Macan,133234,Weiblich
+74,Honda,HR-V,22509,Weiblich
+50,Tesla,Model Y,41027,Weiblich
+62,Alfa Romeo,Giulia,78485,Männlich
+37,BMW Motorrad,S1000RR,16513,Weiblich
+76,Peugeot,308,7892,Männlich
+41,Mitsubishi,Outlander,36523,Männlich
+43,Alfa Romeo,MiTo,16053,Weiblich
+28,Nissan,Navara,38664,Männlich
+22,Nissan,Leaf,46900,Männlich
+37,Mitsubishi,L200,35938,Weiblich
+76,Subaru,Forester,16944,Männlich
+62,Porsche,Taycan,98653,Weiblich
+42,Mitsubishi,Outlander,14697,Weiblich
+58,Nissan,Micra,23197,Weiblich
+21,Mazda,CX-5,13896,Weiblich
+62,Jeep,Compass,23535,Männlich
+71,BMW Motorrad,R1250GS,14087,Männlich
+47,Honda,Accord,13140,Weiblich
+39,Porsche,911,163295,Männlich
+56,Volkswagen,Tiguan,35651,Weiblich
+68,Mazda,Mazda3,14698,Männlich
+53,Hyundai,i30,32971,Weiblich
+27,Mazda,Mazda6,20880,Männlich
+26,Volvo,XC90,29498,Männlich
+67,Audi,A6,44950,Weiblich
+19,Mazda,Mazda6,28447,Weiblich
+79,Peugeot,3008,25532,Weiblich
+55,Ford,Focus,23071,Männlich
+72,Tesla,Model Y,48866,Weiblich
+39,BMW Motorrad,F900R,6787,Männlich
+45,Mazda,Mazda6,20716,Weiblich
+47,Jeep,Compass,18220,Männlich
+66,Renault,Captur,25601,Weiblich
+44,Porsche,911,102969,Männlich
+50,BMW Motorrad,S1000RR,22683,Weiblich
+56,Tesla,Model X,50731,Männlich
+40,Mitsubishi,L200,32215,Weiblich
+42,Subaru,Forester,39303,Weiblich
+34,Citroen,C3 Aircross,26591,Weiblich
+42,Hyundai,Santa Fe,17083,Weiblich
+22,Citroen,C5 Aircross,34074,Männlich
+39,Volvo,XC90,15079,Weiblich
+15,Mitsubishi,Outlander,9044,Männlich
+39,Land Rover,Range Rover,78831,Weiblich
+38,Skoda,Octavia,19724,Männlich
+68,Jeep,Grand Cherokee,57217,Weiblich
+52,Opel,Mokka,8552,Weiblich
+23,Audi,Q5,107661,Männlich
+67,Mazda,Mazda3,25300,Männlich
+15,Ford,Focus,33853,Weiblich
+49,Jeep,Renegade,57196,Männlich
+17,BMW,4er,102126,Männlich
+64,Land Rover,Range Rover,72788,Weiblich
+27,BMW Motorrad,R1200GS,6383,Weiblich
+37,Hyundai,Kona,26561,Weiblich
+49,Mazda,Mazda6,33207,Weiblich
+26,Land Rover,Defender,27197,Männlich
+61,Tesla,Model S,71007,Männlich
+29,BMW,5er,114207,Männlich
+24,Mazda,CX-5,21965,Männlich
+69,Mitsubishi,Outlander,8408,Weiblich
+60,Jeep,Renegade,46802,Männlich
+45,Alfa Romeo,Giulia,51885,Männlich
+59,Mazda,Mazda2,33863,Männlich
+56,Skoda,Octavia,30063,Weiblich
+35,Citroen,C5 Aircross,6005,Männlich
+38,Ford,Mondeo,8492,Weiblich
+23,BMW Motorrad,R1250GS,13680,Männlich
+57,Mercedes,GLA,80893,Weiblich
+34,Alfa Romeo,Giulietta,71191,Weiblich
+62,Renault,Koleos,32024,Weiblich
+72,Porsche,Cayenne,128753,Männlich
+36,Jeep,Grand Cherokee,41134,Männlich
+77,Skoda,Kamiq,11143,Weiblich
+26,Nissan,Qashqai,13955,Weiblich
+78,Renault,Kadjar,8579,Männlich
+34,Tesla,Model Y,69404,Männlich
+51,Mazda,Mazda6,21798,Männlich
+63,Peugeot,308,18433,Weiblich
+72,Subaru,Impreza,17201,Weiblich
+26,BMW Motorrad,R1250GS,13721,Weiblich
+30,Skoda,Octavia,24011,Weiblich
+43,Mazda,CX-5,29256,Männlich
+64,Volvo,XC90,73220,Weiblich
+26,Volvo,V90,34186,Männlich
+49,Kia,Niro,26185,Weiblich
+70,Subaru,Forester,14236,Männlich
+50,Land Rover,Evoque,44456,Männlich
+56,BMW Motorrad,R1200GS,6658,Weiblich
+16,BMW,5er,119526,Weiblich
+30,Porsche,Cayenne,152974,Männlich
+20,Toyota,Corolla,12513,Männlich
+47,Audi,Q8,21333,Männlich
+43,Ford,Edge,15615,Männlich
+73,Kia,Ceed,29942,Weiblich
+59,Volkswagen,Sharan,68641,Männlich
+54,Ford,Mondeo,13811,Weiblich
+17,Honda,Jazz,29703,Weiblich
+33,Porsche,Macan,132317,Männlich
+55,BMW,X5,46872,Weiblich
+77,Mercedes,S-Klasse,67098,Weiblich
+37,Ford,Kuga,18099,Weiblich
+59,Land Rover,Evoque,66998,Männlich
+36,Mercedes,AMG GT,121152,Weiblich
+35,Peugeot,Partner,22865,Männlich
+67,Audi,R8,49014,Weiblich
+66,Volvo,S60,17935,Weiblich
+57,Mitsubishi,L200,37024,Weiblich
+16,Alfa Romeo,MiTo,73358,Weiblich
+38,Alfa Romeo,Giulietta,72560,Männlich
+35,Jeep,Grand Cherokee,63952,Weiblich
+44,Kia,Ceed,26042,Männlich
+23,Volvo,V90,51939,Weiblich
+30,BMW,4er,88425,Männlich
+19,Hyundai,Tucson,25029,Männlich
+69,Volkswagen,Arteon,27361,Männlich
+41,Jeep,Renegade,30308,Männlich
+68,Mitsubishi,L200,19464,Weiblich
+45,Skoda,Kamiq,13503,Männlich
+24,Kia,Seltos,32865,Weiblich
+71,Toyota,C-HR,18140,Männlich
+47,Ford,Mondeo,21789,Weiblich
+30,Toyota,Corolla,48130,Männlich
+32,BMW,1er,114573,Männlich
+74,Citroen,C4,10518,Weiblich
+43,Nissan,Leaf,34999,Weiblich
+77,Ford,Kuga,22429,Weiblich
+28,Ford,Kuga,10374,Männlich
+59,Volkswagen,Arteon,48076,Weiblich
+70,BMW Motorrad,F900R,13749,Weiblich
+41,Volkswagen,Tiguan,48516,Männlich
+55,Audi,A5,34157,Weiblich
+35,Opel,Astra,25851,Weiblich
+74,Volkswagen,Arteon,20271,Männlich
+20,Volkswagen,Tiguan,44492,Männlich
+36,BMW Motorrad,R1200GS,13869,Männlich
+74,Mitsubishi,L200,13856,Weiblich
+77,Peugeot,508,23529,Weiblich
+28,Toyota,C-HR,14783,Weiblich
+41,Volkswagen,ID.4,57667,Männlich
+36,Skoda,Fabia,32590,Männlich
+73,Nissan,Leaf,12576,Männlich
+53,Peugeot,308,9392,Weiblich
+71,Peugeot,5008,24313,Männlich
+42,Subaru,Forester,17423,Weiblich
+59,Nissan,Leaf,10094,Männlich
+32,Mazda,Mazda3,31599,Weiblich
+71,BMW,3er,87595,Männlich
+25,Land Rover,Evoque,25658,Weiblich
+74,Honda,HR-V,15916,Männlich
+70,BMW,3er,85102,Männlich
+69,Tesla,Model 3,61732,Weiblich
+23,Hyundai,i10,33078,Männlich
+75,Kia,Stonic,28754,Männlich
+63,Citroen,C3,23791,Männlich
+18,Ford,Kuga,35187,Männlich
+19,Citroen,C5,23300,Männlich
+53,Jeep,Compass,27754,Weiblich
+44,Citroen,C3 Aircross,29764,Männlich
+15,Volkswagen,Arteon,46610,Männlich
+15,BMW,X6,28846,Weiblich
+44,Volkswagen,ID.4,43323,Männlich
+40,Peugeot,Partner,10235,Männlich
+18,BMW Motorrad,R1250GS,20646,Weiblich
+51,Audi,A7,107662,Männlich
+54,Opel,Zafira,19511,Männlich
+72,Nissan,X-Trail,40257,Weiblich
+50,Skoda,Superb,26314,Männlich
+24,Jeep,Wrangler,44248,Männlich
+46,Volvo,V90,17322,Weiblich
+23,Toyota,Camry,42918,Weiblich
+77,Toyota,Corolla,52837,Männlich
+35,Mazda,Mazda3,18341,Weiblich
+33,Citroen,C4,23014,Männlich
+39,Skoda,Superb,41108,Männlich
+59,Jeep,Cherokee,16232,Weiblich
+16,BMW Motorrad,R1200GS,7435,Weiblich
+57,Volkswagen,Polo,21796,Weiblich
+75,Honda,Jazz,14614,Weiblich
+20,Opel,Grandland,15246,Weiblich
+28,Jeep,Grand Cherokee,19551,Männlich
+57,Mercedes,E-Klasse,62659,Weiblich
+15,Ford,Edge,10803,Männlich
+44,BMW,X5,53124,Weiblich
+49,Honda,Jazz,32903,Männlich
+76,Honda,Jazz,25256,Weiblich
+19,Audi,TT,82725,Weiblich
+78,Toyota,Camry,31163,Männlich
+30,Mercedes,V-Klasse,51634,Männlich
+71,Volkswagen,ID.3,26514,Männlich
+20,Honda,Civic,28565,Weiblich
+15,Honda,CR-V,14160,Männlich
+53,BMW,3er,58759,Männlich
+53,Tesla,Model Y,32766,Männlich
+25,Porsche,Taycan,172743,Männlich
+49,Porsche,Cayenne,102230,Männlich
+74,Volvo,S60,73418,Weiblich
+15,Opel,Mokka,29021,Männlich
+48,Mitsubishi,Outlander,12586,Weiblich
+22,Citroen,C4,28177,Weiblich
+65,Subaru,Outback,15498,Weiblich
+32,Opel,Astra,10295,Männlich
+55,BMW Motorrad,F900R,10821,Männlich
+28,Citroen,C3,15559,Weiblich
+59,Volkswagen,Polo,27901,Männlich
+28,Honda,Accord,28264,Männlich
+79,Kia,Seltos,30146,Weiblich
+19,Volvo,V90,39999,Weiblich
+33,Kia,Rio,22352,Männlich
+51,Volvo,XC90,48009,Männlich
+51,Honda,Jazz,25649,Weiblich
+20,Ford,Kuga,11449,Männlich
+77,Audi,Q7,72274,Weiblich
+49,Skoda,Kodiaq,10849,Männlich
+79,Jeep,Compass,56414,Weiblich
+62,Mitsubishi,Space Star,19483,Weiblich
+65,BMW Motorrad,S1000RR,13720,Männlich
+50,Mitsubishi,Outlander,17482,Weiblich
+22,Renault,Megane,5770,Weiblich
+42,Ford,Mondeo,17787,Weiblich
+31,BMW Motorrad,F900R,24879,Männlich
+36,Honda,HR-V,28069,Weiblich
+73,Nissan,Micra,41244,Weiblich
+79,Toyota,Land Cruiser,30154,Weiblich
+69,Mazda,Mazda3,37926,Männlich
+60,Skoda,Fabia,37051,Männlich
+62,Citroen,C4,27044,Weiblich
+60,Renault,Clio,31369,Weiblich
+43,Hyundai,i10,41412,Männlich
+74,Mercedes,C-Klasse,83745,Männlich
+61,Mercedes,C-Klasse,75801,Weiblich
+63,Land Rover,Evoque,39849,Männlich
+60,Tesla,Model S,48432,Männlich
+30,Jeep,Grand Cherokee,47168,Weiblich
+69,Opel,Grandland,12763,Weiblich
+43,BMW,i3,28971,Männlich
+62,Land Rover,Evoque,58816,Weiblich
+50,Audi,Q8,21205,Männlich
+21,Jeep,Renegade,28426,Weiblich
+28,Land Rover,Defender,33921,Männlich
+22,Audi,Q5,105899,Weiblich
+28,Mercedes,B-Klasse,24449,Männlich
+76,Mitsubishi,L200,24859,Männlich
+22,Jeep,Renegade,63859,Männlich
+18,Toyota,Camry,29561,Männlich
+16,Renault,Clio,12960,Männlich
+39,Land Rover,Evoque,26305,Weiblich
+53,Kia,Seltos,11366,Weiblich
+38,Ford,Edge,15294,Männlich
+53,Tesla,Model X,35355,Männlich
+32,Citroen,C4,19962,Weiblich
+56,Porsche,Cayenne,67244,Männlich
+57,Tesla,Model S,79655,Männlich
+15,Citroen,C5,29675,Weiblich
+50,Hyundai,Nexo,36058,Männlich
+16,Subaru,Forester,30771,Weiblich
+22,Mitsubishi,ASX,12951,Weiblich
+56,Citroen,C5 Aircross,19351,Männlich
+35,Citroen,C4,10236,Männlich
+34,Renault,Talisman,7816,Weiblich
+45,Mitsubishi,Space Star,13911,Männlich
+68,BMW Motorrad,S1000RR,15544,Weiblich
+57,Kia,Seltos,16894,Weiblich
+15,Subaru,XV,42684,Weiblich
+34,Nissan,Qashqai,17328,Männlich
+27,Honda,Accord,30615,Weiblich
+52,Kia,Rio,8804,Männlich
+58,Citroen,C3,16185,Männlich
+35,Peugeot,5008,22177,Weiblich
+56,Ford,Kuga,20112,Weiblich
+54,BMW Motorrad,R1250GS,9553,Männlich
+27,Ford,Mondeo,39464,Weiblich
+48,Audi,R8,77000,Weiblich
+71,Audi,A5,33403,Weiblich
+65,Hyundai,Kona,15003,Weiblich
+55,Volvo,XC90,57030,Männlich
+57,Skoda,Superb,13890,Männlich
+71,Kia,Stonic,36167,Männlich
+42,BMW,5er,101380,Weiblich
+50,Toyota,Land Cruiser,10041,Männlich
+29,Porsche,Macan,134362,Männlich
+76,Volkswagen,Sharan,20110,Weiblich
+27,Audi,Q3,60304,Männlich
+20,BMW,7er,89193,Männlich
+57,Ford,Mustang,18918,Männlich
+36,Hyundai,Nexo,23187,Weiblich
+62,Ford,Fiesta,13464,Männlich
+39,Nissan,Juke,32617,Männlich
+51,Renault,Megane,17257,Weiblich
+23,Ford,Kuga,32071,Weiblich
+43,Volkswagen,Touareg,51788,Männlich
+30,Alfa Romeo,Giulia,35494,Männlich
+23,Kia,Stonic,36322,Männlich
+16,Audi,A4,95810,Männlich
+43,Land Rover,Evoque,67921,Männlich
+18,Volkswagen,Golf,22558,Männlich
+78,Subaru,XV,39107,Weiblich
+66,Volvo,S60,75610,Männlich
+56,Peugeot,308,19812,Männlich
+67,Tesla,Model S,29728,Weiblich
+33,Citroen,C3 Aircross,19690,Weiblich
+78,Volkswagen,Tiguan,31949,Weiblich
+38,BMW,i4,87080,Männlich
+78,Peugeot,Partner,9673,Weiblich
+25,Jeep,Renegade,17620,Weiblich
+51,BMW,i3,35009,Männlich
+31,BMW,i4,40862,Weiblich
+42,Peugeot,308,15093,Weiblich
+53,Volkswagen,Touareg,43477,Weiblich
+73,Toyota,Corolla,10362,Weiblich
+72,Ford,Focus,13565,Weiblich
+21,Hyundai,i30,34294,Männlich
+63,Toyota,Camry,47601,Weiblich
+27,Peugeot,Partner,7147,Weiblich
+57,Honda,CR-V,17368,Weiblich
+44,Ford,Mustang,19492,Weiblich
+28,Mitsubishi,L200,33033,Weiblich
+57,Hyundai,Santa Fe,39898,Weiblich
+46,Opel,Corsa,28667,Männlich
+24,Honda,CR-V,27774,Männlich
+67,BMW,5er,21622,Männlich
+45,Land Rover,Defender,55620,Weiblich
+62,Ford,Mustang,31973,Weiblich
+57,Mazda,Mazda3,37836,Männlich
+30,Ford,Mustang,33947,Weiblich
+20,Opel,Corsa,17446,Weiblich
+26,Audi,A5,22176,Weiblich
+70,Audi,Q3,81447,Männlich
+20,Mitsubishi,L200,12409,Weiblich
+48,Volkswagen,Passat,17437,Männlich
+37,BMW,1er,53631,Weiblich
+78,Opel,Grandland,11680,Weiblich
+42,Honda,CR-V,22664,Männlich
+74,Toyota,Corolla,18346,Weiblich
+62,Subaru,Impreza,29940,Weiblich
+67,Porsche,Panamera,121173,Weiblich
+23,Subaru,Forester,37148,Männlich
+29,Land Rover,Evoque,107788,Männlich
+62,Hyundai,i10,41701,Weiblich
+80,Audi,Q3,92498,Weiblich
+17,Toyota,RAV4,46380,Männlich
+68,Tesla,Model S,68908,Männlich
+60,Subaru,Impreza,15752,Weiblich
+26,Toyota,Camry,47902,Männlich
+78,Skoda,Superb,30165,Weiblich
+67,Hyundai,Tucson,40792,Weiblich
+46,Nissan,X-Trail,28045,Weiblich
+20,Hyundai,Santa Fe,11224,Männlich
+37,Skoda,Octavia,24281,Weiblich
+17,Alfa Romeo,MiTo,59142,Männlich
+31,Mercedes,C-Klasse,95796,Weiblich
+20,Tesla,Model Y,38930,Männlich
+39,Toyota,RAV4,16148,Männlich
+55,Toyota,Camry,14178,Männlich
+40,Alfa Romeo,Giulietta,18823,Weiblich
+58,Citroen,C4,34496,Männlich
+71,Skoda,Scala,39730,Männlich
+51,Nissan,Micra,37584,Weiblich
+37,Skoda,Scala,26263,Männlich
+69,Renault,Koleos,25315,Weiblich
+78,Kia,Seltos,44254,Weiblich
+41,BMW,5er,77392,Weiblich
+67,Kia,Rio,18880,Männlich
+55,Volvo,XC60,73773,Männlich
+57,Alfa Romeo,Giulietta,53723,Weiblich
+78,Tesla,Model 3,51496,Weiblich
+36,Land Rover,Range Rover,29104,Männlich
+59,Volkswagen,Touareg,60143,Weiblich
+66,Volvo,XC40,68356,Männlich
+40,Opel,Corsa,15285,Weiblich
+56,Alfa Romeo,Giulia,64744,Weiblich
+24,Alfa Romeo,Stelvio,53768,Weiblich
+49,Audi,TT,106100,Männlich
+49,Nissan,X-Trail,18982,Männlich
+32,Renault,Megane,5660,Weiblich
+77,BMW Motorrad,R1250GS,22669,Männlich
+78,Subaru,XV,15681,Männlich
+23,Kia,Rio,25770,Männlich
+65,Volvo,XC60,72569,Männlich
+39,Volvo,XC60,47045,Männlich
+45,Tesla,Model S,74880,Männlich
+22,Peugeot,Partner,17705,Weiblich
+19,Tesla,Model Y,43898,Männlich
+45,Hyundai,Kona,32399,Weiblich
+19,Hyundai,Santa Fe,25330,Weiblich
+43,Renault,Captur,32779,Männlich
+75,Porsche,Taycan,152555,Weiblich
+72,Volkswagen,ID.4,52459,Männlich
+27,Volkswagen,ID.3,14287,Weiblich
+31,Peugeot,5008,20235,Weiblich
+19,Porsche,911,70221,Weiblich
+57,Opel,Zafira,19890,Weiblich
+68,Jeep,Grand Cherokee,22037,Männlich
+64,Skoda,Superb,23483,Weiblich
+34,Kia,Niro,9726,Männlich
+31,Mitsubishi,L200,31480,Weiblich
+68,BMW Motorrad,F900R,19310,Männlich
+31,Renault,Kadjar,18313,Weiblich
+40,BMW Motorrad,R1250GS,5101,Männlich
+34,Mazda,CX-5,16740,Männlich
+37,BMW,i4,93459,Männlich
+15,Nissan,X-Trail,37483,Männlich
+73,Tesla,Model 3,63114,Männlich
+29,Jeep,Renegade,36633,Weiblich
+28,Volkswagen,Touran,43943,Männlich
+80,Ford,Edge,13518,Männlich
+74,Hyundai,Tucson,38254,Weiblich
+38,Volvo,V90,66032,Männlich
+58,Renault,Kadjar,21873,Männlich
+62,Porsche,Taycan,167234,Männlich
+56,Tesla,Model Y,73238,Männlich
+41,Subaru,Forester,18502,Weiblich
+67,Land Rover,Defender,95682,Weiblich
+80,Mercedes,GLC,115297,Männlich
+40,Toyota,Yaris,34190,Weiblich
+25,Jeep,Grand Cherokee,39181,Weiblich
+58,Alfa Romeo,Stelvio,48479,Weiblich
+37,Audi,TT,91940,Weiblich
+20,Nissan,Qashqai,21868,Weiblich
+65,Mercedes,A-Klasse,78523,Männlich
+56,Kia,Sportage,30477,Weiblich
+17,Skoda,Kamiq,33733,Männlich
+60,Jeep,Compass,38018,Männlich
+71,Tesla,Model S,28442,Weiblich
+23,Skoda,Scala,10405,Männlich
+44,Audi,Q8,52864,Weiblich
+24,Toyota,Land Cruiser,34989,Männlich
+46,Hyundai,i20,13106,Männlich
+29,Citroen,C5,10417,Weiblich
+44,Volvo,XC40,51148,Männlich
+34,BMW Motorrad,R1250GS,24380,Männlich
+22,Hyundai,i30,26145,Männlich
+76,Volvo,V90,19641,Weiblich
+73,Peugeot,208,24867,Weiblich
+76,Audi,A5,91692,Weiblich
+44,Subaru,XV,36279,Weiblich
+63,Honda,Accord,10078,Weiblich
+55,Volkswagen,Polo,43860,Männlich
+18,Mazda,Mazda3,15887,Männlich
+20,Peugeot,208,26102,Männlich
+25,Citroen,C5 Aircross,20246,Weiblich
+38,Volkswagen,Sharan,31642,Weiblich
+60,Opel,Grandland,12948,Weiblich
+29,Tesla,Model X,54572,Männlich
+49,Citroen,C3 Aircross,15598,Weiblich
+50,Alfa Romeo,Giulia,67564,Weiblich
+36,Skoda,Superb,42906,Weiblich
+35,Kia,Seltos,16292,Männlich
+49,Skoda,Fabia,26636,Weiblich
+22,Citroen,C5,34438,Weiblich
+79,Hyundai,Santa Fe,19053,Weiblich
+39,Subaru,XV,11307,Weiblich
+45,Audi,A8,84753,Weiblich
+39,Hyundai,Tucson,12939,Männlich
+32,Peugeot,208,10062,Männlich
+23,Skoda,Kodiaq,29077,Männlich
+62,Nissan,X-Trail,25817,Männlich
+20,Kia,Ceed,10344,Männlich
+74,Mitsubishi,ASX,18394,Weiblich
+52,Porsche,Macan,114947,Weiblich
+42,BMW Motorrad,R1250GS,19924,Weiblich
+25,Citroen,C5,17207,Männlich
+74,Citroen,C5 Aircross,27722,Weiblich
+60,Skoda,Superb,35427,Männlich
+24,Jeep,Renegade,27085,Männlich
+39,BMW,i3,116797,Weiblich
+40,Volkswagen,Passat,24582,Männlich
+78,Hyundai,i10,21010,Weiblich
+44,Audi,Q3,16238,Weiblich
+71,Hyundai,Tucson,30368,Männlich
+36,Nissan,Qashqai,8578,Männlich
+52,BMW Motorrad,R1250GS,12674,Männlich
+17,Land Rover,Range Rover,65518,Weiblich
+73,Volvo,XC40,58286,Männlich
+57,Toyota,Corolla,16874,Männlich
+74,Jeep,Cherokee,44287,Männlich
+21,Opel,Corsa,12089,Weiblich
+41,Honda,Accord,29051,Weiblich
+80,Skoda,Kamiq,36888,Männlich
+80,Volkswagen,Polo,27537,Weiblich
+23,BMW Motorrad,R1200GS,12296,Männlich
+24,Hyundai,Nexo,35074,Weiblich
+57,Volvo,XC40,60217,Weiblich
+60,Citroen,C5 Aircross,24000,Männlich
+30,Hyundai,Santa Fe,11761,Männlich
+68,Volkswagen,Touran,20589,Weiblich
+73,Mitsubishi,Outlander,31598,Weiblich
+40,Volvo,XC90,22463,Männlich
+59,Land Rover,Range Rover,25140,Männlich
+79,Tesla,Model Y,70830,Männlich
+39,Mazda,Mazda2,13466,Männlich
+20,BMW,5er,81354,Weiblich
+32,Volkswagen,Touareg,59785,Weiblich
+36,Volkswagen,Touareg,16353,Weiblich
+58,Porsche,Taycan,107425,Männlich
+22,BMW,X3,43876,Männlich
+73,Land Rover,Discovery,57231,Weiblich
+36,Hyundai,Nexo,24443,Männlich
+65,Opel,Corsa,23046,Weiblich
+23,Alfa Romeo,Giulietta,46856,Weiblich
+64,Tesla,Model Y,50759,Weiblich
+41,Alfa Romeo,Stelvio,48330,Weiblich
+61,Jeep,Wrangler,60335,Weiblich
+66,Opel,Mokka,18615,Männlich
+59,BMW,7er,90149,Weiblich
+61,Volvo,S60,66834,Weiblich
+66,Renault,Kadjar,8547,Weiblich
+16,Porsche,911,153332,Männlich
+46,Alfa Romeo,Stelvio,42059,Weiblich
+78,Kia,Stonic,39091,Weiblich
+69,Citroen,C3,14608,Weiblich
+53,Skoda,Superb,38952,Weiblich
+61,Audi,Q5,96783,Weiblich
+49,Opel,Mokka,16603,Männlich
+19,Volvo,XC90,23421,Männlich
+74,Alfa Romeo,Giulia,31632,Männlich
+46,BMW,4er,101226,Männlich
+23,Ford,Focus,16375,Weiblich
+72,BMW,i4,114911,Weiblich
+55,BMW,7er,99276,Weiblich
+53,Toyota,Camry,17420,Männlich
+75,Opel,Grandland,15442,Männlich
+34,Jeep,Renegade,27718,Männlich
+62,Toyota,C-HR,50958,Weiblich
+68,Nissan,Leaf,25039,Männlich
+63,Hyundai,Kona,32404,Weiblich
+30,Renault,Kadjar,23615,Weiblich
+49,Skoda,Superb,43216,Männlich
+56,Citroen,C4,19137,Männlich
+77,Peugeot,3008,9171,Weiblich
+19,Citroen,C3,5895,Weiblich
+63,Mitsubishi,L200,9218,Weiblich
+54,Volkswagen,Sharan,50949,Männlich
+75,BMW Motorrad,F900R,22612,Weiblich
+26,Volvo,XC60,32347,Weiblich
+49,Opel,Insignia,29652,Männlich
+46,Mercedes,AMG GT,109289,Männlich
+71,Toyota,C-HR,12101,Weiblich
+31,Mazda,Mazda3,20609,Weiblich
+69,Subaru,Forester,25697,Weiblich
+63,Audi,A7,87900,Weiblich
+51,Skoda,Octavia,43618,Weiblich
+15,Land Rover,Range Rover,42060,Weiblich
+31,BMW Motorrad,R1250GS,8905,Männlich
+51,Toyota,C-HR,31923,Männlich
+71,Porsche,911,73682,Männlich
+31,Nissan,Micra,19613,Männlich
+15,BMW Motorrad,F900R,8034,Männlich
+74,Volkswagen,ID.3,17877,Weiblich
+53,Mercedes,GLE,105039,Männlich
+17,Peugeot,Partner,11205,Männlich
+79,Hyundai,i20,10093,Weiblich
+19,Hyundai,i10,25835,Weiblich
+53,Mitsubishi,ASX,8599,Männlich
+33,Subaru,XV,21194,Weiblich
+32,Ford,Mustang,21611,Weiblich
+49,Subaru,XV,43065,Männlich
+22,Peugeot,508,14934,Männlich
+61,Honda,CR-V,21971,Weiblich
+25,Mazda,Mazda6,34150,Männlich
+70,Mitsubishi,L200,30243,Männlich
+32,Volkswagen,Touareg,55278,Weiblich
+48,Ford,Mustang,17276,Männlich
+22,Mercedes,B-Klasse,47931,Männlich
+65,Ford,Edge,11781,Männlich
+53,Alfa Romeo,Stelvio,34366,Männlich
+80,Mitsubishi,L200,16988,Weiblich
+45,Audi,A7,16287,Männlich
+15,BMW Motorrad,S1000RR,24933,Weiblich
+42,Ford,Fiesta,36048,Männlich
+66,Opel,Mokka,20588,Weiblich
+49,Nissan,Juke,31499,Männlich
+59,BMW,X1,34656,Männlich
+76,Peugeot,308,22185,Weiblich
+74,Toyota,RAV4,15762,Männlich
+80,Ford,Kuga,25560,Weiblich
+46,Volkswagen,Touareg,17935,Männlich
+71,Hyundai,Kona,13066,Männlich
+69,BMW Motorrad,R1200GS,21587,Weiblich
+72,Land Rover,Range Rover,78079,Weiblich
+47,Toyota,Corolla,29545,Männlich
+73,Jeep,Grand Cherokee,52898,Weiblich
+49,Kia,Niro,37085,Weiblich
+49,Hyundai,Nexo,16725,Weiblich
+67,Alfa Romeo,MiTo,29812,Weiblich
+35,Subaru,XV,39506,Weiblich
+51,Porsche,Panamera,52960,Männlich
+67,Volvo,S60,77161,Männlich
+33,Kia,Niro,35001,Weiblich
+51,Hyundai,i30,11525,Weiblich
+17,Volvo,XC60,54842,Weiblich
+66,Tesla,Model Y,40948,Weiblich
+75,BMW,2er,91109,Weiblich
+26,Volvo,S60,42659,Männlich
+23,Ford,Fiesta,8384,Weiblich
+28,Volvo,XC60,39781,Männlich
+40,Ford,Mustang,9436,Weiblich
+61,Volvo,S60,37464,Weiblich
+43,Nissan,Micra,23476,Männlich
+43,Opel,Insignia,16510,Weiblich
+21,Volkswagen,Arteon,23184,Männlich
+52,BMW,X3,31181,Männlich
+74,Land Rover,Discovery,79801,Männlich
+27,Mercedes,V-Klasse,26311,Männlich
+48,Nissan,Qashqai,44730,Weiblich
+31,Porsche,Macan,112344,Männlich
+54,BMW,X1,84607,Männlich
+19,Hyundai,i30,30021,Männlich
+34,Volkswagen,Passat,23537,Männlich
+60,Renault,Megane,19502,Männlich
+18,Tesla,Model Y,42036,Weiblich
+23,Hyundai,Kona,35359,Männlich
+51,Toyota,Camry,52825,Weiblich
+80,Skoda,Kodiaq,31964,Männlich
+40,BMW,X6,34554,Weiblich
+75,Jeep,Compass,69146,Männlich
+18,Kia,Sportage,17285,Weiblich
+47,Mitsubishi,Outlander,12596,Männlich
+52,BMW,X3,30859,Weiblich
+27,Kia,Seltos,33338,Weiblich
+54,Peugeot,208,24246,Weiblich
+37,Volvo,XC60,78847,Weiblich
+47,Ford,Edge,31521,Weiblich
+79,Honda,HR-V,16967,Weiblich
+71,Jeep,Compass,49806,Weiblich
+19,Land Rover,Defender,93836,Männlich
+24,Alfa Romeo,Giulia,27344,Weiblich
+43,Volvo,V90,53041,Männlich
+70,Land Rover,Range Rover,102682,Weiblich
+42,Land Rover,Evoque,99821,Männlich
+17,Porsche,911,70548,Männlich
+17,Porsche,Panamera,154471,Weiblich
+51,Alfa Romeo,Giulia,57112,Männlich
+31,Land Rover,Defender,66587,Weiblich
+17,Nissan,Navara,20523,Weiblich
+55,Opel,Mokka,18725,Weiblich
+60,Hyundai,Santa Fe,30080,Weiblich
+64,BMW Motorrad,R1200GS,13262,Männlich
+36,Honda,CR-V,26566,Weiblich
+63,Land Rover,Range Rover,87751,Männlich
+38,Mercedes,E-Klasse,136344,Weiblich
+62,Toyota,Camry,29282,Weiblich
+62,Citroen,C5,10505,Männlich
+33,Peugeot,508,23759,Männlich
+80,Audi,A5,41134,Männlich
+65,Renault,Kadjar,18492,Weiblich
+41,Peugeot,208,21790,Weiblich
+62,Kia,Niro,22519,Weiblich
+48,Land Rover,Evoque,91521,Weiblich
+57,Hyundai,Santa Fe,26576,Männlich
+73,Audi,Q3,102024,Weiblich
+77,Tesla,Model 3,47482,Weiblich
+41,Tesla,Model 3,79117,Weiblich
+52,Porsche,Taycan,123645,Weiblich
+28,Porsche,Panamera,59194,Männlich
+65,Kia,Rio,38690,Weiblich
+19,Land Rover,Defender,39347,Weiblich
+71,Toyota,Corolla,49098,Männlich
+53,Mazda,Mazda2,18683,Weiblich
+72,Citroen,C3,16478,Männlich
+79,Toyota,Corolla,49454,Männlich
+31,Mitsubishi,Space Star,32871,Männlich
+42,Volvo,XC90,73284,Männlich
+50,Renault,Kadjar,27709,Weiblich
+41,Subaru,Forester,39575,Weiblich
+23,Subaru,Outback,17428,Männlich
+26,Mercedes,AMG GT,95014,Männlich
+39,Renault,Talisman,17353,Weiblich
+38,Opel,Mokka,19396,Männlich
+38,Mazda,Mazda6,23175,Weiblich
+25,BMW,7er,47365,Weiblich
+76,BMW Motorrad,F900R,15750,Weiblich
+20,Porsche,911,125447,Männlich
+27,Mercedes,V-Klasse,95222,Weiblich
+36,Honda,Civic,34110,Weiblich
+50,Land Rover,Range Rover,101676,Weiblich
+33,Mercedes,GLE,20024,Weiblich
+40,Citroen,C3,28224,Weiblich
+68,Hyundai,i30,41940,Weiblich
+56,Land Rover,Defender,54523,Weiblich
+32,Mazda,Mazda3,20590,Männlich
+71,Porsche,Cayenne,63770,Weiblich
+39,Mercedes,GLS,94352,Männlich
+76,Toyota,Yaris,32034,Weiblich
+35,Volvo,V90,60557,Männlich
+54,Renault,Clio,28066,Männlich
+25,Citroen,C5 Aircross,23238,Männlich
+33,Toyota,C-HR,13574,Männlich
+20,Jeep,Grand Cherokee,26597,Männlich
+43,Volkswagen,Polo,33486,Weiblich
+31,Subaru,Impreza,29672,Weiblich
+67,Land Rover,Discovery,66001,Weiblich
+50,BMW,Z4,73150,Männlich
+44,Tesla,Model S,64431,Männlich
+17,Renault,Megane,22507,Weiblich
+56,Subaru,Outback,12408,Weiblich
+56,Alfa Romeo,MiTo,67928,Männlich
+50,Skoda,Kodiaq,15990,Männlich
+47,Toyota,RAV4,12232,Männlich
+58,Volvo,XC40,18985,Weiblich
+50,Peugeot,3008,12145,Männlich
+73,Land Rover,Evoque,64327,Männlich
+41,Subaru,Impreza,20567,Weiblich
+54,BMW Motorrad,R1200GS,10600,Weiblich
+70,BMW Motorrad,R1250GS,11189,Männlich
+73,Mitsubishi,L200,30196,Männlich
+23,Volvo,XC40,39115,Weiblich
+29,Jeep,Compass,30154,Männlich
+63,Opel,Insignia,12838,Männlich
+36,Hyundai,Nexo,34028,Männlich
+72,Skoda,Kodiaq,17428,Weiblich
+65,Land Rover,Range Rover,52924,Männlich
+71,Kia,Seltos,23950,Männlich
+53,Jeep,Compass,25307,Weiblich
+46,Skoda,Kamiq,43815,Weiblich
+42,Mitsubishi,Space Star,30741,Weiblich
+76,Toyota,C-HR,39752,Weiblich
+32,Opel,Astra,20575,Männlich
+74,Volvo,XC60,35438,Männlich
+73,Audi,A6,71518,Weiblich
+15,Hyundai,Kona,35256,Weiblich
+56,Hyundai,Nexo,10648,Männlich
+24,Audi,A6,90195,Weiblich
+37,Tesla,Model X,59783,Weiblich
+57,Skoda,Superb,40909,Weiblich
+47,Land Rover,Defender,42454,Männlich
+41,Subaru,Outback,30548,Männlich
+15,Tesla,Model 3,26560,Männlich
+66,Peugeot,508,6165,Männlich
+37,Porsche,Macan,120600,Weiblich
+80,Hyundai,Kona,20353,Weiblich
+75,BMW,7er,119177,Weiblich
+44,Peugeot,5008,27060,Weiblich
+68,Citroen,C3,19992,Männlich
+40,Opel,Zafira,27573,Weiblich
+39,Audi,A4,15408,Männlich
+22,Ford,Fiesta,15749,Männlich
+49,Jeep,Renegade,53532,Männlich
+69,Honda,Jazz,28053,Weiblich
+59,Honda,Civic,8348,Männlich
+55,Hyundai,Nexo,16500,Weiblich
+25,Hyundai,Kona,34307,Weiblich
+15,Ford,Kuga,15603,Männlich
+72,Mitsubishi,Space Star,20091,Weiblich
+20,Kia,Niro,13110,Weiblich
+40,Hyundai,Tucson,18262,Weiblich
+56,Volvo,XC40,48069,Weiblich
+17,Volvo,S60,51898,Männlich
+44,Toyota,Corolla,28272,Männlich
+52,Opel,Grandland,8157,Männlich
+80,BMW Motorrad,S1000RR,9768,Männlich
+59,Peugeot,308,26550,Männlich
+72,Honda,Jazz,33244,Weiblich
+66,Tesla,Model X,78498,Männlich
+54,Skoda,Fabia,28496,Männlich
+24,Citroen,C4,11969,Männlich
+75,Peugeot,3008,24553,Männlich
+16,Jeep,Wrangler,42411,Weiblich
+54,Porsche,911,155226,Männlich
+69,Volkswagen,Passat,50941,Männlich
+57,Toyota,Land Cruiser,40015,Weiblich
+51,Peugeot,Partner,28965,Männlich
+16,Volvo,XC90,65321,Männlich
+45,Citroen,C3 Aircross,11866,Männlich
+46,Ford,Kuga,22883,Männlich
+23,Tesla,Model 3,44323,Weiblich
+53,Citroen,C5,8314,Männlich
+72,BMW Motorrad,R1250GS,14349,Weiblich
+76,Jeep,Renegade,38738,Weiblich
+16,Porsche,Taycan,151365,Weiblich
+65,Renault,Kadjar,31852,Männlich
+73,BMW Motorrad,F900R,13779,Männlich
+55,Opel,Mokka,28018,Weiblich
+15,Tesla,Model X,51721,Männlich
+74,Mazda,Mazda3,35376,Männlich
+49,Kia,Seltos,26204,Männlich
+34,Volvo,XC40,77813,Weiblich
+67,Renault,Clio,31833,Männlich
+37,Hyundai,Nexo,12944,Männlich
+16,Opel,Mokka,8761,Weiblich
+20,Ford,Focus,21244,Männlich
+62,Toyota,Land Cruiser,49422,Weiblich
+26,Nissan,Qashqai,22523,Weiblich
+21,Opel,Insignia,10933,Weiblich
+52,Mitsubishi,L200,7923,Weiblich
+60,Alfa Romeo,Giulia,39726,Weiblich
+48,Audi,Q8,26040,Weiblich
+69,Volkswagen,Passat,63194,Männlich
+60,Kia,Stonic,33310,Männlich
+15,Peugeot,208,15653,Männlich
+41,Mercedes,GLS,122048,Weiblich
+64,Peugeot,508,18538,Weiblich
+46,Skoda,Superb,37934,Weiblich
+60,Porsche,Cayenne,178166,Männlich
+47,Kia,Rio,44570,Männlich
+80,Citroen,C5 Aircross,27906,Weiblich
+69,BMW,i4,67432,Männlich
+39,Alfa Romeo,Stelvio,79142,Weiblich
+40,Mazda,Mazda3,31351,Weiblich
+67,Mitsubishi,Space Star,33208,Männlich
+49,Alfa Romeo,Giulia,35828,Weiblich
+25,Subaru,Forester,18829,Männlich
+71,Subaru,XV,18919,Weiblich
+45,Mercedes,B-Klasse,121307,Weiblich
+69,Hyundai,i20,37533,Männlich
+24,Volvo,S60,29612,Weiblich
+80,Tesla,Model 3,46945,Männlich
+63,Volkswagen,Polo,57214,Männlich
+24,Ford,Focus,30240,Männlich
+52,Hyundai,Tucson,38989,Weiblich
+61,Mazda,Mazda2,15053,Weiblich
+69,Audi,TT,79070,Weiblich
+43,Skoda,Octavia,30752,Weiblich
+67,Honda,HR-V,24086,Männlich
+40,Subaru,XV,36457,Männlich
+26,Jeep,Wrangler,66589,Männlich
+59,Ford,Focus,28731,Weiblich
+73,Hyundai,Kona,30630,Weiblich
+61,Hyundai,Santa Fe,27072,Männlich
+52,BMW,X5,25611,Männlich
+68,Jeep,Wrangler,21719,Weiblich
+52,Mazda,CX-5,29099,Weiblich
+58,Volkswagen,ID.4,56218,Weiblich
+65,Subaru,XV,15102,Weiblich
+57,Nissan,X-Trail,26728,Männlich
+63,Audi,A7,70647,Weiblich
+28,Honda,Jazz,33985,Weiblich
+26,Subaru,Outback,41962,Männlich
+78,Mercedes,GLE,131852,Weiblich
+74,BMW,X5,69066,Weiblich
+15,Renault,Kadjar,30304,Männlich
+35,Volvo,V90,63808,Weiblich
+48,Toyota,C-HR,23927,Männlich
+71,Opel,Grandland,17719,Weiblich
+69,BMW Motorrad,R1200GS,20971,Männlich
+58,Jeep,Wrangler,35848,Männlich
+40,Tesla,Model 3,70579,Weiblich
+35,Hyundai,i20,39645,Weiblich
+61,Nissan,X-Trail,38869,Männlich
+27,Volvo,XC90,33247,Männlich
+22,Citroen,C3 Aircross,22851,Weiblich
+79,Kia,Niro,21725,Weiblich
+67,Audi,A8,88632,Weiblich
+59,Volvo,XC40,38255,Weiblich
+31,Volvo,V90,69482,Männlich
+31,Citroen,C3,13011,Weiblich
+29,Mitsubishi,ASX,17606,Weiblich
+21,Hyundai,i20,14082,Männlich
+27,Hyundai,Kona,37726,Weiblich
+47,BMW Motorrad,R1200GS,21935,Männlich
+22,BMW,i4,75540,Weiblich
+63,Peugeot,Partner,14059,Weiblich
+20,Volvo,XC40,47812,Weiblich
+51,Audi,A4,83410,Weiblich
+44,Honda,Civic,14362,Männlich
+63,Honda,Civic,16786,Weiblich
+42,Volvo,XC40,64278,Weiblich
+44,Opel,Grandland,29154,Weiblich
+27,Alfa Romeo,Giulietta,35729,Männlich
+31,Citroen,C3,13617,Männlich
+24,Peugeot,308,6272,Weiblich
+80,Peugeot,508,20310,Weiblich
+52,Renault,Megane,24572,Weiblich
+38,Nissan,Leaf,49131,Männlich
+30,Land Rover,Evoque,49436,Weiblich
+55,Jeep,Cherokee,32420,Männlich
+24,Hyundai,i30,12103,Weiblich
+33,Toyota,C-HR,37580,Weiblich
+75,Volkswagen,Arteon,31757,Männlich
+69,Land Rover,Range Rover,40466,Weiblich
+69,Subaru,Forester,40073,Weiblich
+65,Mitsubishi,Outlander,29333,Männlich
+59,Subaru,XV,35232,Weiblich
+53,BMW,X6,29247,Männlich
+55,Opel,Grandland,18971,Männlich
+45,BMW Motorrad,F900R,9664,Weiblich
+45,BMW Motorrad,S1000RR,24810,Männlich
+21,Tesla,Model X,42154,Weiblich
+35,Citroen,C3 Aircross,14822,Weiblich
+80,Honda,Jazz,29786,Weiblich
+41,Mercedes,B-Klasse,103625,Weiblich
+71,BMW,X3,98560,Weiblich
+46,Renault,Kadjar,8620,Männlich
+46,Alfa Romeo,Stelvio,30655,Weiblich
+68,BMW Motorrad,R1250GS,11604,Männlich
+63,Peugeot,308,10253,Männlich
+36,Peugeot,508,16320,Weiblich
+70,Mercedes,GLE,28448,Weiblich
+49,Jeep,Grand Cherokee,58564,Weiblich
+32,Opel,Mokka,16595,Weiblich
+25,Peugeot,5008,10464,Weiblich
+76,Mazda,Mazda3,22114,Männlich
+24,BMW,i3,69399,Männlich
+19,Hyundai,Nexo,37664,Weiblich
+42,Renault,Clio,5040,Weiblich
+73,Nissan,X-Trail,39832,Weiblich
+41,Audi,A4,89546,Männlich
+51,Mazda,Mazda6,28803,Männlich
+57,Volkswagen,Arteon,10862,Weiblich
+27,Citroen,C5,11228,Männlich
+51,Kia,Seltos,39334,Weiblich
+24,Skoda,Kodiaq,15725,Weiblich
+54,Mazda,Mazda6,29505,Weiblich
+49,BMW,i3,18015,Weiblich
+22,Jeep,Compass,39133,Männlich
+80,Mercedes,C-Klasse,27464,Weiblich
+27,Nissan,Qashqai,20688,Weiblich
+76,Honda,CR-V,27760,Männlich
+66,Volkswagen,Sharan,48624,Männlich
+27,Toyota,Corolla,31662,Weiblich
+55,BMW Motorrad,F900R,24790,Männlich
+42,Toyota,Corolla,46162,Männlich
+25,Mitsubishi,ASX,32425,Weiblich
+64,Volvo,XC40,27664,Männlich
+44,Skoda,Fabia,33825,Weiblich
+60,Mitsubishi,Outlander,26371,Männlich
+34,Ford,Kuga,22809,Weiblich
+51,Jeep,Renegade,37915,Männlich
+39,Tesla,Model Y,75393,Weiblich
+33,Peugeot,3008,7075,Weiblich
+74,Mercedes,GLC,56821,Weiblich
+60,Citroen,C3,27236,Weiblich
+51,BMW Motorrad,R1200GS,23411,Weiblich
+79,Audi,A4,75313,Männlich
+40,Kia,Stonic,14484,Weiblich
+22,Alfa Romeo,Stelvio,62497,Männlich
+69,Alfa Romeo,Stelvio,34485,Männlich
+80,Toyota,RAV4,47801,Weiblich
+73,Peugeot,208,26001,Weiblich
+73,Kia,Stonic,14043,Männlich
+35,Honda,HR-V,23730,Männlich
+48,Alfa Romeo,Giulietta,23549,Weiblich
+34,Mazda,Mazda2,38132,Männlich
+71,Land Rover,Range Rover,82461,Männlich
+26,Volvo,XC60,43998,Männlich
+42,Mitsubishi,Outlander,15923,Weiblich
+52,Land Rover,Range Rover,72759,Weiblich
+61,Skoda,Fabia,38653,Weiblich
+53,Hyundai,Nexo,14310,Männlich
+54,BMW,7er,119336,Weiblich
+79,BMW Motorrad,R1250GS,23620,Weiblich
+56,Renault,Talisman,21369,Weiblich
+58,Subaru,XV,44757,Weiblich
+45,Volvo,XC90,78550,Männlich
+62,Opel,Insignia,20224,Weiblich
+63,Mercedes,GLC,69206,Weiblich
+73,Hyundai,i20,32130,Weiblich
+67,Toyota,RAV4,54014,Weiblich
+17,Peugeot,508,23356,Weiblich
+74,Volvo,XC90,35043,Weiblich
+79,Hyundai,i20,32059,Weiblich
+53,Land Rover,Defender,59803,Männlich
+37,Peugeot,508,20738,Weiblich
+25,Renault,Talisman,21394,Weiblich
+75,Opel,Insignia,28353,Männlich
+19,Jeep,Grand Cherokee,67487,Weiblich
+21,Mercedes,GLE,85032,Weiblich
+27,Alfa Romeo,MiTo,37834,Weiblich
+64,Volvo,XC60,51994,Weiblich
+31,Volvo,XC60,32117,Männlich
+30,Renault,Captur,12506,Weiblich
+47,Opel,Insignia,19804,Männlich
+57,Mitsubishi,Space Star,21991,Weiblich
+66,Ford,Mondeo,37849,Weiblich
+43,Porsche,Cayenne,146924,Männlich
+57,Porsche,Panamera,76272,Männlich
+51,Jeep,Grand Cherokee,63279,Männlich
+73,Ford,Mondeo,20050,Männlich
+37,Porsche,Taycan,151414,Weiblich
+66,Citroen,C3 Aircross,19626,Weiblich
+53,Subaru,Forester,21618,Weiblich
+67,Hyundai,i10,15148,Weiblich
+73,Mazda,Mazda6,33840,Männlich
+74,Honda,Jazz,31137,Weiblich
+71,Peugeot,308,13087,Weiblich
+61,Toyota,Camry,41664,Weiblich
+39,Mazda,Mazda2,13228,Männlich
+59,BMW,Z4,96466,Männlich
+74,Mitsubishi,Outlander,30720,Männlich
+16,Peugeot,5008,21921,Weiblich
+59,Skoda,Superb,43929,Weiblich
+21,Jeep,Cherokee,31604,Weiblich
+73,Toyota,Camry,15288,Weiblich
+27,BMW,1er,59005,Männlich
+27,Toyota,Yaris,37682,Männlich
+30,Land Rover,Discovery,78355,Männlich
+57,Tesla,Model 3,56159,Männlich
+56,Honda,Accord,34876,Weiblich
+71,Renault,Megane,13227,Weiblich
+32,Nissan,Leaf,13237,Weiblich
+72,Nissan,Leaf,14394,Männlich
+36,Volvo,S60,59844,Weiblich
+47,Peugeot,5008,21592,Männlich
+17,Land Rover,Defender,118130,Männlich
+54,Tesla,Model Y,40353,Weiblich
+57,Kia,Seltos,22947,Männlich
+47,Peugeot,3008,16759,Männlich
+71,Renault,Captur,5124,Männlich
+18,Kia,Niro,8351,Männlich
+44,Peugeot,3008,11737,Männlich
+48,BMW,7er,102286,Männlich
+51,Volkswagen,Polo,35971,Männlich
+42,Porsche,Macan,80495,Weiblich
+29,Mitsubishi,ASX,31676,Männlich
+30,Citroen,C3 Aircross,7974,Weiblich
+28,Mercedes,S-Klasse,112521,Weiblich
+24,Alfa Romeo,Stelvio,44216,Weiblich
+71,Land Rover,Discovery,78812,Weiblich
+74,Porsche,911,117820,Männlich
+30,Toyota,Land Cruiser,31318,Männlich
+49,Peugeot,508,12489,Männlich
+17,Citroen,C3 Aircross,18686,Männlich
+51,Jeep,Grand Cherokee,49821,Männlich
+31,Volkswagen,Touran,11230,Weiblich
+63,Nissan,Juke,49844,Männlich
+44,Subaru,Outback,29458,Männlich
+72,Mercedes,AMG GT,72155,Weiblich
+49,Audi,R8,61952,Weiblich
+18,Alfa Romeo,Giulietta,50402,Männlich
+39,Land Rover,Defender,63152,Männlich
+20,Mazda,Mazda6,36171,Männlich
+29,Skoda,Fabia,20775,Weiblich
+32,Toyota,RAV4,31617,Männlich
+52,Mercedes,C-Klasse,26883,Männlich
+69,Porsche,Macan,166178,Männlich
+51,Land Rover,Discovery,41073,Männlich
+76,Honda,HR-V,25493,Männlich
+41,Hyundai,i30,20887,Männlich
+64,Mitsubishi,Space Star,11534,Männlich
+36,Porsche,Macan,168607,Männlich
+42,Mercedes,GLE,124982,Männlich
+44,Ford,Kuga,30206,Männlich
+43,Skoda,Kamiq,30585,Weiblich
+56,Volkswagen,Tiguan,24635,Männlich
+42,Honda,HR-V,15092,Weiblich
+24,Mitsubishi,Outlander,35419,Weiblich
+78,BMW Motorrad,F900R,17888,Weiblich
+39,BMW Motorrad,S1000RR,23559,Weiblich
+37,Land Rover,Discovery,49278,Weiblich
+59,Mazda,Mazda6,28993,Männlich
+44,Mercedes,GLA,92929,Weiblich
+26,Kia,Niro,32481,Männlich
+38,Hyundai,i10,36849,Weiblich
+17,Toyota,RAV4,23872,Männlich
+76,Porsche,Macan,72194,Weiblich
+74,Audi,A6,96052,Weiblich
+53,Land Rover,Discovery,112857,Weiblich
+29,Mazda,Mazda2,36612,Weiblich
+75,Nissan,Juke,21597,Männlich
+65,Jeep,Grand Cherokee,41748,Männlich
+54,Volvo,S60,45117,Männlich
+44,Ford,Mustang,14848,Weiblich
+33,Alfa Romeo,Stelvio,51446,Männlich
+68,Porsche,911,79717,Männlich
+62,Jeep,Compass,68194,Männlich
+22,Peugeot,308,25489,Männlich
+58,Mercedes,B-Klasse,76965,Weiblich
+39,Audi,A7,34986,Männlich
+42,Ford,Mondeo,8670,Weiblich
+55,Mitsubishi,Outlander,32623,Weiblich
+49,Alfa Romeo,Giulietta,76935,Weiblich
+52,BMW,3er,74929,Weiblich
+25,BMW,X5,31332,Männlich
+72,Honda,CR-V,22996,Weiblich
+56,Mitsubishi,L200,35893,Weiblich
+78,BMW Motorrad,S1000RR,11544,Weiblich
+20,Ford,Fiesta,25721,Weiblich
+47,Mercedes,GLC,149770,Männlich
+31,BMW Motorrad,R1250GS,17159,Weiblich
+23,Volkswagen,Sharan,25236,Weiblich
+44,Skoda,Superb,22432,Weiblich
+31,Honda,HR-V,19779,Weiblich
+18,Subaru,Impreza,39084,Weiblich
+46,Citroen,C5,18103,Weiblich
+61,Skoda,Octavia,20232,Weiblich
+42,Citroen,C5,33183,Männlich
+16,Alfa Romeo,Stelvio,47333,Weiblich
+69,Skoda,Kodiaq,36952,Männlich
+52,Alfa Romeo,Giulietta,71619,Männlich
+73,Nissan,Micra,42793,Männlich
+73,Nissan,Qashqai,46780,Weiblich
+59,Mitsubishi,Outlander,11990,Männlich
+43,Citroen,C3 Aircross,7602,Weiblich
+42,Peugeot,308,20887,Männlich
+37,Peugeot,508,10086,Männlich
+80,Audi,Q7,76747,Weiblich
+80,Mercedes,V-Klasse,98540,Männlich
+35,BMW,2er,58169,Weiblich
+77,Peugeot,5008,25200,Männlich
+25,Skoda,Kamiq,42058,Weiblich
+74,Volvo,XC60,74111,Männlich
+30,Hyundai,Nexo,36850,Männlich
+75,Peugeot,3008,19765,Männlich
+63,Volvo,S60,36598,Männlich
+47,Ford,Focus,26776,Weiblich
+25,Opel,Mokka,23934,Männlich
+33,Alfa Romeo,Stelvio,75656,Männlich
+49,Honda,Jazz,10546,Weiblich
+38,Nissan,Navara,40719,Männlich
+70,Ford,Edge,38933,Weiblich
+47,Nissan,X-Trail,37153,Weiblich
+56,Nissan,Navara,15740,Weiblich
+74,Porsche,Macan,187917,Männlich
+80,Toyota,Yaris,33639,Männlich
+67,BMW,1er,44336,Männlich
+39,Toyota,Camry,11024,Weiblich
+40,Subaru,Forester,22357,Männlich
+25,Audi,A6,49122,Männlich
+26,Kia,Sportage,36774,Weiblich
+62,BMW,3er,37041,Männlich
+47,Alfa Romeo,Giulietta,74011,Weiblich
+34,BMW,X5,32666,Weiblich
+54,BMW Motorrad,R1200GS,6969,Männlich
+40,Audi,A7,97832,Weiblich
+46,Hyundai,i10,10471,Männlich
+31,Volvo,XC40,17798,Männlich
+22,Peugeot,5008,17847,Weiblich
+18,Skoda,Scala,33127,Männlich
+43,BMW Motorrad,S1000RR,12484,Weiblich
+21,Land Rover,Range Rover,34425,Weiblich
+58,Volkswagen,ID.4,35823,Männlich
+17,Nissan,Micra,38109,Weiblich
+34,Peugeot,508,13443,Weiblich
+70,Citroen,C3 Aircross,12417,Männlich
+43,Mitsubishi,ASX,29124,Männlich
+66,Land Rover,Evoque,105529,Weiblich
+69,Tesla,Model 3,26655,Weiblich
+42,Volvo,V90,66382,Männlich
+27,Peugeot,208,7131,Männlich
+35,Nissan,Leaf,19325,Weiblich
+26,Volvo,S60,61849,Männlich
+74,Peugeot,Partner,12789,Männlich
+47,Ford,Mustang,37147,Männlich
+37,Ford,Kuga,12896,Männlich
+56,Audi,A6,21141,Weiblich
+55,Citroen,C3,24714,Weiblich
+54,Mercedes,GLS,93390,Weiblich
+67,Kia,Seltos,39194,Weiblich
+55,Nissan,Leaf,38110,Männlich
+43,Subaru,Impreza,38018,Weiblich
+45,Mitsubishi,L200,33361,Männlich
+15,Land Rover,Discovery,27041,Männlich
+62,BMW Motorrad,S1000RR,22998,Männlich
+68,Tesla,Model 3,74018,Männlich
+37,Ford,Mustang,28954,Weiblich
+49,Porsche,911,164266,Weiblich
+46,Alfa Romeo,MiTo,15550,Weiblich
+76,Volvo,V90,63534,Weiblich
+29,Alfa Romeo,Giulia,52418,Männlich
+68,Volkswagen,Passat,42049,Männlich
+65,Peugeot,5008,12728,Weiblich
+24,Subaru,Outback,25337,Männlich
+22,Volvo,XC40,67292,Weiblich
+76,Subaru,XV,16614,Weiblich
+76,Peugeot,208,29848,Männlich
+60,Citroen,C5 Aircross,9138,Weiblich
+16,Mazda,Mazda3,25753,Weiblich
+73,Renault,Talisman,12836,Weiblich
+60,Mercedes,C-Klasse,71363,Männlich
+35,Skoda,Kodiaq,13989,Männlich
+73,Jeep,Renegade,62602,Männlich
+39,Kia,Niro,28863,Weiblich
+74,BMW Motorrad,R1250GS,11507,Männlich
+60,Ford,Mondeo,29089,Weiblich
+69,Peugeot,3008,8121,Weiblich
+62,BMW Motorrad,R1250GS,23645,Weiblich
+40,Citroen,C5 Aircross,9987,Männlich
+58,Honda,Accord,25110,Männlich
+58,Volkswagen,Golf,21831,Weiblich
+57,Citroen,C3,23887,Männlich
+66,Renault,Koleos,8017,Männlich
+58,Peugeot,508,14566,Männlich
+48,Citroen,C3,23018,Männlich
+25,Skoda,Kamiq,17658,Weiblich
+17,Peugeot,508,24249,Weiblich
+25,Subaru,Forester,39240,Weiblich
+49,Skoda,Octavia,17592,Weiblich
+57,Ford,Mustang,20614,Weiblich
+26,Kia,Seltos,20651,Männlich
+18,BMW Motorrad,R1200GS,11735,Weiblich
+53,Citroen,C5 Aircross,15138,Weiblich
+33,Toyota,RAV4,38024,Weiblich
+52,Land Rover,Discovery,37558,Männlich
+43,Land Rover,Range Rover,53132,Weiblich
+23,Honda,HR-V,13906,Männlich
+53,Skoda,Kodiaq,14663,Männlich
+61,Mitsubishi,ASX,23706,Weiblich
+36,Land Rover,Evoque,28983,Weiblich
+15,Porsche,Macan,163919,Männlich
+25,Volvo,XC40,73323,Weiblich
+29,Ford,Fiesta,33497,Männlich
+37,Porsche,911,61431,Männlich
+69,Kia,Ceed,33191,Weiblich
+49,Alfa Romeo,Giulietta,19621,Weiblich
+23,BMW,Z4,112426,Weiblich
+74,Mercedes,B-Klasse,94413,Weiblich
+25,Tesla,Model X,61637,Weiblich
+18,Skoda,Superb,42302,Weiblich
+56,Volvo,XC40,69541,Weiblich
+37,Tesla,Model Y,63315,Weiblich
+42,Mazda,Mazda6,36264,Weiblich
+22,Alfa Romeo,Giulia,26668,Männlich
+40,Tesla,Model Y,34977,Männlich
+28,Toyota,C-HR,52876,Weiblich
+29,Citroen,C3 Aircross,6233,Männlich
+40,Citroen,C5 Aircross,11835,Weiblich
+17,Jeep,Wrangler,51130,Weiblich
+16,Kia,Sportage,27991,Weiblich
+78,BMW,Z4,115273,Männlich
+24,Tesla,Model Y,67512,Männlich
+73,Volvo,V90,40119,Weiblich
+24,Toyota,RAV4,46622,Weiblich
+51,Tesla,Model X,34946,Männlich
+71,Kia,Sportage,40882,Männlich
+49,Renault,Captur,13842,Männlich
+54,Opel,Insignia,11182,Weiblich
+49,Mazda,Mazda2,21952,Männlich
+54,Opel,Astra,19324,Weiblich
+21,Mercedes,GLE,136548,Weiblich
+57,Alfa Romeo,Giulietta,46010,Männlich
+64,Hyundai,Tucson,17363,Männlich
+21,Mitsubishi,Space Star,19311,Männlich
+62,Volvo,V90,49193,Weiblich
+50,Porsche,Panamera,184073,Männlich
+47,Alfa Romeo,Giulietta,24088,Weiblich
+46,Mercedes,A-Klasse,53554,Weiblich
+25,Skoda,Kodiaq,16724,Weiblich
+29,Toyota,Land Cruiser,43379,Männlich
+73,Porsche,Taycan,77569,Weiblich
+71,Audi,Q8,43129,Männlich
+75,Jeep,Cherokee,26201,Männlich
+38,Kia,Ceed,35855,Männlich
+40,Mazda,Mazda2,37436,Männlich
+50,Toyota,Corolla,15783,Weiblich
+53,Peugeot,Partner,13458,Weiblich
+22,Skoda,Kamiq,33176,Weiblich
+73,Honda,Civic,23656,Männlich
+32,BMW,5er,91999,Weiblich
+47,Alfa Romeo,Giulia,21419,Weiblich
+72,Hyundai,Santa Fe,31861,Weiblich
+75,Mazda,Mazda6,38174,Weiblich
+69,Porsche,Panamera,155694,Weiblich
+39,Honda,HR-V,24747,Männlich
+44,Peugeot,508,15388,Männlich
+53,Jeep,Cherokee,24756,Männlich
+33,Land Rover,Range Rover,56708,Weiblich
+18,Mitsubishi,Space Star,24005,Männlich
+42,Porsche,Macan,183570,Männlich
+31,Volvo,S60,20164,Männlich
+40,Alfa Romeo,Giulietta,25918,Weiblich
+22,Skoda,Fabia,17301,Männlich
+65,Opel,Corsa,16335,Männlich
+40,Jeep,Renegade,15981,Weiblich
+31,Nissan,Micra,25701,Weiblich
+77,Renault,Megane,11178,Männlich
+27,Porsche,Macan,112942,Weiblich
+28,Opel,Mokka,14442,Männlich
+29,Alfa Romeo,Giulia,18765,Weiblich
+67,Honda,CR-V,25578,Männlich
+40,Honda,CR-V,29873,Männlich
+74,Honda,HR-V,25911,Männlich
+60,Hyundai,Nexo,39932,Weiblich
+60,Renault,Kadjar,21933,Weiblich
+31,Citroen,C3 Aircross,8798,Weiblich
+44,Mazda,Mazda2,16437,Männlich
+19,Porsche,Cayenne,71015,Weiblich
+66,Opel,Mokka,24728,Männlich
+15,Skoda,Octavia,18668,Männlich
+26,Volkswagen,Sharan,58515,Männlich
+47,BMW,1er,100822,Weiblich
+21,Audi,Q7,22821,Männlich
+43,Mercedes,GLE,146335,Männlich
+21,Jeep,Renegade,41791,Männlich
+27,Mitsubishi,Space Star,19028,Weiblich
+37,Subaru,XV,31435,Weiblich
+79,Volkswagen,Polo,43252,Weiblich
+72,Renault,Koleos,14758,Weiblich
+68,Nissan,Navara,14655,Männlich
+39,Nissan,Juke,25779,Weiblich
+36,BMW,i3,85722,Männlich
+23,Mitsubishi,Space Star,19087,Männlich
+50,Volkswagen,Arteon,60684,Männlich
+57,Peugeot,208,25211,Weiblich
+39,Ford,Mondeo,38755,Weiblich
+25,Tesla,Model Y,48718,Männlich
+42,Alfa Romeo,MiTo,68251,Weiblich
+21,Peugeot,208,28258,Männlich
+76,Volvo,XC90,27453,Weiblich
+50,Jeep,Renegade,57110,Männlich
+20,Skoda,Kodiaq,25926,Männlich
+39,Kia,Sportage,40886,Männlich
+33,Mercedes,S-Klasse,53237,Weiblich
+68,Renault,Kadjar,25133,Männlich
+56,Renault,Captur,34360,Männlich
+36,Land Rover,Range Rover,99046,Weiblich
+17,Peugeot,5008,9732,Männlich
+34,Volkswagen,Sharan,13551,Männlich
+53,Toyota,Yaris,17388,Weiblich
+74,Tesla,Model 3,73563,Männlich
+32,Kia,Niro,37573,Weiblich
+54,Honda,Accord,11149,Männlich
+32,Renault,Captur,34418,Weiblich
+25,Tesla,Model S,49334,Männlich
+66,Land Rover,Range Rover,33539,Männlich
+75,Nissan,Juke,38001,Weiblich
+21,BMW Motorrad,R1250GS,22887,Männlich
+28,Honda,Accord,9693,Weiblich
+19,Volkswagen,Tiguan,43108,Weiblich
+52,Volkswagen,Sharan,31673,Männlich
+51,BMW Motorrad,S1000RR,11395,Männlich
+38,Volkswagen,Passat,66967,Männlich
+25,Toyota,Yaris,40776,Männlich
+35,BMW,X3,21867,Weiblich
+53,Audi,Q7,27523,Männlich
+27,BMW,1er,18137,Männlich
+40,Volkswagen,Polo,41123,Männlich
+17,Alfa Romeo,Stelvio,78930,Männlich
+53,Alfa Romeo,Stelvio,24618,Weiblich
+34,Ford,Fiesta,10928,Männlich
+29,Land Rover,Discovery,42381,Männlich
+66,Porsche,Cayenne,142165,Männlich
+15,Citroen,C3 Aircross,14165,Weiblich
+74,Toyota,RAV4,40605,Männlich
+15,Mitsubishi,ASX,21216,Weiblich
+51,Ford,Fiesta,10337,Männlich
+53,Audi,A5,101822,Männlich
+69,Volkswagen,Touareg,19595,Männlich
+79,Honda,Civic,8006,Männlich
+73,Nissan,Qashqai,10882,Männlich
+48,Subaru,XV,36038,Weiblich
+31,Volkswagen,Polo,23297,Weiblich
+42,Renault,Clio,25292,Männlich
+37,Land Rover,Evoque,31828,Weiblich
+76,Ford,Fiesta,26391,Männlich
+51,Kia,Niro,24023,Männlich
+80,Opel,Mokka,24155,Weiblich
+18,Land Rover,Range Rover,112142,Weiblich
+42,Opel,Insignia,18520,Männlich
+37,Hyundai,i30,32865,Weiblich
+52,Renault,Talisman,18961,Weiblich
+28,Ford,Focus,16562,Männlich
+62,BMW Motorrad,R1200GS,13420,Weiblich
+20,Peugeot,3008,10527,Männlich
+46,Ford,Fiesta,28366,Männlich
+33,Ford,Mustang,24785,Weiblich
+72,Volkswagen,ID.4,45822,Weiblich
+52,Honda,Civic,14172,Weiblich
+18,Peugeot,Partner,19024,Männlich
+45,Hyundai,i20,29456,Männlich
+20,BMW,X5,98372,Männlich
+75,Citroen,C5 Aircross,11432,Männlich
+39,Mazda,Mazda2,27376,Männlich
+41,Opel,Zafira,28661,Weiblich
+80,Peugeot,308,28096,Männlich
+75,Mitsubishi,ASX,25582,Weiblich
+56,Toyota,Corolla,48572,Weiblich
+75,Land Rover,Evoque,81838,Männlich
+45,Land Rover,Defender,53400,Männlich
+69,Subaru,Forester,37903,Männlich
+30,Tesla,Model X,68286,Männlich
+19,Opel,Zafira,9843,Weiblich
+58,Land Rover,Range Rover,68764,Männlich
+26,Subaru,Outback,12830,Weiblich
+46,Land Rover,Range Rover,41970,Weiblich
+42,Volkswagen,Tiguan,37843,Weiblich
+40,BMW Motorrad,F900R,8403,Weiblich
+17,Skoda,Scala,21035,Weiblich
+76,Nissan,Juke,46923,Männlich
+50,Renault,Koleos,27305,Weiblich
+36,Volkswagen,ID.4,31639,Weiblich
+38,Hyundai,Tucson,18068,Weiblich
+76,Citroen,C5 Aircross,17234,Weiblich
+40,Audi,A5,96427,Weiblich
+77,Volvo,XC90,36251,Weiblich
+65,Skoda,Superb,18047,Weiblich
+78,Porsche,Macan,115341,Weiblich
+79,Peugeot,208,26260,Männlich
+16,Land Rover,Evoque,43141,Männlich
+35,Ford,Mondeo,33166,Männlich
+63,BMW,X3,102717,Männlich
+32,Jeep,Grand Cherokee,16517,Männlich
+72,Mercedes,E-Klasse,24827,Weiblich
+71,Land Rover,Evoque,68957,Weiblich
+62,Ford,Focus,11090,Weiblich
+63,Honda,Civic,19122,Männlich
+53,Skoda,Kodiaq,19066,Weiblich
+38,Honda,Accord,11698,Weiblich
+45,Ford,Kuga,11120,Männlich
+17,Mazda,Mazda3,21117,Männlich
+45,Subaru,XV,31536,Weiblich
+58,Honda,Civic,31477,Männlich
+27,Volvo,XC40,64802,Männlich
+65,Alfa Romeo,MiTo,33434,Weiblich
+77,Toyota,Camry,32139,Männlich
+66,Alfa Romeo,Giulietta,47291,Männlich
+78,Renault,Megane,20263,Weiblich
+29,Tesla,Model Y,32188,Weiblich
+65,BMW Motorrad,S1000RR,16492,Männlich
+42,Skoda,Kodiaq,34795,Weiblich
+64,Kia,Seltos,28457,Weiblich
+35,BMW,X5,39625,Weiblich
+38,Porsche,Taycan,71987,Weiblich
+24,BMW Motorrad,S1000RR,9080,Männlich
+48,Volkswagen,Arteon,11913,Männlich
+47,Tesla,Model Y,42578,Männlich
+74,Subaru,Outback,21711,Weiblich
+21,Kia,Rio,10265,Männlich
+19,BMW Motorrad,R1200GS,5375,Männlich
+67,Skoda,Kamiq,18510,Weiblich
+27,Subaru,XV,37013,Weiblich
+37,BMW,4er,52733,Männlich
+64,Mazda,CX-5,36648,Männlich
+57,Citroen,C3 Aircross,26211,Weiblich
+67,Jeep,Compass,32900,Männlich
+68,Citroen,C3 Aircross,13692,Männlich
+58,Land Rover,Evoque,95755,Männlich
+47,Audi,Q3,74840,Männlich
+38,Opel,Mokka,23700,Männlich
+63,Honda,Accord,22554,Weiblich
+41,Audi,Q3,21292,Männlich
+37,Skoda,Superb,35902,Männlich
+53,Porsche,Panamera,134595,Männlich
+42,Skoda,Scala,33456,Weiblich
+55,Jeep,Wrangler,53828,Männlich
+77,Audi,A4,95131,Männlich
+44,Mazda,CX-5,19964,Weiblich
+37,Kia,Stonic,33744,Männlich
+48,Porsche,911,145685,Weiblich
+67,Citroen,C4,28241,Männlich
+34,Opel,Insignia,20036,Männlich
+41,Volkswagen,Arteon,33049,Männlich
+79,Skoda,Scala,25632,Weiblich
+26,Toyota,Land Cruiser,53067,Weiblich
+79,Renault,Megane,8117,Weiblich
+61,Mercedes,GLS,124783,Männlich
+47,Porsche,Macan,171667,Männlich
+27,Toyota,C-HR,53924,Weiblich
+38,BMW,X1,61746,Weiblich
+44,Mitsubishi,Space Star,34670,Männlich
+63,Mitsubishi,Space Star,31494,Weiblich
+69,Tesla,Model Y,32508,Weiblich
+23,Mazda,Mazda6,25951,Männlich
+49,Skoda,Kamiq,23819,Weiblich
+43,Jeep,Renegade,66065,Männlich
+49,Alfa Romeo,Giulia,77462,Männlich
+16,Citroen,C3 Aircross,15587,Männlich
+76,Hyundai,Kona,10742,Weiblich
+59,Renault,Megane,18946,Männlich
+70,Honda,CR-V,28582,Weiblich
+76,Alfa Romeo,Giulia,29924,Weiblich
+24,Jeep,Grand Cherokee,56595,Weiblich
+69,BMW,7er,77614,Männlich
+80,BMW,i3,74569,Männlich
+60,Audi,Q5,18631,Weiblich
+26,BMW,X5,68079,Weiblich
+67,Toyota,C-HR,35780,Weiblich
+28,Subaru,XV,40852,Männlich
+29,BMW,3er,51443,Männlich
+59,Toyota,Yaris,45746,Männlich
+57,Nissan,Navara,22934,Weiblich
+65,Mitsubishi,ASX,32827,Männlich
+21,Porsche,Macan,75745,Weiblich
+69,Jeep,Compass,65408,Männlich
+37,BMW Motorrad,F900R,22929,Männlich
+40,Nissan,Leaf,12107,Männlich
+57,Renault,Kadjar,29707,Weiblich
+37,Porsche,Cayenne,101054,Weiblich
+69,Mercedes,A-Klasse,33245,Weiblich
+73,Tesla,Model 3,41565,Weiblich
+61,Mercedes,GLS,107507,Weiblich
+51,Kia,Seltos,34624,Männlich
+31,Ford,Mustang,27684,Weiblich
+63,Toyota,Yaris,29079,Weiblich
+76,Honda,Jazz,28677,Männlich
+78,Subaru,Impreza,26122,Männlich
+80,Alfa Romeo,Stelvio,48493,Männlich
+27,Mazda,CX-5,21994,Weiblich
+23,Honda,CR-V,10117,Männlich
+54,Skoda,Kamiq,43359,Weiblich
+42,Volkswagen,ID.3,12133,Männlich
+38,Alfa Romeo,MiTo,21325,Männlich
+44,Opel,Corsa,15152,Männlich
+63,Kia,Seltos,26761,Weiblich
+53,BMW Motorrad,S1000RR,24102,Männlich
+56,Porsche,Panamera,56863,Männlich
+23,Skoda,Octavia,40315,Männlich
+76,Tesla,Model X,38315,Weiblich
+18,Ford,Mustang,24005,Männlich
+35,Hyundai,Nexo,44098,Weiblich
+18,Skoda,Fabia,28479,Weiblich
+17,Renault,Clio,26868,Männlich
+16,Tesla,Model S,60590,Weiblich
+29,Peugeot,508,20536,Weiblich
+28,Toyota,Camry,32214,Männlich
+46,Mitsubishi,Space Star,37629,Weiblich
+49,Ford,Kuga,21850,Männlich
+26,Citroen,C5,20600,Männlich
+73,Jeep,Compass,45887,Männlich
+63,Kia,Stonic,8527,Weiblich
+16,Porsche,Macan,93148,Weiblich
+65,BMW,X6,102533,Männlich
+46,Subaru,Forester,29372,Weiblich
+56,BMW,2er,47859,Männlich
+31,Volvo,XC40,68322,Weiblich
+47,Jeep,Compass,61063,Männlich
+48,Kia,Rio,40192,Männlich
+61,Renault,Clio,20322,Weiblich
+47,Audi,Q7,38868,Weiblich
+70,Citroen,C4,23197,Männlich
+65,Opel,Astra,15031,Männlich
+58,Jeep,Cherokee,55551,Weiblich
+45,Mazda,CX-5,18117,Männlich
+62,Audi,A8,84645,Weiblich
+27,Land Rover,Defender,48401,Männlich
+71,Jeep,Grand Cherokee,65720,Männlich
+16,Mitsubishi,L200,38651,Weiblich
+66,Skoda,Kamiq,38745,Weiblich
+34,BMW Motorrad,F900R,17929,Weiblich
+75,Audi,A6,32528,Weiblich
+16,Toyota,Yaris,51166,Weiblich
+30,Land Rover,Evoque,35836,Männlich
+37,Subaru,Forester,34982,Weiblich
+55,Subaru,XV,10272,Weiblich
+31,Land Rover,Defender,87119,Weiblich
+29,Land Rover,Range Rover,92852,Männlich
+71,Renault,Talisman,10147,Weiblich
+64,Nissan,Micra,37654,Weiblich
+47,Ford,Focus,17154,Weiblich
+52,Volvo,XC90,68215,Weiblich
+26,BMW Motorrad,S1000RR,19427,Weiblich
+77,Jeep,Renegade,31577,Weiblich
+34,Renault,Koleos,22325,Weiblich
+35,Volkswagen,Passat,20611,Männlich
+23,Opel,Astra,18924,Männlich
+47,Volkswagen,ID.4,49853,Männlich
+72,Opel,Astra,26615,Männlich
+55,Kia,Seltos,37401,Männlich
+49,Ford,Kuga,29376,Männlich
+68,Audi,Q5,55867,Männlich
+55,Nissan,Leaf,18196,Weiblich
+75,Honda,CR-V,10981,Weiblich
+75,Nissan,Juke,34753,Männlich
+73,Honda,HR-V,11692,Männlich
+19,Mazda,Mazda6,21689,Weiblich
+46,Toyota,Yaris,54417,Weiblich
+25,Skoda,Fabia,27565,Männlich
+42,Renault,Clio,28619,Weiblich
+73,Hyundai,Kona,17734,Weiblich
+72,Mercedes,GLC,58284,Männlich
+49,Audi,A6,19513,Männlich
+78,Opel,Insignia,16966,Männlich
+70,Volkswagen,Touran,47131,Männlich
+46,BMW Motorrad,R1200GS,16623,Männlich
+50,Skoda,Kamiq,30226,Männlich
+32,Honda,Accord,23133,Männlich
+50,Mitsubishi,ASX,28937,Männlich
+23,Land Rover,Range Rover,59247,Männlich
+73,Citroen,C4,28264,Männlich
+43,Volkswagen,Passat,66937,Männlich
+67,Honda,Jazz,30467,Männlich
+44,Toyota,C-HR,51764,Männlich
+23,Hyundai,i10,28322,Männlich
+53,Audi,A3,109149,Weiblich
+49,Mercedes,A-Klasse,81191,Männlich
+44,Mercedes,AMG GT,103430,Männlich
+29,Skoda,Scala,19053,Männlich
+20,Porsche,Taycan,57443,Männlich
+77,Renault,Captur,14997,Männlich
+56,Mercedes,S-Klasse,59765,Weiblich
+65,Kia,Sportage,20603,Weiblich
+65,Mercedes,B-Klasse,73723,Männlich
+33,Honda,Civic,19858,Männlich
+40,Porsche,Taycan,190288,Weiblich
+66,Kia,Sportage,19405,Weiblich
+48,Volvo,XC90,36769,Weiblich
+39,Tesla,Model 3,36899,Weiblich
+30,Alfa Romeo,Giulietta,41996,Männlich
+23,Audi,Q5,106311,Weiblich
+40,Honda,Accord,28160,Weiblich
+43,Hyundai,i20,34059,Männlich
+52,Audi,A3,103381,Männlich
+53,Volvo,XC90,33184,Männlich
+26,Subaru,Impreza,19143,Weiblich
+57,Mitsubishi,ASX,16235,Männlich
+62,Land Rover,Discovery,85459,Weiblich
+54,Ford,Edge,26017,Männlich
+48,Volkswagen,Golf,27781,Männlich
+16,Opel,Insignia,22603,Weiblich
+63,Porsche,911,156740,Männlich
+77,Toyota,Corolla,54180,Weiblich
+64,Volvo,XC60,47831,Weiblich
+77,BMW Motorrad,R1250GS,20708,Männlich
+26,Jeep,Cherokee,68714,Männlich
+48,Toyota,RAV4,32916,Weiblich
+32,Mercedes,GLA,60712,Männlich
+31,Renault,Kadjar,25302,Weiblich
+64,Opel,Insignia,19935,Männlich
+70,Honda,Jazz,20297,Männlich
+45,Renault,Megane,13507,Männlich
+31,Volvo,XC90,28792,Weiblich
+40,BMW,5er,24971,Weiblich
+46,Honda,Accord,12468,Weiblich
+78,Toyota,Camry,43450,Weiblich
+32,BMW Motorrad,S1000RR,9150,Männlich
+74,Honda,HR-V,8091,Weiblich
+37,Citroen,C3,14495,Männlich
+16,Opel,Corsa,14495,Weiblich
+39,Mercedes,S-Klasse,39553,Weiblich
+76,Kia,Sportage,35947,Männlich
+23,Kia,Stonic,8131,Weiblich
+25,Skoda,Octavia,18192,Männlich
+68,Ford,Kuga,30537,Männlich
+30,Mercedes,GLA,38393,Weiblich
+29,Mazda,Mazda3,31956,Männlich
+48,Subaru,Impreza,29333,Männlich
+61,Citroen,C5,5618,Weiblich
+56,Jeep,Wrangler,53359,Weiblich
+76,Tesla,Model X,78983,Weiblich
+73,Subaru,XV,12842,Weiblich
+44,Mazda,Mazda2,19005,Männlich
+47,Mazda,Mazda6,31770,Weiblich
+21,Mazda,Mazda6,24920,Männlich
+36,Subaru,XV,42902,Weiblich
+70,Opel,Corsa,8206,Weiblich
+46,Renault,Megane,30632,Weiblich
+30,Opel,Mokka,26464,Männlich
+74,Nissan,Micra,26114,Männlich
+28,Mitsubishi,Outlander,14197,Weiblich
+29,Hyundai,Santa Fe,35833,Weiblich
+31,Kia,Sportage,31225,Weiblich
+45,Mitsubishi,Space Star,33980,Männlich
+65,Nissan,X-Trail,10646,Männlich
+44,Alfa Romeo,Stelvio,19372,Weiblich
+32,BMW Motorrad,R1200GS,17736,Männlich
+19,Toyota,C-HR,51893,Weiblich
+65,Nissan,Juke,21444,Männlich
+15,Volkswagen,Golf,20226,Weiblich
+19,Tesla,Model Y,78968,Männlich
+20,Subaru,Forester,42627,Männlich
+70,Honda,HR-V,28687,Männlich
+22,Opel,Mokka,8449,Weiblich
+80,Ford,Fiesta,9297,Weiblich
+65,Alfa Romeo,Giulietta,53815,Weiblich
+31,Honda,HR-V,28427,Männlich
+72,Kia,Rio,30943,Weiblich
+38,Mazda,Mazda6,27219,Männlich
+56,Jeep,Renegade,38150,Weiblich
+47,Hyundai,i30,18698,Weiblich
+26,BMW Motorrad,F900R,18643,Männlich
+15,Skoda,Octavia,24021,Weiblich
+67,Porsche,Taycan,83628,Weiblich
+40,Volkswagen,Polo,52563,Männlich
+60,Volkswagen,ID.3,41137,Männlich
+61,Renault,Kadjar,18821,Weiblich
+40,Honda,Accord,19216,Männlich
+65,Peugeot,508,9871,Weiblich
+40,Hyundai,i30,12393,Weiblich
+28,Subaru,XV,34833,Männlich
+75,Tesla,Model Y,65308,Männlich
+20,Tesla,Model Y,49079,Weiblich
+24,Peugeot,Partner,27065,Männlich
+48,Opel,Grandland,16142,Männlich
+37,Mitsubishi,Outlander,32574,Männlich
+49,BMW,X6,46634,Weiblich
+34,Honda,Civic,13584,Männlich
+57,Peugeot,508,7811,Weiblich
+65,Mitsubishi,L200,24593,Weiblich
+23,Subaru,Outback,26334,Männlich
+66,Toyota,C-HR,10640,Männlich
+16,Toyota,Yaris,51237,Weiblich
+76,Renault,Koleos,13691,Weiblich
+63,Audi,Q7,58807,Männlich
+46,Subaru,XV,13205,Männlich
+71,Skoda,Kamiq,29137,Weiblich
+61,Renault,Captur,5943,Weiblich
+49,Peugeot,Partner,16195,Weiblich
+69,Volvo,V90,51110,Weiblich
+21,Opel,Astra,10861,Männlich
+33,Jeep,Compass,51626,Männlich
+34,Ford,Fiesta,19248,Weiblich
+50,Peugeot,308,12368,Männlich
+60,Opel,Corsa,10580,Männlich
+56,BMW,5er,89056,Weiblich
+28,Opel,Mokka,16246,Männlich
+73,Mercedes,C-Klasse,104919,Weiblich
+69,Mazda,Mazda2,21996,Weiblich
+58,BMW Motorrad,R1250GS,16856,Weiblich
+65,BMW Motorrad,R1200GS,9370,Männlich
+53,Toyota,Camry,45518,Männlich
+78,Ford,Kuga,26410,Weiblich
+39,Hyundai,Tucson,44996,Weiblich
+31,Volvo,XC90,77417,Männlich
+43,Porsche,Macan,122127,Männlich
+57,Renault,Megane,24192,Männlich
+50,BMW Motorrad,F900R,16852,Männlich
+28,Citroen,C3,6780,Männlich
+16,Audi,Q7,103573,Weiblich
+33,BMW Motorrad,R1200GS,16490,Männlich
+39,Land Rover,Evoque,104094,Männlich
+69,Toyota,Corolla,47471,Männlich
+62,Mazda,CX-5,28803,Männlich
+35,Volvo,XC40,25249,Männlich
+51,Volkswagen,Tiguan,43404,Weiblich
+73,BMW Motorrad,R1250GS,22371,Weiblich
+59,Peugeot,208,26461,Männlich
+19,Volvo,XC90,66503,Weiblich
+55,Nissan,Leaf,24336,Weiblich
+33,Mazda,Mazda2,13623,Weiblich
+44,Mitsubishi,ASX,15805,Männlich
+72,Opel,Zafira,19812,Weiblich
+21,Kia,Ceed,9699,Weiblich
+38,Mitsubishi,ASX,14027,Männlich
+38,Toyota,Land Cruiser,51257,Weiblich
+29,Honda,Jazz,25287,Männlich
+27,Volkswagen,Touareg,38039,Weiblich
+69,Peugeot,308,6966,Weiblich
+71,Citroen,C4,24486,Männlich
+78,Jeep,Grand Cherokee,57157,Männlich
+17,Hyundai,i30,14530,Männlich
+72,BMW,2er,45911,Weiblich
+58,Audi,A1,30345,Männlich
+42,Ford,Kuga,28617,Männlich
+62,Alfa Romeo,Stelvio,30242,Männlich
+29,Mazda,Mazda6,13234,Männlich
+37,Mitsubishi,Space Star,36273,Weiblich
+16,Skoda,Scala,27013,Weiblich
+73,BMW Motorrad,R1250GS,23434,Männlich
+47,Toyota,Corolla,38837,Weiblich
+76,Hyundai,Santa Fe,16859,Weiblich
+34,Renault,Koleos,25790,Weiblich
+31,Mercedes,B-Klasse,69726,Männlich
+15,Jeep,Compass,19831,Männlich
+50,Mercedes,V-Klasse,57497,Weiblich
+29,Hyundai,i10,26715,Weiblich
+61,Tesla,Model X,72398,Männlich
+49,Citroen,C5,28114,Weiblich
+78,Mercedes,GLA,51937,Weiblich
+40,Land Rover,Range Rover,27460,Männlich
+49,Opel,Grandland,23854,Weiblich
+71,Renault,Megane,17272,Männlich
+62,Mercedes,S-Klasse,27038,Weiblich
+18,BMW Motorrad,R1200GS,12390,Männlich
+79,Ford,Fiesta,18221,Männlich
+66,Peugeot,3008,26165,Männlich
+64,Nissan,Leaf,10098,Weiblich
+26,Renault,Talisman,17397,Weiblich
+26,Hyundai,i20,35792,Männlich
+75,BMW,i3,88407,Weiblich
+71,Jeep,Grand Cherokee,19787,Weiblich
+78,Hyundai,Nexo,12017,Männlich
+79,Skoda,Octavia,12352,Weiblich
+60,Mazda,Mazda6,38845,Männlich
+22,Opel,Grandland,21186,Weiblich
+79,Tesla,Model Y,36278,Männlich
+31,Tesla,Model S,38354,Weiblich
+16,Volkswagen,Touran,35560,Weiblich
+18,Tesla,Model Y,44088,Weiblich
+80,Nissan,Leaf,33909,Weiblich
+44,Alfa Romeo,Stelvio,40833,Männlich
+22,Mazda,Mazda6,13423,Männlich
+24,Skoda,Octavia,11356,Weiblich
+21,BMW Motorrad,F900R,8200,Weiblich
+67,Honda,Civic,9723,Männlich
+21,Peugeot,5008,6422,Männlich
+50,Porsche,911,164048,Weiblich
+35,BMW,1er,29495,Weiblich
+18,Nissan,Leaf,8433,Männlich
+37,Mercedes,E-Klasse,142087,Männlich
+50,Alfa Romeo,MiTo,71290,Männlich
+42,Toyota,Corolla,12509,Männlich
+38,Nissan,X-Trail,27304,Weiblich
+58,Citroen,C3,8166,Männlich
+63,Volvo,S60,17803,Männlich
+57,Ford,Mondeo,26987,Männlich
+34,Peugeot,308,14001,Weiblich
+56,Volkswagen,Polo,64977,Weiblich
+31,Toyota,Camry,23339,Weiblich
+17,Toyota,Corolla,42683,Weiblich
+46,Honda,Accord,28946,Männlich
+54,BMW,X1,28426,Männlich
+38,Mazda,Mazda6,23548,Weiblich
+80,Kia,Niro,33076,Männlich
+52,Audi,A3,75014,Männlich
+51,Mazda,Mazda3,32855,Weiblich
+19,Ford,Mondeo,19013,Weiblich
+62,Peugeot,208,15781,Weiblich
+75,Honda,Civic,10780,Weiblich
+53,Kia,Seltos,38395,Weiblich
+65,Citroen,C3,33633,Männlich
+25,Renault,Kadjar,11933,Weiblich
+22,Land Rover,Evoque,104690,Männlich
+25,Subaru,XV,43885,Männlich
+56,Audi,A8,69559,Männlich
+41,Renault,Kadjar,11755,Weiblich
+57,Opel,Zafira,19188,Weiblich
+60,Citroen,C5 Aircross,10139,Männlich
+45,Kia,Stonic,34590,Männlich
+66,Subaru,XV,22004,Weiblich
+23,Renault,Kadjar,21972,Männlich
+22,Porsche,Taycan,91059,Männlich
+17,Opel,Grandland,9811,Weiblich
+38,Toyota,RAV4,39190,Männlich
+39,Land Rover,Range Rover,98525,Männlich
+39,Volkswagen,Polo,30627,Weiblich
+76,Jeep,Wrangler,58541,Weiblich
+47,Volkswagen,ID.4,23979,Weiblich
+63,Tesla,Model X,51877,Weiblich
+71,Audi,Q8,106246,Weiblich
+39,Peugeot,3008,11721,Männlich
+29,Alfa Romeo,Giulietta,75331,Weiblich
+44,Nissan,Qashqai,14409,Männlich
+36,Toyota,C-HR,52553,Weiblich
+65,Citroen,C5 Aircross,32285,Weiblich
+37,Porsche,Macan,182326,Weiblich
+28,Alfa Romeo,Giulietta,22218,Weiblich
+40,Mitsubishi,Space Star,37871,Männlich
+58,Mitsubishi,ASX,29367,Weiblich
+49,Kia,Stonic,15689,Weiblich
+75,Subaru,Impreza,15939,Männlich
+28,Nissan,Micra,9871,Männlich
+57,Mazda,Mazda3,14218,Männlich
+29,Tesla,Model X,52442,Weiblich
+64,Land Rover,Discovery,91267,Männlich
+32,BMW Motorrad,F900R,7401,Männlich
+28,Mitsubishi,L200,9280,Männlich
+76,Volvo,XC40,44332,Männlich
+53,Volkswagen,Arteon,15539,Männlich
+22,Alfa Romeo,Giulia,46925,Männlich
+75,Subaru,Forester,21959,Weiblich
+64,Audi,A3,82713,Männlich
+36,Alfa Romeo,MiTo,56646,Männlich
+38,Opel,Astra,22165,Männlich
+43,Alfa Romeo,Giulia,48081,Männlich
+27,Porsche,Panamera,54238,Weiblich
+72,Mercedes,GLE,128583,Männlich
+21,Mazda,Mazda6,25327,Männlich
+17,Peugeot,3008,6393,Weiblich
+18,Mercedes,GLC,106316,Weiblich
+22,Audi,Q7,89201,Weiblich
+27,Nissan,X-Trail,27579,Männlich
+75,Nissan,Juke,38878,Weiblich
+47,Opel,Insignia,26951,Männlich
+78,Hyundai,i10,37777,Weiblich
+52,Peugeot,208,20211,Männlich
+31,Volkswagen,Tiguan,65501,Weiblich
+45,Honda,Accord,16341,Männlich
+63,Opel,Astra,20889,Weiblich
+56,Toyota,Corolla,51766,Weiblich
+80,Subaru,Outback,33343,Männlich
+36,Tesla,Model S,47351,Männlich
+40,Kia,Stonic,40920,Weiblich
+20,Porsche,Macan,149689,Männlich
+76,Hyundai,Tucson,26067,Weiblich
+52,Citroen,C4,32256,Männlich
+62,Toyota,Camry,32600,Männlich
+78,Volvo,XC40,63407,Weiblich
+69,Audi,Q7,81549,Männlich
+45,Ford,Kuga,33811,Männlich
+16,Mitsubishi,ASX,28177,Weiblich
+28,BMW,5er,62739,Männlich
+30,Tesla,Model X,41429,Männlich
+19,Volkswagen,Touran,49669,Männlich
+78,Hyundai,Tucson,32162,Männlich
+72,Citroen,C4,26887,Weiblich
+66,Kia,Rio,24138,Männlich
+54,Nissan,Micra,24478,Weiblich
+31,Skoda,Octavia,10358,Weiblich
+36,BMW,1er,62708,Männlich
+52,Volkswagen,Sharan,20926,Weiblich
+53,Honda,Accord,26507,Weiblich
+28,Jeep,Wrangler,54686,Männlich
+30,Alfa Romeo,MiTo,27488,Männlich
+18,Honda,Accord,14787,Weiblich
+48,Kia,Rio,38829,Weiblich
+70,Citroen,C5,23262,Männlich
+18,BMW,3er,97467,Weiblich
+40,Mercedes,S-Klasse,92399,Männlich
+31,Mercedes,V-Klasse,65161,Männlich
+22,Jeep,Compass,44562,Weiblich
+50,Audi,Q7,109038,Männlich
+64,Mazda,Mazda6,36867,Männlich
+17,Kia,Stonic,14571,Männlich
+72,Mitsubishi,Outlander,34329,Weiblich
+36,Volvo,XC60,60909,Männlich
+23,BMW Motorrad,F900R,12692,Männlich
+69,Jeep,Grand Cherokee,47570,Weiblich
+55,Peugeot,308,28978,Männlich
+19,BMW Motorrad,R1250GS,12114,Weiblich
+35,BMW,X3,80071,Männlich
+19,Peugeot,3008,19603,Weiblich
+31,Skoda,Superb,37788,Weiblich
+57,Volvo,XC90,62485,Männlich
+71,Mazda,Mazda2,28466,Männlich
+45,Mercedes,GLE,57164,Männlich
+51,Tesla,Model Y,68350,Weiblich
+46,Hyundai,i10,20911,Männlich
+51,Kia,Sportage,27013,Weiblich
+56,Toyota,Corolla,16120,Weiblich
+51,Volkswagen,Passat,16538,Weiblich
+67,Hyundai,i30,30709,Männlich
+24,Nissan,Juke,31688,Männlich
+38,Nissan,Juke,39754,Weiblich
+29,Subaru,Outback,35533,Weiblich
+62,Peugeot,5008,28388,Männlich
+33,Nissan,Qashqai,32276,Männlich
+25,Land Rover,Discovery,53872,Männlich
+75,Jeep,Grand Cherokee,56791,Weiblich
+54,Hyundai,Nexo,24951,Weiblich
+21,Mazda,Mazda2,19395,Männlich
+76,Opel,Mokka,21855,Männlich
+36,Hyundai,Santa Fe,31735,Weiblich
+54,Subaru,Forester,14455,Männlich
+63,Ford,Mondeo,18776,Männlich
+23,Honda,Jazz,12767,Männlich
+42,Skoda,Scala,35624,Weiblich
+52,Land Rover,Discovery,115243,Weiblich
+43,Mitsubishi,L200,26078,Weiblich
+60,Mitsubishi,Outlander,24413,Männlich
+75,Renault,Clio,23027,Männlich
+39,Jeep,Grand Cherokee,56408,Weiblich
+67,Citroen,C5,20977,Weiblich
+80,Volkswagen,Passat,35843,Weiblich
+73,BMW,i4,113741,Weiblich
+43,Mitsubishi,Outlander,12292,Weiblich
+44,Volkswagen,Polo,29465,Weiblich
+44,Ford,Focus,15953,Männlich
+50,Jeep,Grand Cherokee,53782,Weiblich
+52,Hyundai,Kona,43452,Männlich
+65,Kia,Niro,8687,Weiblich
+29,Mitsubishi,ASX,36622,Männlich
+20,Opel,Zafira,13645,Männlich
+56,Honda,CR-V,19974,Männlich
+55,Skoda,Kamiq,28334,Männlich
+32,Land Rover,Discovery,63473,Männlich
+55,Tesla,Model 3,36151,Weiblich
+33,Mitsubishi,ASX,37037,Männlich
+31,Alfa Romeo,Stelvio,61573,Männlich
+27,Subaru,Forester,14554,Männlich
+37,Citroen,C5,25025,Weiblich
+32,Mitsubishi,ASX,21615,Weiblich
+70,Kia,Seltos,21300,Weiblich
+23,Subaru,Outback,35048,Männlich
+24,Alfa Romeo,Stelvio,71485,Männlich
+18,Ford,Focus,37995,Weiblich
+43,Opel,Zafira,16106,Männlich
+57,Honda,Accord,17071,Männlich
+35,Porsche,Macan,199574,Weiblich
+35,Land Rover,Evoque,61169,Weiblich
+22,Peugeot,308,11658,Männlich
+62,BMW Motorrad,S1000RR,17713,Weiblich
+65,Mercedes,B-Klasse,32067,Weiblich
+28,Peugeot,308,15171,Weiblich
+58,Nissan,Micra,49606,Männlich
+43,Peugeot,508,20141,Weiblich
+32,Mercedes,GLS,81831,Weiblich
+67,Volvo,V90,27464,Weiblich
+26,Kia,Ceed,33472,Männlich
+48,Hyundai,Kona,25097,Weiblich
+25,Nissan,Navara,20249,Männlich
+32,Ford,Fiesta,37470,Männlich
+78,Mazda,Mazda6,16036,Weiblich
+31,Mazda,CX-5,24368,Weiblich
+39,Tesla,Model Y,78989,Männlich
+71,Subaru,Impreza,24815,Weiblich
+34,Jeep,Wrangler,36685,Männlich
+74,Mercedes,GLE,97686,Weiblich
+21,BMW Motorrad,S1000RR,14565,Weiblich
+51,Toyota,Yaris,47278,Weiblich
+65,Jeep,Wrangler,69551,Weiblich
+77,BMW Motorrad,S1000RR,15603,Weiblich
+60,Mitsubishi,L200,14075,Männlich
+57,Renault,Koleos,8570,Männlich
+63,Hyundai,i10,43620,Männlich
+73,Audi,A1,26479,Weiblich
+16,Audi,A1,84754,Männlich
+60,Volkswagen,Sharan,24729,Weiblich
+35,Volkswagen,Touareg,31409,Weiblich
+66,Mitsubishi,ASX,31497,Männlich
+69,Opel,Mokka,17121,Männlich
+35,Mazda,Mazda2,12049,Weiblich
+50,Volkswagen,Tiguan,28165,Weiblich
+38,Land Rover,Evoque,78609,Weiblich
+65,Nissan,Qashqai,35688,Männlich
+32,Nissan,Juke,16105,Männlich
+20,Subaru,XV,27497,Weiblich
+75,Peugeot,3008,8594,Männlich
+61,Honda,Accord,19726,Männlich
+72,Honda,CR-V,27590,Männlich
+19,Honda,Jazz,26892,Weiblich
+71,Mercedes,E-Klasse,115792,Weiblich
+26,Audi,A7,65657,Männlich
+23,Toyota,Yaris,44719,Männlich
+45,Hyundai,Santa Fe,13471,Männlich
+74,BMW,7er,95379,Weiblich
+27,Mitsubishi,L200,35758,Männlich
+56,Mitsubishi,Outlander,19743,Weiblich
+31,Mercedes,S-Klasse,93898,Weiblich
+24,Tesla,Model S,30813,Männlich
+30,Subaru,Forester,42367,Männlich
+56,Mazda,Mazda2,21440,Weiblich
+15,Mazda,Mazda2,35999,Männlich
+52,Jeep,Cherokee,32824,Männlich
+31,Volvo,S60,24612,Männlich
+20,Porsche,Macan,118571,Weiblich
+70,Honda,HR-V,24442,Männlich
+45,Toyota,C-HR,44689,Weiblich
+45,Skoda,Superb,44142,Männlich
+60,Skoda,Scala,23419,Weiblich
+27,Subaru,Outback,20410,Weiblich
+66,Porsche,Panamera,104746,Männlich
+33,Mitsubishi,L200,29480,Männlich
+75,BMW Motorrad,R1200GS,15472,Weiblich
+59,Hyundai,Santa Fe,18756,Männlich
+66,Kia,Niro,42886,Weiblich
+15,Land Rover,Discovery,58106,Männlich
+28,Subaru,Forester,18211,Weiblich
+57,Mitsubishi,ASX,37394,Männlich
+40,Nissan,Micra,18665,Weiblich
+73,Ford,Edge,19616,Weiblich
+17,BMW Motorrad,R1250GS,24495,Weiblich
+40,BMW Motorrad,R1200GS,20336,Männlich
+24,Land Rover,Evoque,117907,Weiblich
+28,Mercedes,E-Klasse,132961,Männlich
+39,Peugeot,3008,19304,Weiblich
+43,Ford,Fiesta,31048,Weiblich
+75,Mercedes,V-Klasse,40144,Weiblich
+33,Citroen,C5,13384,Männlich
+66,Renault,Megane,24569,Männlich
+41,Land Rover,Defender,60663,Weiblich
+74,Jeep,Cherokee,30847,Männlich
+65,Hyundai,Tucson,32731,Männlich
+53,Volvo,XC60,76911,Weiblich
+63,Mazda,Mazda6,16786,Männlich
+61,Honda,Civic,21929,Weiblich
+18,Toyota,Yaris,32341,Weiblich
+24,Toyota,RAV4,49781,Weiblich
+43,Volkswagen,Tiguan,12526,Männlich
+29,Skoda,Kamiq,32178,Männlich
+20,Citroen,C4,19808,Männlich
+26,Citroen,C3,32232,Männlich
+27,Mazda,Mazda3,39809,Weiblich
+76,Audi,Q8,51332,Weiblich
+38,Mercedes,GLE,129840,Männlich
+35,Audi,Q7,39103,Männlich
+28,Skoda,Fabia,20054,Männlich
+48,Skoda,Scala,38087,Weiblich
+17,Opel,Mokka,23477,Männlich
+61,Opel,Grandland,19714,Männlich
+54,Honda,Civic,10478,Weiblich
+39,Volvo,XC90,74290,Männlich
+43,Porsche,Macan,114223,Männlich
+40,Ford,Mondeo,27307,Weiblich
+44,Hyundai,Santa Fe,40837,Weiblich
+21,Renault,Clio,20065,Männlich
+66,Volkswagen,Touran,22862,Weiblich
+38,Opel,Zafira,17616,Weiblich
+41,Jeep,Cherokee,35350,Männlich
+33,BMW Motorrad,F900R,21602,Weiblich
+73,Opel,Mokka,15525,Männlich
+55,Renault,Captur,17221,Männlich
+65,Audi,A4,45633,Männlich
+20,BMW Motorrad,R1250GS,19332,Männlich
+64,Nissan,Micra,16798,Männlich
+75,Honda,Jazz,27221,Männlich
+17,Toyota,C-HR,27588,Weiblich
+77,Ford,Kuga,38280,Männlich
+44,Kia,Niro,27656,Männlich
+69,Citroen,C3,32412,Weiblich
+74,Ford,Mondeo,21996,Männlich
+35,Land Rover,Defender,71094,Weiblich
+61,Renault,Talisman,13577,Männlich
+77,Citroen,C3 Aircross,28390,Weiblich
+56,Honda,CR-V,34619,Männlich
+23,Skoda,Superb,43869,Männlich
+77,Nissan,Juke,23074,Männlich
+72,Jeep,Cherokee,28926,Männlich
+61,Volvo,V90,52794,Männlich
+48,Honda,HR-V,17009,Weiblich
+18,Ford,Fiesta,15601,Weiblich
+79,BMW Motorrad,F900R,23041,Männlich
+51,BMW,i4,81577,Weiblich
+67,Jeep,Grand Cherokee,21324,Weiblich
+29,Hyundai,i10,11026,Weiblich
+35,Jeep,Cherokee,41028,Weiblich
+69,Audi,A7,95857,Männlich
+43,Alfa Romeo,MiTo,26139,Männlich
+58,Honda,HR-V,9266,Weiblich
+33,Alfa Romeo,Giulia,38555,Weiblich
+62,Toyota,C-HR,45616,Männlich
+43,Mazda,Mazda6,18255,Männlich
+61,Citroen,C4,18651,Weiblich
+15,Nissan,Micra,43019,Männlich
+21,Skoda,Scala,24060,Männlich
+27,Nissan,Qashqai,33137,Männlich
+22,Volkswagen,Tiguan,35709,Weiblich
+74,Porsche,Cayenne,128006,Weiblich
+53,Jeep,Compass,19025,Weiblich
+50,Tesla,Model S,57642,Männlich
+31,Toyota,RAV4,40145,Weiblich
+30,Citroen,C5,14127,Männlich
+77,Citroen,C3 Aircross,17527,Weiblich
+45,Ford,Mustang,12153,Männlich
+48,Kia,Seltos,12322,Weiblich
+57,Peugeot,508,11958,Weiblich
+48,Audi,R8,80086,Weiblich
+70,Mitsubishi,Outlander,39799,Weiblich
+39,Mercedes,A-Klasse,138088,Männlich
+45,Mercedes,B-Klasse,43756,Weiblich
+29,Kia,Sportage,29888,Weiblich
+70,Renault,Koleos,12611,Weiblich
+43,Opel,Grandland,20365,Weiblich
+17,Jeep,Compass,26742,Männlich
+42,Porsche,Taycan,193897,Weiblich
+74,Peugeot,308,15191,Weiblich
+17,Volvo,S60,18791,Männlich
+20,Mercedes,E-Klasse,38858,Männlich
+34,Mitsubishi,Outlander,21466,Männlich
+33,Subaru,Impreza,23260,Weiblich
+48,Skoda,Kamiq,37209,Männlich
+70,BMW,X5,94556,Männlich
+62,Peugeot,308,7540,Weiblich
+19,Ford,Mustang,21205,Männlich
+40,Mercedes,AMG GT,129390,Weiblich
+66,Tesla,Model Y,30006,Weiblich
+36,Mazda,Mazda2,14258,Weiblich
+41,Tesla,Model S,32001,Männlich
+37,Jeep,Compass,21191,Männlich
+52,Alfa Romeo,Giulietta,33778,Weiblich
+26,Alfa Romeo,Giulia,55137,Weiblich
+15,Citroen,C4,20399,Männlich
+52,Land Rover,Discovery,73996,Männlich
+15,Jeep,Cherokee,37742,Weiblich
+51,Citroen,C5,29573,Weiblich
+39,Toyota,Corolla,44775,Männlich
+33,Mitsubishi,L200,22952,Männlich
+26,Jeep,Grand Cherokee,48345,Männlich
+40,Alfa Romeo,MiTo,34853,Weiblich
+61,Ford,Mondeo,15661,Weiblich
+43,Opel,Zafira,14313,Männlich
+55,Mercedes,C-Klasse,95042,Weiblich
+36,Opel,Grandland,29392,Männlich
+59,Honda,HR-V,12929,Weiblich
+20,Volkswagen,Touareg,21356,Männlich
+79,Peugeot,Partner,16642,Weiblich
+71,BMW,X6,119044,Männlich
+35,Alfa Romeo,Stelvio,79172,Weiblich
+34,Hyundai,i20,11037,Weiblich
+63,Kia,Rio,38682,Weiblich
+41,Honda,CR-V,27476,Männlich
+68,Jeep,Grand Cherokee,43659,Weiblich
+68,Hyundai,i10,26310,Weiblich
+71,Volvo,V90,33213,Weiblich
+17,Kia,Rio,25937,Weiblich
+47,Skoda,Fabia,15916,Männlich
+33,BMW,i3,66994,Männlich
+75,Ford,Kuga,11749,Weiblich
+75,Renault,Koleos,13364,Weiblich
+61,Mercedes,V-Klasse,134435,Männlich
+26,Volvo,V90,58383,Männlich
+59,Peugeot,508,18847,Männlich
+80,Mazda,CX-5,33861,Weiblich
+23,Volvo,XC60,31801,Weiblich
+30,Mazda,Mazda3,32764,Männlich
+71,Hyundai,Santa Fe,32764,Männlich
+34,Opel,Insignia,17877,Weiblich
+59,Honda,Jazz,29194,Weiblich
+23,Toyota,Corolla,23908,Weiblich
+21,Land Rover,Evoque,104236,Männlich
+80,Mazda,CX-5,37091,Weiblich
+20,Hyundai,Santa Fe,13599,Weiblich
+20,Land Rover,Defender,31384,Männlich
+53,Peugeot,308,10972,Männlich
+66,Audi,Q3,92856,Männlich
+68,BMW,5er,101897,Männlich
+75,Audi,Q5,96464,Weiblich
+36,Opel,Mokka,24378,Weiblich
+54,Nissan,Navara,48266,Weiblich
+40,Jeep,Wrangler,47885,Weiblich
+78,Honda,CR-V,27209,Männlich
+70,Peugeot,508,7029,Männlich
+36,Mitsubishi,L200,32133,Männlich
+41,Hyundai,Nexo,24901,Männlich
+26,Tesla,Model 3,53430,Männlich
+66,Hyundai,i10,25149,Männlich
+15,Skoda,Kodiaq,15798,Weiblich
+33,Tesla,Model 3,52003,Weiblich
+34,Skoda,Scala,32586,Weiblich
+57,Honda,HR-V,27048,Weiblich
+79,BMW,5er,23673,Weiblich
+79,Kia,Seltos,35982,Weiblich
+43,Land Rover,Range Rover,70368,Männlich
+20,Opel,Zafira,18119,Weiblich
+20,Audi,Q3,95949,Weiblich
+61,Subaru,Outback,27284,Männlich
+59,Citroen,C5,14670,Männlich
+76,Hyundai,i20,28487,Männlich
+65,Skoda,Kodiaq,12235,Männlich
+60,Subaru,Forester,42941,Männlich
+74,Land Rover,Range Rover,68530,Weiblich
+73,Alfa Romeo,Stelvio,47957,Weiblich
+42,Tesla,Model X,45766,Weiblich
+17,Nissan,Micra,44628,Männlich
+35,Citroen,C3,21521,Weiblich
+34,Skoda,Kamiq,33193,Männlich
+21,BMW,i3,39420,Männlich
+15,BMW,X1,70026,Weiblich
+62,Porsche,Taycan,100229,Weiblich
+33,Peugeot,3008,8932,Männlich
+58,Opel,Mokka,21107,Männlich
+41,Mazda,Mazda2,31242,Männlich
+32,Peugeot,508,12885,Weiblich
+37,Land Rover,Defender,77211,Männlich
+49,Mazda,CX-5,22838,Weiblich
+50,Peugeot,5008,17286,Weiblich
+48,Tesla,Model S,51456,Männlich
+70,BMW Motorrad,S1000RR,9764,Männlich
+66,Kia,Seltos,41383,Weiblich
+30,Peugeot,5008,11607,Männlich
+52,Kia,Sportage,10575,Männlich
+78,Subaru,XV,23925,Männlich
+44,BMW,i3,37882,Männlich
+77,Opel,Mokka,12166,Weiblich
+24,Land Rover,Discovery,85504,Weiblich
+42,Volvo,S60,61377,Weiblich
+20,Honda,Accord,30687,Weiblich
+59,BMW Motorrad,R1200GS,23292,Weiblich
+67,Audi,R8,41125,Weiblich
+57,Hyundai,Santa Fe,23225,Männlich
+60,BMW,i4,105380,Weiblich
+58,Skoda,Scala,14257,Männlich
+70,Volkswagen,Polo,48080,Männlich
+30,Toyota,Land Cruiser,21056,Weiblich
+45,Alfa Romeo,Giulietta,49769,Weiblich
+75,Tesla,Model S,65424,Männlich
+22,Mitsubishi,ASX,25638,Weiblich
+38,Toyota,C-HR,52301,Weiblich
+53,Kia,Stonic,29611,Männlich
+46,Kia,Seltos,17970,Männlich
+68,Subaru,Forester,16547,Männlich
+46,Kia,Ceed,44935,Männlich
+53,Renault,Megane,13786,Weiblich
+25,Peugeot,208,20737,Männlich
+73,Subaru,Impreza,38892,Männlich
+55,Honda,Civic,34593,Weiblich
+17,Audi,Q3,24605,Männlich
+39,Honda,Civic,34009,Männlich
+68,Mercedes,AMG GT,24877,Männlich
+78,BMW,X3,79691,Weiblich
+55,Alfa Romeo,Giulietta,18349,Männlich
+42,Mazda,CX-5,23911,Weiblich
+26,Mercedes,C-Klasse,32186,Männlich
+33,Land Rover,Defender,25678,Männlich
+38,Mitsubishi,Space Star,29206,Männlich
+60,Porsche,911,56503,Weiblich
+20,Mitsubishi,Outlander,30282,Weiblich
+49,Peugeot,3008,19089,Männlich
+76,Skoda,Kamiq,32292,Männlich
+64,Volkswagen,Touran,26394,Männlich
+44,Mazda,Mazda6,19250,Männlich
+16,Ford,Edge,34874,Männlich
+78,Nissan,Leaf,19022,Weiblich
+21,Subaru,Outback,14076,Männlich
+60,Skoda,Fabia,31385,Männlich
+18,Peugeot,3008,14407,Weiblich
+35,Hyundai,Nexo,34187,Männlich
+63,Alfa Romeo,Giulietta,73220,Männlich
+37,BMW,1er,49252,Männlich
+69,BMW,3er,64067,Männlich
+74,Jeep,Grand Cherokee,29021,Männlich
+17,Opel,Zafira,11555,Weiblich
+48,Toyota,C-HR,36945,Weiblich
+65,Hyundai,Santa Fe,16697,Männlich
+66,Honda,Accord,20936,Männlich
+16,Ford,Edge,16984,Weiblich
+47,Toyota,RAV4,14024,Weiblich
+56,Toyota,RAV4,44723,Weiblich
+46,Porsche,Cayenne,199634,Weiblich
+19,Peugeot,208,14932,Weiblich
+57,Citroen,C4,27279,Männlich
+71,Porsche,911,135729,Weiblich
+22,Subaru,Impreza,17986,Weiblich
+53,Tesla,Model X,61345,Weiblich
+35,Toyota,Corolla,25481,Weiblich
+59,Land Rover,Evoque,65317,Weiblich
+60,BMW,X1,75872,Männlich
+75,Volvo,V90,35712,Männlich
+74,Citroen,C4,32180,Männlich
+25,BMW,2er,72343,Männlich
+23,Mitsubishi,ASX,19811,Männlich
+68,Nissan,X-Trail,19860,Weiblich
+75,Hyundai,i20,20085,Männlich
+32,Mitsubishi,Space Star,14608,Männlich
+47,Renault,Kadjar,18368,Weiblich
+76,Land Rover,Range Rover,110688,Weiblich
+54,Subaru,Forester,22612,Männlich
+64,Peugeot,Partner,9822,Weiblich
+50,Tesla,Model 3,46183,Weiblich
+23,Volvo,XC90,46585,Weiblich
+25,Hyundai,i20,26953,Weiblich
+22,Tesla,Model Y,32415,Weiblich
+29,Jeep,Grand Cherokee,19457,Weiblich
+58,Volkswagen,ID.4,47725,Männlich
+63,Nissan,X-Trail,32995,Weiblich
+25,Mercedes,GLS,136578,Weiblich
+63,Toyota,Yaris,53125,Männlich
+68,Nissan,Qashqai,15316,Männlich
+41,Porsche,Taycan,79959,Männlich
+44,Opel,Corsa,29886,Männlich
+64,Subaru,Impreza,38614,Weiblich
+40,Peugeot,208,22119,Weiblich
+60,Renault,Captur,28292,Weiblich
+49,Volvo,XC90,71100,Weiblich
+77,Skoda,Scala,26146,Männlich
+19,BMW Motorrad,R1250GS,22817,Weiblich
+22,Skoda,Kamiq,18631,Männlich
+18,BMW,5er,67941,Männlich
+61,Toyota,Land Cruiser,20564,Weiblich
+42,Porsche,911,160391,Männlich
+60,Alfa Romeo,Stelvio,30704,Weiblich
+35,Jeep,Cherokee,55283,Weiblich
+29,Porsche,Taycan,150240,Männlich
+38,Subaru,Outback,31219,Männlich
+44,BMW,i4,115574,Weiblich
+30,Volvo,XC40,49911,Weiblich
+39,Porsche,Panamera,198561,Männlich
+63,Hyundai,Nexo,17344,Männlich
+15,Mitsubishi,L200,24675,Männlich
+71,Hyundai,Kona,19943,Männlich
+36,Alfa Romeo,Giulietta,59545,Weiblich
+21,Toyota,RAV4,10389,Männlich
+60,Jeep,Cherokee,66131,Männlich
+72,Volkswagen,Touareg,32825,Männlich
+61,Kia,Niro,26023,Männlich
+67,Renault,Talisman,27530,Weiblich
+79,Alfa Romeo,Stelvio,50314,Weiblich
+72,Land Rover,Discovery,113521,Männlich
+77,Alfa Romeo,MiTo,63278,Weiblich
+76,Mitsubishi,Space Star,13222,Weiblich
+27,Jeep,Wrangler,20773,Männlich
+20,Tesla,Model 3,47118,Weiblich
+38,Nissan,X-Trail,9384,Weiblich
+44,Volvo,V90,28665,Weiblich
+72,Volvo,XC90,66565,Weiblich
+64,Citroen,C3 Aircross,10985,Weiblich
+42,Porsche,Panamera,66725,Männlich
+62,Renault,Kadjar,23677,Männlich
+80,Porsche,Taycan,159549,Weiblich
+18,Peugeot,3008,27218,Weiblich
+28,Volkswagen,Sharan,55174,Männlich
+26,Citroen,C5 Aircross,7290,Weiblich
+38,Volkswagen,Sharan,52556,Weiblich
+26,BMW Motorrad,F900R,18978,Weiblich
+76,Opel,Mokka,21143,Männlich
+72,Audi,Q8,34694,Männlich
+54,Peugeot,3008,16182,Weiblich
+74,Mitsubishi,ASX,15777,Weiblich
+15,Honda,Jazz,18112,Weiblich
+28,Volkswagen,Golf,54110,Männlich
+58,Peugeot,3008,8476,Männlich
+42,BMW,4er,58580,Weiblich
+73,Mercedes,GLS,85097,Weiblich
+37,Renault,Captur,28147,Männlich
+40,Audi,A8,32238,Männlich
+22,BMW,2er,27181,Männlich
+72,Audi,Q7,77591,Männlich
+35,BMW,3er,64524,Weiblich
+47,Alfa Romeo,Stelvio,34306,Weiblich
+54,Citroen,C4,27705,Weiblich
+38,Peugeot,208,23200,Weiblich
+57,Porsche,Cayenne,196590,Weiblich
+79,Jeep,Wrangler,17473,Weiblich
+29,Tesla,Model X,31911,Männlich
+31,Land Rover,Range Rover,53361,Weiblich
+22,Jeep,Wrangler,64020,Weiblich
+54,Subaru,XV,12013,Männlich
+15,Jeep,Cherokee,61930,Weiblich
+68,BMW,Z4,52825,Weiblich
+55,Porsche,Taycan,85561,Männlich
+41,Nissan,Juke,30888,Weiblich
+62,BMW Motorrad,F900R,11906,Männlich
+31,Hyundai,i20,12260,Männlich
+24,Citroen,C3 Aircross,16274,Männlich
+56,Renault,Clio,21452,Männlich
+32,BMW Motorrad,S1000RR,6640,Weiblich
+80,Hyundai,Nexo,26161,Männlich
+27,Tesla,Model S,35887,Weiblich
+56,Land Rover,Range Rover,49164,Männlich
+64,Jeep,Grand Cherokee,42313,Männlich
+25,Mitsubishi,Space Star,36505,Männlich
+63,Nissan,Navara,11981,Weiblich
+46,Skoda,Fabia,23113,Männlich
+35,Hyundai,Santa Fe,40898,Männlich
+56,Volvo,V90,45345,Männlich
+57,Kia,Rio,40288,Weiblich
+77,Mazda,CX-5,35859,Männlich
+68,Mazda,CX-5,20563,Weiblich
+69,Mazda,CX-5,36019,Weiblich
+33,Toyota,Land Cruiser,16142,Weiblich
+69,Skoda,Fabia,13638,Männlich
+78,Citroen,C5,5950,Männlich
+48,Volkswagen,Touran,64304,Weiblich
+69,Land Rover,Defender,100547,Männlich
+63,Mitsubishi,Space Star,12289,Weiblich
+35,Opel,Zafira,18180,Männlich
+31,Alfa Romeo,Stelvio,56540,Weiblich
+24,Toyota,RAV4,31189,Weiblich
+55,Honda,Accord,8854,Männlich
+70,Volvo,V90,71913,Weiblich
+64,Mercedes,C-Klasse,146586,Weiblich
+19,Nissan,Juke,45496,Weiblich
+48,Mitsubishi,Space Star,40000,Weiblich
+17,Ford,Focus,12000,Weiblich
+75,Renault,Koleos,5959,Weiblich
+74,Volvo,XC90,37658,Männlich
+53,Ford,Kuga,15511,Weiblich
+43,Alfa Romeo,Giulia,72343,Männlich
+50,Jeep,Grand Cherokee,22280,Männlich
+75,Opel,Zafira,20844,Weiblich
+43,Ford,Mustang,36442,Weiblich
+20,Skoda,Fabia,40976,Männlich
+55,Toyota,RAV4,37439,Weiblich
+41,Opel,Zafira,10713,Weiblich
+46,BMW,5er,78149,Männlich
+20,Ford,Mustang,11909,Weiblich
+21,Mazda,Mazda3,33735,Weiblich
+78,Subaru,Outback,21659,Männlich
+73,Honda,CR-V,34786,Männlich
+29,Honda,CR-V,30205,Männlich
+71,Citroen,C4,22256,Männlich
+38,Toyota,Land Cruiser,35617,Männlich
+63,BMW,X5,58972,Weiblich
+78,Volvo,XC60,17128,Männlich
+34,Toyota,Corolla,23067,Weiblich
+30,Citroen,C4,9480,Weiblich
+74,Ford,Kuga,39159,Männlich
+62,Alfa Romeo,Giulietta,54312,Männlich
+58,Honda,CR-V,10089,Männlich
+67,Opel,Astra,19321,Männlich
+15,Peugeot,308,14899,Männlich
+56,Opel,Zafira,18072,Weiblich
+56,Nissan,Qashqai,22796,Männlich
+62,Mazda,Mazda6,14683,Weiblich
+17,Audi,R8,51874,Männlich
+41,Renault,Kadjar,19224,Weiblich
+15,Nissan,X-Trail,26024,Männlich
+27,Honda,Civic,22584,Weiblich
+35,Audi,A7,90172,Männlich
+33,BMW,i4,36071,Männlich
+58,Alfa Romeo,Giulia,34008,Männlich
+47,Mazda,Mazda2,14918,Weiblich
+77,Alfa Romeo,Giulietta,22363,Männlich
+30,Toyota,RAV4,52528,Weiblich
+66,Land Rover,Range Rover,33581,Männlich
+61,Citroen,C4,6660,Männlich
+62,Alfa Romeo,Giulietta,41046,Weiblich
+39,Tesla,Model X,72849,Weiblich
+45,Audi,A8,59560,Männlich
+73,Skoda,Scala,26281,Männlich
+70,Skoda,Scala,27751,Weiblich
+51,Hyundai,i20,23302,Weiblich
+25,Skoda,Kamiq,28422,Weiblich
+75,Peugeot,508,13511,Männlich
+57,Volvo,XC40,28193,Männlich
+59,BMW,X1,32915,Männlich
+64,Land Rover,Range Rover,68555,Männlich
+49,Land Rover,Evoque,87835,Weiblich
+31,Jeep,Compass,67783,Weiblich
+57,Nissan,Micra,45485,Männlich
+57,Skoda,Scala,26728,Männlich
+70,Kia,Stonic,13373,Weiblich
+29,Opel,Insignia,19095,Männlich
+65,Audi,TT,25376,Männlich
+80,Porsche,911,141491,Weiblich
+36,Subaru,Forester,43497,Weiblich
+23,Mercedes,E-Klasse,47204,Weiblich
+69,Mitsubishi,L200,12254,Männlich
+50,Opel,Zafira,27192,Weiblich
+75,Porsche,911,198805,Männlich
+43,Kia,Stonic,17836,Männlich
+21,Audi,Q3,102120,Männlich
+64,BMW Motorrad,F900R,23913,Weiblich
+74,Volkswagen,Golf,44232,Männlich
+18,BMW,5er,24679,Weiblich
+56,BMW Motorrad,R1250GS,12416,Weiblich
+54,Citroen,C5 Aircross,17351,Männlich
+74,Volkswagen,Tiguan,24844,Weiblich
+43,Porsche,Macan,105814,Männlich
+22,Subaru,Forester,35997,Männlich
+51,Subaru,Outback,40484,Männlich
+80,Tesla,Model X,26616,Weiblich
+62,Subaru,Impreza,32939,Weiblich
+32,BMW,X5,45739,Weiblich
+67,Citroen,C3,24209,Weiblich
+41,Hyundai,i20,18723,Männlich
+80,Mazda,Mazda3,35740,Männlich
+59,Opel,Mokka,14930,Männlich
+76,Peugeot,5008,27873,Weiblich
+78,Volkswagen,Touareg,20695,Männlich
+51,Hyundai,i30,39842,Männlich
+58,Honda,Jazz,23572,Männlich
+42,Mercedes,C-Klasse,47757,Weiblich
+51,Opel,Zafira,19076,Männlich
+62,Audi,A6,108476,Weiblich
+43,Audi,Q8,67304,Weiblich
+21,Volkswagen,Arteon,47847,Männlich
+80,Kia,Stonic,22585,Männlich
+45,Tesla,Model Y,79997,Weiblich
+72,Subaru,Impreza,43835,Weiblich
+38,BMW Motorrad,R1250GS,19686,Männlich
+48,Nissan,Qashqai,12230,Weiblich
+15,BMW Motorrad,R1200GS,7796,Männlich
+62,Mercedes,S-Klasse,103158,Weiblich
+65,Volkswagen,Passat,27509,Weiblich
+56,Citroen,C3,23943,Männlich
+58,Audi,Q7,22720,Männlich
+44,Mazda,Mazda6,29998,Weiblich
+65,Kia,Ceed,38740,Weiblich
+26,Skoda,Kamiq,37454,Weiblich
+28,Ford,Kuga,15719,Männlich
+80,Renault,Kadjar,13497,Männlich
+56,Alfa Romeo,Stelvio,25070,Männlich
+16,Audi,A8,18955,Weiblich
+35,Mercedes,A-Klasse,124463,Männlich
+47,Subaru,Outback,19522,Weiblich
+19,Skoda,Octavia,21339,Männlich
+43,Audi,A4,79121,Männlich
+64,Hyundai,Tucson,13641,Männlich
+63,BMW,5er,16835,Männlich
+48,Nissan,Juke,39283,Männlich
+32,Mercedes,A-Klasse,75495,Männlich
+55,Jeep,Renegade,60503,Männlich
+35,Nissan,Juke,22582,Männlich
+30,Porsche,Cayenne,95441,Weiblich
+44,Toyota,Land Cruiser,13725,Weiblich
+58,Mazda,Mazda2,18967,Weiblich
+39,Mitsubishi,L200,25883,Weiblich
+40,Volvo,XC60,58852,Weiblich
+65,Land Rover,Discovery,83536,Männlich
+56,Citroen,C3 Aircross,21969,Weiblich
+51,Peugeot,3008,8901,Männlich
+41,Honda,Jazz,22210,Männlich
+52,Tesla,Model S,70422,Männlich
+49,Alfa Romeo,Stelvio,61553,Männlich
+49,Volvo,XC40,79520,Weiblich
+76,Skoda,Scala,16555,Weiblich
+54,Ford,Mustang,26042,Männlich
+16,Toyota,Corolla,27365,Männlich
+42,Mercedes,B-Klasse,69084,Weiblich
+42,Toyota,C-HR,41837,Weiblich
+62,Hyundai,Nexo,14531,Männlich
+60,Alfa Romeo,Giulietta,59595,Weiblich
+24,BMW Motorrad,S1000RR,24972,Männlich
+77,Audi,A7,26953,Männlich
+24,Jeep,Wrangler,21141,Weiblich
+19,Peugeot,308,19055,Männlich
+59,Volvo,XC90,53547,Männlich
+32,Mitsubishi,Outlander,31918,Männlich
+23,Ford,Focus,29675,Weiblich
+57,Mazda,CX-5,23008,Männlich
+20,Opel,Mokka,20592,Weiblich
+38,Ford,Mustang,39429,Weiblich
+46,Opel,Insignia,23354,Männlich
+17,Kia,Niro,38446,Weiblich
+31,Tesla,Model S,79341,Männlich
+51,Opel,Grandland,21750,Männlich
+19,Ford,Mustang,11311,Männlich
+18,Volkswagen,Tiguan,63139,Männlich
+19,Alfa Romeo,Giulia,28577,Männlich
+24,Opel,Zafira,9367,Männlich
+72,Kia,Rio,23327,Männlich
+74,Peugeot,508,20251,Weiblich
+49,Hyundai,Tucson,36064,Männlich
+61,Toyota,Corolla,29194,Weiblich
+70,Volkswagen,Golf,50921,Männlich
+42,Jeep,Renegade,38319,Weiblich
+68,Citroen,C3,32800,Männlich
+45,Volvo,XC40,42003,Männlich
+37,Mazda,Mazda2,37855,Männlich
+16,BMW Motorrad,R1200GS,20160,Männlich
+46,Skoda,Superb,12777,Weiblich
+58,Opel,Astra,17500,Weiblich
+52,Volkswagen,Polo,28264,Männlich
+74,Mercedes,A-Klasse,87180,Weiblich
+80,Hyundai,Kona,36010,Weiblich
+42,Jeep,Compass,67677,Männlich
+48,Alfa Romeo,MiTo,48323,Weiblich
+63,Nissan,Navara,27047,Männlich
+42,Alfa Romeo,MiTo,51029,Männlich
+34,Subaru,Forester,31328,Männlich
+72,Volvo,XC90,18337,Weiblich
+65,Skoda,Kodiaq,25380,Männlich
+59,Ford,Mondeo,30544,Männlich
+69,Mitsubishi,ASX,21626,Weiblich
+36,Volkswagen,Tiguan,65752,Männlich
+63,Volkswagen,Sharan,59190,Männlich
+58,BMW,X1,57585,Weiblich
+44,Ford,Mondeo,35977,Weiblich
+32,Opel,Insignia,20034,Weiblich
+68,Peugeot,Partner,12026,Männlich
+66,Opel,Astra,24166,Männlich
+73,Alfa Romeo,MiTo,32484,Männlich
+71,Mercedes,C-Klasse,73838,Männlich
+41,BMW Motorrad,R1200GS,12907,Männlich
+24,Mitsubishi,L200,39977,Männlich
+32,BMW,X6,23836,Weiblich
+25,Citroen,C3,25776,Männlich
+18,Tesla,Model 3,48714,Weiblich
+60,Toyota,Land Cruiser,19422,Männlich
+36,Tesla,Model 3,40513,Männlich
+60,Skoda,Octavia,15761,Weiblich
+78,Peugeot,5008,19404,Weiblich
+60,Citroen,C4,15643,Weiblich
+52,Honda,HR-V,33451,Weiblich
+59,Kia,Sportage,37449,Weiblich
+46,Ford,Focus,32485,Weiblich
+30,BMW Motorrad,F900R,8062,Weiblich
+34,Nissan,Leaf,45956,Männlich
+55,Peugeot,Partner,11007,Männlich
+33,Kia,Ceed,39825,Weiblich
+68,Honda,Civic,34552,Männlich
+22,Citroen,C5,10977,Männlich
+19,Renault,Talisman,23810,Männlich
+66,Hyundai,Santa Fe,33066,Männlich
+60,Nissan,Navara,21191,Weiblich
+16,Skoda,Kamiq,41352,Weiblich
+31,Renault,Koleos,5897,Männlich
+73,Mazda,CX-5,24599,Weiblich
+79,Land Rover,Range Rover,114842,Weiblich
+34,BMW Motorrad,F900R,20386,Weiblich
+32,Tesla,Model 3,38668,Weiblich
+31,BMW,X6,92386,Weiblich
+36,Nissan,Micra,39192,Weiblich
+74,BMW,Z4,35327,Männlich
+77,Porsche,Macan,64771,Weiblich
+51,Peugeot,3008,20621,Männlich
+31,Opel,Zafira,24210,Weiblich
+57,BMW Motorrad,S1000RR,6482,Männlich
+19,Mercedes,AMG GT,115202,Männlich
+44,Kia,Seltos,8546,Weiblich
+39,Subaru,Outback,22812,Weiblich
+43,Peugeot,208,10587,Männlich
+33,BMW Motorrad,S1000RR,23744,Weiblich
+47,Nissan,Micra,20349,Weiblich
+40,Peugeot,3008,14027,Männlich
+42,Hyundai,Nexo,40862,Weiblich
+79,Volkswagen,Sharan,25050,Männlich
+66,Porsche,Taycan,148583,Männlich
+77,Porsche,Panamera,64326,Männlich
+41,Toyota,Yaris,21292,Männlich
+60,Jeep,Wrangler,39782,Weiblich
+36,Kia,Stonic,26596,Weiblich
+18,Land Rover,Evoque,43528,Männlich
+60,Toyota,RAV4,11792,Weiblich
+69,Mitsubishi,ASX,32979,Männlich
+36,BMW,7er,61455,Männlich
+55,Honda,Jazz,20108,Weiblich
+65,Mazda,Mazda6,19275,Männlich
+70,Tesla,Model Y,28287,Männlich
+22,Alfa Romeo,Stelvio,46126,Weiblich
+60,Honda,Jazz,29633,Männlich
+65,Volvo,XC90,24568,Weiblich
+66,Porsche,Panamera,140781,Weiblich
+39,Mercedes,B-Klasse,79168,Männlich
+16,Jeep,Renegade,54183,Männlich
+28,Alfa Romeo,Stelvio,76890,Weiblich
+77,Mercedes,AMG GT,86829,Männlich
+27,Alfa Romeo,MiTo,72811,Männlich
+46,Tesla,Model S,65053,Weiblich
+42,Mitsubishi,ASX,8118,Männlich
+33,Porsche,911,61074,Männlich
+54,Volkswagen,Tiguan,10232,Männlich
+52,Opel,Zafira,29006,Männlich
+47,BMW,2er,110273,Weiblich
+57,BMW,i3,27979,Männlich
+77,Hyundai,Nexo,35482,Männlich
+42,Jeep,Grand Cherokee,63191,Weiblich
+39,Subaru,Impreza,16518,Männlich
+41,Hyundai,Santa Fe,27807,Weiblich
+23,Volvo,V90,60358,Weiblich
+49,Jeep,Grand Cherokee,62894,Weiblich
+21,Peugeot,308,29745,Männlich
+76,Jeep,Grand Cherokee,15050,Männlich
+66,Opel,Corsa,23342,Männlich
+35,Mazda,CX-5,20686,Männlich
+75,Hyundai,i20,32531,Weiblich
+27,Alfa Romeo,MiTo,23264,Männlich
+78,Audi,A8,61191,Männlich
+17,Opel,Insignia,19237,Weiblich
+16,Mercedes,AMG GT,142788,Männlich
+25,Volkswagen,Arteon,15487,Männlich
+44,Land Rover,Defender,25338,Männlich
+79,Hyundai,i10,12407,Männlich
+42,Ford,Mustang,10724,Weiblich
+68,Porsche,911,54900,Weiblich
+72,Volvo,XC60,57800,Weiblich
+46,Subaru,XV,25161,Weiblich
+20,Alfa Romeo,Stelvio,34659,Männlich
+55,Skoda,Scala,38717,Männlich
+76,Porsche,Panamera,195013,Männlich
+16,Skoda,Fabia,19892,Männlich
+48,Tesla,Model Y,66872,Männlich
+18,Alfa Romeo,MiTo,58087,Weiblich
+78,Peugeot,508,24481,Männlich
+75,Renault,Koleos,26532,Männlich
+58,Porsche,Taycan,59934,Weiblich
+44,Jeep,Wrangler,20291,Männlich
+78,Audi,R8,100627,Weiblich
+62,Opel,Grandland,26436,Männlich
+24,Citroen,C5,31950,Männlich
+74,Skoda,Kamiq,14619,Männlich
+57,Mitsubishi,ASX,37523,Männlich
+67,BMW Motorrad,F900R,5515,Weiblich
+42,Opel,Insignia,20886,Weiblich
+52,Kia,Sportage,41189,Männlich
+35,Kia,Niro,12002,Männlich
+68,Subaru,XV,42761,Weiblich
+36,Tesla,Model 3,43993,Männlich
+33,BMW,Z4,74108,Weiblich
+33,Mazda,Mazda3,30500,Weiblich
+16,Peugeot,308,29267,Männlich
+45,Renault,Talisman,9460,Männlich
+74,Mercedes,A-Klasse,77978,Männlich
+46,Ford,Mustang,37574,Weiblich
+64,Honda,CR-V,8449,Weiblich
+80,Kia,Rio,28925,Weiblich
+31,Alfa Romeo,Stelvio,77631,Weiblich
+31,Toyota,RAV4,25441,Männlich
+73,Mazda,Mazda2,29260,Männlich
+26,Honda,Accord,13709,Weiblich
+31,Toyota,RAV4,43359,Männlich
+67,Volkswagen,ID.4,24563,Weiblich
+58,Ford,Kuga,36188,Weiblich
+27,Hyundai,i20,31552,Weiblich
+37,Kia,Niro,33854,Weiblich
+65,Renault,Megane,12968,Weiblich
+44,Kia,Stonic,39866,Männlich
+56,Nissan,Juke,21657,Männlich
+51,Alfa Romeo,MiTo,66201,Weiblich
+80,Renault,Kadjar,9574,Männlich
+60,Nissan,Qashqai,17444,Männlich
+73,Subaru,Impreza,17501,Männlich
+79,Volkswagen,ID.3,59346,Weiblich
+35,Subaru,Outback,33451,Weiblich
+72,Land Rover,Range Rover,80454,Männlich
+64,Audi,TT,98806,Männlich
+45,Nissan,Qashqai,44431,Männlich
+28,Volkswagen,Tiguan,62094,Männlich
+50,Tesla,Model 3,78133,Weiblich
+70,Hyundai,i10,42420,Männlich
+40,Hyundai,i20,21435,Weiblich
+75,Mitsubishi,Space Star,31896,Weiblich
+68,BMW,X6,22360,Weiblich
+24,Jeep,Grand Cherokee,15223,Weiblich
+35,Opel,Mokka,25939,Weiblich
+51,Mercedes,GLA,103573,Männlich
+19,Mazda,Mazda6,22220,Weiblich
+41,Porsche,Cayenne,147015,Weiblich
+17,Jeep,Grand Cherokee,43296,Männlich
+47,Alfa Romeo,Giulia,47908,Männlich
+20,Porsche,Macan,128071,Weiblich
+74,Peugeot,208,12517,Männlich
+19,Opel,Insignia,20399,Männlich
+80,Volkswagen,ID.4,69241,Männlich
+68,Kia,Rio,26172,Männlich
+39,BMW,X1,87498,Weiblich
+45,BMW Motorrad,S1000RR,7319,Weiblich
+73,Renault,Koleos,8720,Männlich
+49,Citroen,C5,5052,Weiblich
+31,Volvo,XC90,59538,Männlich
+36,Alfa Romeo,Giulietta,24057,Weiblich
+25,Volvo,S60,39545,Männlich
+40,Tesla,Model X,59762,Männlich
+64,Volkswagen,ID.4,66820,Männlich
+57,Mazda,Mazda3,33843,Männlich
+55,Land Rover,Range Rover,32309,Weiblich
+27,Alfa Romeo,Giulia,17000,Weiblich
+76,Tesla,Model Y,75623,Männlich
+58,Land Rover,Discovery,109620,Weiblich
+61,Audi,Q8,24981,Männlich
+31,BMW Motorrad,R1250GS,10150,Männlich
+54,Porsche,Macan,69336,Männlich
+74,Alfa Romeo,Giulia,63029,Weiblich
+79,Nissan,X-Trail,17486,Männlich
+60,Citroen,C5 Aircross,7459,Männlich
+35,BMW,X3,105351,Weiblich
+26,Kia,Seltos,41926,Weiblich
+71,Toyota,Land Cruiser,14753,Männlich
+61,Mercedes,B-Klasse,124657,Männlich
+41,Tesla,Model 3,29063,Weiblich
+58,Mazda,Mazda2,26096,Weiblich
+34,BMW,X1,110224,Männlich
+20,Renault,Captur,16297,Männlich
+55,Renault,Captur,19317,Männlich
+26,Mercedes,E-Klasse,106340,Männlich
+49,Jeep,Cherokee,33758,Weiblich
+69,Tesla,Model S,50031,Männlich
+46,Volkswagen,Polo,56000,Männlich
+57,Tesla,Model Y,31678,Weiblich
+57,Audi,Q8,109427,Weiblich
+30,Mazda,CX-5,28603,Weiblich
+47,Porsche,Macan,50034,Männlich
+29,Toyota,Camry,17006,Weiblich
+34,Audi,Q5,55267,Weiblich
+57,Kia,Sportage,40036,Männlich
+40,Mercedes,GLS,53279,Männlich
+47,Alfa Romeo,Giulietta,33724,Männlich
+65,Toyota,RAV4,44744,Weiblich
+26,Subaru,Forester,23230,Männlich
+42,Nissan,Leaf,34408,Weiblich
+56,Hyundai,Tucson,44116,Männlich
+73,Mitsubishi,L200,21148,Männlich
+78,Subaru,Impreza,15149,Männlich
+47,Tesla,Model Y,67484,Männlich
+59,Hyundai,Tucson,27470,Männlich
+22,Audi,A3,33991,Weiblich
+16,Volkswagen,Touran,69752,Weiblich
+59,BMW Motorrad,R1250GS,10718,Männlich
+32,Mazda,Mazda2,26209,Weiblich
+49,Hyundai,i30,39305,Männlich
+65,Opel,Zafira,13471,Männlich
+42,Land Rover,Range Rover,71878,Männlich
+56,Nissan,Leaf,13524,Männlich
+79,Toyota,Camry,19300,Männlich
+80,Ford,Fiesta,33130,Männlich
+22,Skoda,Superb,40338,Männlich
+39,BMW,4er,106047,Weiblich
+64,Land Rover,Range Rover,91594,Männlich
+40,BMW Motorrad,F900R,11656,Weiblich
+64,Nissan,Navara,24376,Weiblich
+50,Porsche,Macan,190138,Männlich
+49,Opel,Astra,9790,Weiblich
+66,Honda,CR-V,28734,Weiblich
+73,Audi,Q7,105366,Männlich
+71,Skoda,Fabia,35708,Weiblich
+64,Kia,Niro,44059,Männlich
+24,Volvo,XC60,71537,Männlich
+62,Nissan,X-Trail,11465,Weiblich
+57,Hyundai,Kona,36930,Weiblich
+54,Tesla,Model S,47103,Weiblich
+23,Mercedes,S-Klasse,142698,Männlich
+78,Volvo,XC90,32224,Weiblich
+44,Mazda,Mazda6,13087,Männlich
+49,Volkswagen,ID.3,29905,Männlich
+71,Hyundai,i20,31824,Weiblich
+18,Alfa Romeo,MiTo,64503,Weiblich
+18,BMW,X1,58888,Männlich
+70,Peugeot,508,12286,Weiblich
+44,Volkswagen,Tiguan,27546,Weiblich
+50,Land Rover,Defender,84417,Weiblich
+36,Toyota,RAV4,21110,Weiblich
+34,Renault,Koleos,30071,Männlich
+74,Mercedes,GLC,130946,Weiblich
+34,Mercedes,C-Klasse,60405,Männlich
+44,Porsche,Panamera,107017,Männlich
+65,Kia,Ceed,11170,Männlich
+29,BMW Motorrad,R1250GS,12469,Weiblich
+80,Peugeot,308,27095,Männlich
+45,Tesla,Model 3,32061,Weiblich
+29,Audi,A8,47169,Weiblich
+32,Volvo,V90,31737,Männlich
+28,Honda,Jazz,10183,Männlich
+30,Tesla,Model 3,27853,Männlich
+44,Land Rover,Range Rover,111769,Weiblich
+73,Renault,Talisman,34224,Weiblich
+34,Audi,Q8,55715,Weiblich
+51,Jeep,Cherokee,53132,Männlich
+68,Land Rover,Evoque,45623,Weiblich
+23,BMW Motorrad,R1200GS,19258,Weiblich
+62,BMW Motorrad,R1250GS,17384,Weiblich
+60,Mazda,Mazda2,28380,Männlich
+34,Hyundai,Santa Fe,40615,Weiblich
+17,Opel,Zafira,29415,Weiblich
+32,Kia,Seltos,33862,Männlich
+66,Tesla,Model 3,55856,Männlich
+66,Volkswagen,ID.3,20173,Männlich
+69,Audi,A8,85486,Männlich
+30,Toyota,Land Cruiser,31893,Männlich
+78,Tesla,Model X,78155,Männlich
+79,Subaru,Forester,12158,Weiblich
+70,Alfa Romeo,Giulietta,68625,Männlich
+51,Kia,Sportage,39640,Weiblich
+50,Volkswagen,Arteon,19192,Weiblich
+54,Honda,Jazz,10879,Weiblich
+44,Mitsubishi,ASX,24330,Weiblich
+24,Toyota,Camry,11273,Männlich
+43,Hyundai,i20,38709,Weiblich
+69,Volvo,V90,42259,Männlich
+64,Mercedes,GLS,121050,Weiblich
+56,Honda,Civic,18664,Männlich
+64,Mitsubishi,L200,28990,Männlich
+36,BMW,X3,92468,Männlich
+66,Opel,Grandland,28500,Weiblich
+32,Porsche,Taycan,120393,Weiblich
+53,Volkswagen,Passat,51127,Weiblich
+37,Skoda,Octavia,36944,Männlich
+36,Porsche,Taycan,154346,Männlich
+72,Honda,HR-V,32146,Männlich
+67,Land Rover,Discovery,106048,Männlich
+65,Opel,Mokka,24985,Weiblich
+53,Ford,Mustang,33512,Männlich
+59,Toyota,C-HR,54109,Weiblich
+36,Peugeot,5008,21561,Weiblich
+46,Mercedes,E-Klasse,26444,Männlich
+36,Mitsubishi,Space Star,24574,Männlich
+23,Peugeot,208,10099,Männlich
+56,Citroen,C4,16424,Männlich
+32,Volkswagen,Sharan,66848,Männlich
+75,Ford,Mustang,25454,Weiblich
+50,Hyundai,Santa Fe,16634,Weiblich
+28,Mercedes,E-Klasse,137152,Weiblich
+71,BMW Motorrad,R1200GS,12979,Weiblich
+57,Nissan,Juke,23158,Männlich
+40,BMW,X3,49537,Männlich
+51,Opel,Corsa,16526,Männlich
+32,Toyota,RAV4,14586,Weiblich
+19,Tesla,Model X,59761,Männlich
+15,Mercedes,AMG GT,45503,Weiblich
+62,Nissan,Micra,44313,Weiblich
+29,Kia,Rio,25013,Männlich
+37,Kia,Rio,21610,Weiblich
+55,Honda,Accord,29197,Männlich
+80,Renault,Megane,6173,Männlich
+51,Peugeot,3008,18950,Weiblich
+54,Mitsubishi,Outlander,30123,Männlich
+80,BMW Motorrad,R1250GS,7464,Weiblich
+30,Mazda,Mazda3,20241,Männlich
+43,Nissan,Leaf,35897,Männlich
+74,Mazda,Mazda3,34824,Weiblich
+64,Mazda,Mazda3,16172,Männlich
+80,BMW,2er,40179,Männlich
+27,Porsche,Cayenne,88657,Männlich
+69,BMW,3er,55165,Männlich
+21,Kia,Ceed,12333,Weiblich
+23,Toyota,Land Cruiser,19974,Männlich
+65,Land Rover,Range Rover,87383,Männlich
+60,Mitsubishi,ASX,17314,Weiblich
+60,Jeep,Compass,59670,Männlich
+68,Hyundai,Nexo,41300,Weiblich
+55,Volkswagen,Arteon,69517,Weiblich
+33,BMW,5er,42877,Weiblich
+35,Mercedes,B-Klasse,57174,Weiblich
+60,BMW,1er,109122,Männlich
+66,BMW Motorrad,S1000RR,20112,Männlich
+65,Nissan,Navara,44866,Männlich
+74,Honda,Jazz,25173,Männlich
+32,Alfa Romeo,Giulia,35996,Männlich
+70,Peugeot,308,28494,Männlich
+71,BMW Motorrad,F900R,8252,Weiblich
+18,Volvo,S60,37920,Weiblich
+23,Volvo,XC40,19760,Männlich
+64,BMW Motorrad,R1250GS,23552,Weiblich
+54,Volkswagen,Tiguan,62126,Weiblich
+40,Tesla,Model 3,74853,Männlich
+72,Land Rover,Evoque,48579,Männlich
+49,BMW,X1,32344,Männlich
+34,Jeep,Renegade,57050,Männlich
+51,Honda,CR-V,25844,Weiblich
+46,Skoda,Scala,29421,Männlich
+46,Land Rover,Range Rover,58186,Männlich
+45,Audi,A1,43610,Weiblich
+80,Renault,Captur,21730,Männlich
+70,Peugeot,508,24758,Weiblich
+48,Citroen,C3,23432,Weiblich
+33,Opel,Corsa,11705,Männlich
+46,BMW,X3,81791,Weiblich
+79,Porsche,911,197742,Männlich
+59,Audi,A6,43898,Männlich
+34,Mitsubishi,ASX,26487,Weiblich
+19,Skoda,Kodiaq,39365,Männlich
+59,BMW Motorrad,F900R,7628,Weiblich
+18,BMW,i4,116654,Weiblich
+39,Citroen,C4,30062,Männlich
+30,Kia,Ceed,29778,Weiblich
+67,Volvo,V90,20921,Weiblich
+16,Jeep,Wrangler,24612,Weiblich
+56,Porsche,Taycan,59795,Weiblich
+57,Toyota,Camry,48665,Weiblich
+33,Hyundai,Tucson,40916,Weiblich
+25,Peugeot,308,20836,Männlich
+34,Land Rover,Range Rover,101496,Männlich
+43,Audi,Q7,27979,Männlich
+74,Audi,A1,93225,Weiblich
+57,Opel,Zafira,16044,Männlich
+37,Mazda,Mazda6,28895,Männlich
+44,Volvo,S60,68825,Männlich
+26,Ford,Focus,20361,Weiblich
+54,Subaru,Impreza,13455,Männlich
+66,Tesla,Model Y,47967,Männlich
+23,Mazda,CX-5,18703,Weiblich
+17,Mazda,CX-5,29460,Weiblich
+21,Volkswagen,Polo,38786,Männlich
+63,Nissan,Navara,15136,Weiblich
+61,Mazda,Mazda3,33826,Männlich
+16,Renault,Captur,5089,Männlich
+35,Skoda,Kamiq,37528,Männlich
+75,Renault,Megane,6351,Männlich
+62,Jeep,Renegade,21674,Weiblich
+65,Toyota,RAV4,32175,Männlich
+59,Mazda,Mazda6,22294,Männlich
+25,Honda,Jazz,26485,Weiblich
+30,Alfa Romeo,Giulia,22200,Weiblich
+79,Subaru,Forester,12158,Männlich
+72,Mazda,CX-5,12882,Weiblich
+41,Alfa Romeo,Giulia,28125,Weiblich
+38,Ford,Focus,34712,Männlich
+76,Tesla,Model Y,66320,Weiblich
+62,Subaru,Forester,16665,Männlich
+27,Volkswagen,Polo,27448,Männlich
+66,Citroen,C4,21555,Weiblich
+44,Jeep,Grand Cherokee,40430,Männlich
+79,Skoda,Scala,15652,Weiblich
+56,Opel,Mokka,12456,Weiblich
+77,Tesla,Model 3,44461,Männlich
+30,Volkswagen,Touran,20116,Weiblich
+34,Porsche,Taycan,127112,Männlich
+41,Volvo,S60,79698,Männlich
+45,Mazda,Mazda3,22644,Weiblich
+42,Mercedes,A-Klasse,57630,Weiblich
+65,Renault,Talisman,27495,Weiblich
+32,BMW,2er,86093,Weiblich
+59,Opel,Corsa,21307,Weiblich
+72,Nissan,Qashqai,9528,Weiblich
+68,Hyundai,i10,35472,Weiblich
+61,Hyundai,i10,39818,Weiblich
+58,Mercedes,V-Klasse,71622,Männlich
+62,BMW Motorrad,F900R,14913,Männlich
+33,Volvo,S60,39121,Männlich
+49,Audi,A8,49974,Weiblich
+54,Mitsubishi,L200,21706,Männlich
+34,Honda,Jazz,33712,Weiblich
+71,Peugeot,5008,29340,Männlich
+77,Ford,Focus,27469,Männlich
+79,BMW Motorrad,F900R,16721,Männlich
+75,Peugeot,5008,12681,Männlich
+76,Honda,HR-V,28366,Weiblich
+34,Ford,Edge,24151,Weiblich
+30,BMW,X1,18007,Weiblich
+45,Citroen,C4,8128,Weiblich
+78,Volkswagen,Passat,66389,Weiblich
+37,Land Rover,Range Rover,109789,Weiblich
+16,Audi,A3,25215,Männlich
+70,BMW Motorrad,S1000RR,23888,Weiblich
+15,Mercedes,GLE,87589,Weiblich
+21,Skoda,Octavia,31074,Männlich
+20,Skoda,Superb,32704,Weiblich
+41,BMW,X1,99822,Männlich
+21,Peugeot,508,17216,Weiblich
+21,Jeep,Compass,42892,Männlich
+44,Nissan,Juke,33998,Weiblich
+17,Mitsubishi,L200,32971,Weiblich
+20,Renault,Megane,18294,Weiblich
+55,Ford,Edge,28350,Männlich
+70,Jeep,Grand Cherokee,30798,Männlich
+21,Porsche,Macan,115312,Weiblich
+66,Jeep,Cherokee,58264,Männlich
+78,Mercedes,GLA,133007,Weiblich
+25,Volvo,S60,54255,Männlich
+72,Opel,Mokka,26904,Weiblich
+22,Volkswagen,Tiguan,69655,Männlich
+16,Peugeot,Partner,11644,Männlich
+61,Hyundai,Santa Fe,40516,Weiblich
+75,BMW,i3,19387,Männlich
+32,BMW,i3,40565,Weiblich
+49,Skoda,Scala,14885,Männlich
+69,Mercedes,E-Klasse,140004,Weiblich
+41,Mercedes,GLS,60413,Männlich
+33,Land Rover,Discovery,94058,Weiblich
+40,Audi,A3,61229,Weiblich
+77,Subaru,XV,30867,Männlich
+47,Mercedes,C-Klasse,60418,Männlich
+40,Mitsubishi,ASX,36467,Weiblich
+44,Tesla,Model X,67936,Männlich
+33,Honda,CR-V,10352,Männlich
+70,Mazda,CX-5,39341,Weiblich
+73,Renault,Talisman,33750,Männlich
+52,Land Rover,Defender,106402,Weiblich
+66,Land Rover,Defender,40863,Weiblich
+22,Toyota,RAV4,54155,Männlich
+45,Mazda,Mazda2,32556,Weiblich
+59,Honda,HR-V,21529,Männlich
+26,Renault,Captur,25180,Männlich
+60,Hyundai,Kona,13157,Männlich
+23,Tesla,Model 3,58632,Männlich
+35,Mercedes,S-Klasse,123884,Männlich
+65,Renault,Clio,11193,Weiblich
+23,Mercedes,AMG GT,52088,Weiblich
+60,Renault,Clio,29918,Männlich
+55,Skoda,Fabia,28340,Weiblich
+54,Kia,Niro,25119,Weiblich
+77,Audi,Q3,34839,Weiblich
+76,Peugeot,3008,17586,Männlich
+53,Audi,Q5,62166,Männlich
+72,Land Rover,Evoque,109406,Weiblich
+61,Mitsubishi,Space Star,38641,Männlich
+55,BMW,3er,71038,Männlich
+64,Citroen,C5,34718,Weiblich
+74,Nissan,Juke,46678,Weiblich
+56,Mazda,CX-5,33013,Weiblich
+45,Renault,Captur,12119,Männlich
+42,Hyundai,i10,26126,Weiblich
+15,Subaru,Outback,22394,Weiblich
+39,Mazda,CX-5,15921,Männlich
+61,Porsche,Cayenne,142488,Weiblich
+76,Kia,Seltos,39351,Männlich
+50,Tesla,Model Y,50193,Männlich
+17,Jeep,Wrangler,23975,Männlich
+31,Porsche,Macan,63971,Weiblich
+56,Honda,Accord,28914,Männlich
+67,Nissan,Qashqai,20792,Weiblich
+64,Audi,A8,69928,Weiblich
+66,Audi,A3,55948,Weiblich
+41,Ford,Kuga,16019,Männlich
+80,BMW Motorrad,F900R,10125,Männlich
+28,Mitsubishi,Outlander,33012,Männlich
+30,BMW,7er,81244,Weiblich
+42,Honda,Accord,23063,Weiblich
+60,Nissan,Leaf,27418,Männlich
+77,Ford,Mustang,39634,Weiblich
+42,Audi,Q7,92189,Männlich
+53,Citroen,C5 Aircross,23284,Weiblich
+35,BMW,4er,36717,Männlich
+59,Skoda,Scala,30462,Weiblich
+80,Mazda,Mazda6,21386,Weiblich
+42,Kia,Sportage,24510,Männlich
+28,Honda,Accord,10600,Männlich
+78,BMW Motorrad,R1200GS,15501,Weiblich
+70,Subaru,XV,40625,Männlich
+68,Jeep,Cherokee,47287,Männlich
+47,Honda,Civic,12353,Männlich
+55,Volkswagen,Tiguan,27143,Weiblich
+26,Opel,Insignia,17373,Männlich
+19,Ford,Edge,32045,Männlich
+57,Toyota,C-HR,46060,Männlich
+68,BMW Motorrad,R1250GS,12802,Weiblich
+43,Nissan,Micra,49559,Männlich
+64,Mazda,Mazda2,33900,Weiblich
+55,Kia,Niro,23639,Männlich
+50,Tesla,Model X,40353,Weiblich
+68,Hyundai,Kona,18925,Weiblich
+18,Kia,Stonic,9990,Männlich
+69,Honda,Civic,15367,Männlich
+38,Audi,A5,36339,Männlich
+31,Land Rover,Range Rover,112650,Weiblich
+48,Renault,Megane,14863,Weiblich
+46,Peugeot,Partner,18191,Weiblich
+65,Ford,Mondeo,25046,Männlich
+66,Alfa Romeo,Stelvio,60438,Weiblich
+64,Renault,Megane,27404,Weiblich
+36,Opel,Insignia,29777,Männlich
+45,Honda,HR-V,18425,Weiblich
+34,Honda,HR-V,19814,Weiblich
+80,BMW,i4,83805,Männlich
+45,Tesla,Model Y,29350,Weiblich
+64,Skoda,Kodiaq,22298,Männlich
+63,Mercedes,GLC,82805,Weiblich
+34,Honda,Jazz,25004,Weiblich
+59,Tesla,Model Y,76228,Weiblich
+66,Opel,Zafira,16382,Weiblich
+71,Mercedes,A-Klasse,28508,Männlich
+22,Hyundai,i30,44185,Weiblich
+80,Tesla,Model Y,59497,Weiblich
+66,Opel,Grandland,8681,Männlich
+45,Peugeot,508,20091,Weiblich
+48,Audi,Q8,73375,Männlich
+68,Peugeot,5008,24236,Weiblich
+77,Hyundai,Nexo,11247,Männlich
+53,Honda,HR-V,10068,Männlich
+73,BMW Motorrad,F900R,23009,Männlich
+38,Mazda,CX-5,25832,Männlich
+66,BMW Motorrad,F900R,19951,Männlich
+36,Renault,Kadjar,6949,Weiblich
+62,Kia,Seltos,43636,Männlich
+20,BMW Motorrad,R1250GS,16836,Männlich
+15,Kia,Rio,41116,Weiblich
+36,Subaru,Impreza,27897,Männlich
+47,Honda,HR-V,9970,Weiblich
+28,Opel,Mokka,15544,Weiblich
+33,Mazda,Mazda6,34614,Männlich
+26,BMW Motorrad,S1000RR,18391,Männlich
+16,Skoda,Kamiq,21242,Weiblich
+63,Honda,CR-V,21602,Männlich
+28,Tesla,Model 3,52862,Weiblich
+72,Land Rover,Discovery,35362,Männlich
+38,Mitsubishi,ASX,32258,Männlich
+24,Toyota,Camry,38148,Männlich
+70,BMW Motorrad,R1250GS,17572,Weiblich
+35,Skoda,Scala,14435,Weiblich
+68,Kia,Niro,26361,Weiblich
+23,Mercedes,S-Klasse,65081,Männlich
+41,Alfa Romeo,Giulia,16727,Männlich
+78,Land Rover,Evoque,51898,Weiblich
+48,BMW Motorrad,F900R,19883,Weiblich
+75,Porsche,Panamera,192319,Männlich
+80,Mercedes,GLE,49423,Männlich
+59,BMW,Z4,36976,Männlich
+44,Peugeot,3008,19705,Männlich
+35,Kia,Sportage,32244,Weiblich
+38,Renault,Clio,26430,Weiblich
+53,Volkswagen,ID.3,17969,Männlich
+58,Citroen,C3 Aircross,7587,Männlich
+19,Renault,Megane,10209,Weiblich
+59,Skoda,Kodiaq,20297,Weiblich
+17,Mazda,Mazda6,13550,Männlich
+61,Honda,Civic,25190,Weiblich
+63,Jeep,Compass,47373,Weiblich
+56,Peugeot,Partner,12232,Männlich
+18,Mitsubishi,Outlander,10646,Männlich
+36,Renault,Koleos,31538,Männlich
+28,Subaru,Outback,37245,Männlich
+18,Nissan,Qashqai,26526,Männlich
+80,Hyundai,i10,40364,Männlich
+38,BMW,i4,69778,Männlich
+46,Subaru,Forester,32275,Weiblich
+40,Subaru,Forester,40688,Weiblich
+71,Nissan,Micra,49545,Männlich
+78,Mazda,Mazda3,39207,Weiblich
+48,Citroen,C5 Aircross,8717,Weiblich
+52,Toyota,RAV4,37833,Weiblich
+59,Tesla,Model Y,41275,Weiblich
+65,Tesla,Model S,25570,Männlich
+67,Skoda,Scala,41435,Weiblich
+36,Citroen,C5 Aircross,6910,Männlich
+78,Opel,Insignia,22879,Männlich
+50,Opel,Insignia,17813,Weiblich
+18,Ford,Mondeo,27613,Weiblich
+26,Citroen,C4,16668,Männlich
+59,Porsche,911,93743,Weiblich
+50,Alfa Romeo,Giulietta,56937,Weiblich
+61,Subaru,XV,32537,Männlich
+29,Subaru,XV,33440,Weiblich
+54,Citroen,C3 Aircross,15666,Männlich
+45,Land Rover,Defender,113371,Weiblich
+52,Mercedes,S-Klasse,27604,Weiblich
+55,Citroen,C5,22598,Männlich
+32,Land Rover,Discovery,39884,Männlich
+33,Volkswagen,Sharan,53658,Männlich
+78,Citroen,C5,8241,Männlich
+77,Skoda,Fabia,12416,Weiblich
+37,Opel,Insignia,19757,Männlich
+78,Mitsubishi,ASX,18628,Männlich
+34,Mazda,Mazda3,18401,Weiblich
+30,Mazda,Mazda6,30521,Männlich
+19,Porsche,Macan,156136,Weiblich
+30,Toyota,Corolla,33952,Weiblich
+19,Mitsubishi,ASX,20015,Weiblich
+37,Mazda,Mazda2,18126,Weiblich
+64,Volvo,XC40,75838,Weiblich
+57,Land Rover,Evoque,94343,Weiblich
+67,Mitsubishi,Space Star,11425,Weiblich
+60,Toyota,Land Cruiser,40355,Weiblich
+68,Toyota,Yaris,37595,Weiblich
+18,Renault,Talisman,11681,Weiblich
+67,Mitsubishi,Space Star,38978,Weiblich
+76,Mercedes,C-Klasse,58377,Männlich
+22,BMW,2er,82720,Weiblich
+21,Mazda,Mazda2,23540,Weiblich
+27,Skoda,Superb,12849,Männlich
+76,Opel,Grandland,12875,Männlich
+53,Kia,Rio,34525,Männlich
+78,Kia,Rio,10863,Weiblich
+58,Tesla,Model X,57783,Männlich
+72,Alfa Romeo,Stelvio,40131,Weiblich
+16,Land Rover,Discovery,55820,Weiblich
+15,Mazda,Mazda3,15289,Männlich
+79,Honda,CR-V,32929,Männlich
+71,Opel,Corsa,21110,Männlich
+59,BMW Motorrad,S1000RR,17823,Männlich
+32,Kia,Ceed,34507,Männlich
+53,BMW Motorrad,S1000RR,10717,Männlich
+29,Volvo,V90,67046,Männlich
+24,Nissan,Qashqai,23462,Männlich
+30,Audi,A3,100575,Weiblich
+39,Renault,Koleos,24462,Männlich
+75,Subaru,Outback,11847,Weiblich
+62,BMW,X1,87925,Männlich
+22,Volkswagen,Passat,63769,Weiblich
+70,Honda,Accord,25283,Männlich
+59,Mitsubishi,L200,29882,Weiblich
+66,Honda,CR-V,23904,Männlich
+36,Tesla,Model Y,36524,Männlich
+74,Mercedes,GLA,132664,Weiblich
+16,Kia,Ceed,25476,Weiblich
+61,Mercedes,E-Klasse,84674,Männlich
+18,Land Rover,Defender,41514,Männlich
+28,Tesla,Model 3,57247,Männlich
+50,Nissan,Navara,40945,Männlich
+40,Mitsubishi,ASX,17218,Weiblich
+29,Land Rover,Discovery,65307,Männlich
+25,Honda,Accord,15618,Weiblich
+18,Volvo,S60,33390,Weiblich
+40,Opel,Astra,28602,Männlich
+72,Hyundai,Nexo,24877,Weiblich
+31,Land Rover,Defender,30413,Weiblich
+49,Porsche,Cayenne,62962,Männlich
+22,Honda,Accord,15103,Männlich
+59,BMW Motorrad,R1200GS,15223,Weiblich
+25,Toyota,Corolla,22478,Weiblich
+67,Citroen,C3,19095,Männlich
+47,Porsche,Panamera,136108,Weiblich
+68,Alfa Romeo,Giulietta,71642,Männlich
+53,Skoda,Scala,31736,Männlich
+30,Jeep,Compass,42656,Männlich
+47,BMW,X3,32048,Männlich
+46,Mazda,Mazda3,24439,Weiblich
+33,Alfa Romeo,MiTo,71766,Männlich
+54,Nissan,Qashqai,41649,Männlich
+61,Hyundai,i30,26732,Männlich
+68,Opel,Corsa,10370,Männlich
+69,Opel,Corsa,12130,Männlich
+32,Honda,Civic,20114,Männlich
+41,Ford,Focus,23457,Männlich
+51,BMW,X5,26723,Männlich
+59,Ford,Mustang,27006,Männlich
+55,Porsche,Macan,161252,Männlich
+39,Opel,Zafira,16503,Weiblich
+55,Jeep,Compass,35773,Weiblich
+23,Kia,Seltos,14742,Männlich
+41,Tesla,Model S,71698,Männlich
+75,Mazda,Mazda6,15664,Männlich
+31,Skoda,Kamiq,21578,Männlich
+43,Land Rover,Defender,68024,Männlich
+18,Land Rover,Discovery,112263,Männlich
+56,Audi,A8,100496,Weiblich
+31,Mazda,CX-5,39193,Männlich
+50,Peugeot,Partner,14300,Weiblich
+50,Ford,Focus,11682,Männlich
+35,Mitsubishi,ASX,35441,Männlich
+76,Honda,Civic,24850,Männlich
+54,Skoda,Superb,41492,Weiblich
+52,Citroen,C5 Aircross,9298,Männlich
+62,BMW Motorrad,F900R,12437,Weiblich
+65,Skoda,Scala,14375,Männlich
+54,Peugeot,3008,24571,Männlich
+24,Tesla,Model S,57117,Weiblich
+30,Toyota,Corolla,11259,Weiblich
+70,Jeep,Cherokee,47044,Männlich
+72,BMW,i3,25453,Weiblich
+70,Jeep,Cherokee,55104,Weiblich
+79,Volvo,XC60,74924,Männlich
+17,BMW Motorrad,R1250GS,22153,Weiblich
+66,Alfa Romeo,Giulia,68075,Männlich
+21,Nissan,Juke,24776,Weiblich
+67,Ford,Mustang,37398,Weiblich
+79,Toyota,Land Cruiser,46573,Weiblich
+72,Jeep,Grand Cherokee,29237,Weiblich
+20,Volvo,S60,31843,Weiblich
+45,Land Rover,Range Rover,57645,Männlich
+27,Jeep,Grand Cherokee,28080,Männlich
+39,BMW Motorrad,R1200GS,19912,Männlich
+44,Peugeot,208,12099,Weiblich
+40,Mercedes,V-Klasse,119203,Männlich
+79,Tesla,Model S,28170,Weiblich
+34,Volvo,XC90,21740,Weiblich
+24,BMW Motorrad,S1000RR,21298,Weiblich
+25,Renault,Megane,25991,Männlich
+30,Audi,A6,28461,Männlich
+53,Nissan,Navara,12343,Weiblich
+36,Toyota,Land Cruiser,51884,Weiblich
+56,Renault,Megane,14126,Weiblich
+45,Mitsubishi,L200,34034,Männlich
+52,Mazda,Mazda6,29147,Männlich
+25,Skoda,Fabia,12098,Weiblich
+72,Volvo,XC90,40333,Männlich
+29,BMW Motorrad,F900R,14922,Männlich
+52,Citroen,C4,6492,Weiblich
+79,Peugeot,508,7150,Männlich
+48,Mercedes,V-Klasse,127581,Weiblich
+72,Renault,Megane,5160,Weiblich
+54,Mazda,Mazda6,33097,Weiblich
+58,Skoda,Kodiaq,27112,Männlich
+73,Peugeot,308,9493,Männlich
+58,Opel,Astra,14117,Männlich
+18,Hyundai,Tucson,41746,Weiblich
+55,Jeep,Grand Cherokee,18979,Weiblich
+24,Subaru,Forester,36883,Männlich
+32,Mitsubishi,ASX,16949,Männlich
+32,Audi,TT,30824,Männlich
+50,Renault,Captur,32286,Männlich
+71,Mitsubishi,Outlander,18630,Männlich
+32,Nissan,Leaf,9579,Männlich
+64,Tesla,Model X,53815,Weiblich
+19,Volvo,V90,19741,Männlich
+38,Opel,Grandland,18479,Männlich
+57,Hyundai,Santa Fe,38371,Männlich
+34,Mitsubishi,L200,9729,Männlich
+71,Mazda,Mazda2,13950,Männlich
+59,Nissan,Navara,48444,Männlich
+78,Subaru,Forester,14995,Männlich
+78,Opel,Grandland,25521,Weiblich
+29,Volkswagen,Touareg,15189,Weiblich
+28,Nissan,Leaf,46533,Männlich
+62,Subaru,XV,28747,Männlich
+65,Skoda,Octavia,33602,Männlich
+62,Volvo,V90,59336,Männlich
+31,Skoda,Kamiq,43270,Weiblich
+36,Land Rover,Discovery,56411,Männlich
+74,Skoda,Fabia,25442,Weiblich
+35,Opel,Zafira,28834,Weiblich
+54,Volvo,S60,47764,Männlich
+59,Mitsubishi,ASX,8313,Männlich
+47,Tesla,Model S,29208,Weiblich
+22,Mitsubishi,Outlander,30034,Männlich
+33,Subaru,XV,16264,Weiblich
+69,Ford,Edge,29081,Männlich
+20,Audi,R8,18537,Weiblich
+21,Toyota,C-HR,16038,Weiblich
+79,Honda,HR-V,18230,Männlich
+60,Ford,Mustang,32398,Männlich
+79,Peugeot,Partner,27117,Männlich
+75,Tesla,Model 3,29420,Weiblich
+72,Toyota,RAV4,45807,Weiblich
+16,Honda,Accord,25311,Männlich
+29,Skoda,Kodiaq,24432,Weiblich
+26,Audi,R8,21388,Männlich
+42,Renault,Talisman,24330,Männlich
+25,Nissan,Micra,40983,Weiblich
+54,Skoda,Fabia,25136,Männlich
+42,Subaru,Outback,14476,Männlich
+59,Volvo,XC60,42279,Männlich
+40,Jeep,Compass,27605,Männlich
+55,Volkswagen,Tiguan,31837,Männlich
+55,Kia,Seltos,18253,Weiblich
+78,Mazda,CX-5,19071,Weiblich
+22,Porsche,Panamera,108565,Männlich
+80,Citroen,C3,28309,Männlich
+79,Peugeot,3008,6548,Weiblich
+72,Nissan,Navara,21467,Weiblich
+79,Kia,Seltos,41109,Weiblich
+50,Skoda,Scala,41754,Weiblich
+76,Kia,Stonic,28457,Weiblich
+24,Mazda,Mazda3,16900,Männlich
+63,Peugeot,508,11753,Männlich
+17,Alfa Romeo,Giulietta,29525,Weiblich
+67,Renault,Megane,7564,Weiblich
+59,Citroen,C5,19330,Männlich
+24,Tesla,Model X,56210,Männlich
+53,Toyota,RAV4,48837,Weiblich
+33,Audi,A6,30895,Männlich
+40,Skoda,Superb,35188,Weiblich
+48,Skoda,Kamiq,24083,Weiblich
+44,Volvo,S60,46145,Weiblich
+71,Mazda,CX-5,34822,Männlich
+18,Jeep,Grand Cherokee,29535,Weiblich
+21,Toyota,Land Cruiser,49515,Männlich
+17,BMW,7er,24861,Weiblich
+19,Opel,Mokka,8077,Männlich
+33,Mitsubishi,Space Star,15153,Männlich
+27,Ford,Fiesta,25035,Männlich
+61,Peugeot,3008,28469,Männlich
+77,Land Rover,Defender,71913,Weiblich
+56,BMW,i3,113430,Weiblich
+52,Mazda,CX-5,28952,Weiblich
+72,Mitsubishi,Space Star,31386,Weiblich
+41,Kia,Niro,31020,Weiblich
+75,Land Rover,Defender,73673,Weiblich
+20,Volvo,S60,34547,Weiblich
+15,Subaru,XV,30545,Männlich
+15,Audi,A6,90265,Weiblich
+50,Subaru,Impreza,22672,Weiblich
+79,Peugeot,Partner,28243,Weiblich
+50,Volvo,S60,60027,Weiblich
+24,BMW Motorrad,R1250GS,16068,Männlich
+68,Mazda,Mazda2,20936,Weiblich
+34,BMW Motorrad,R1200GS,18214,Weiblich
+29,Honda,Jazz,19785,Weiblich
+34,BMW Motorrad,R1250GS,7763,Weiblich
+49,Kia,Sportage,20025,Männlich
+17,Land Rover,Discovery,32313,Männlich
+39,Alfa Romeo,Stelvio,44644,Männlich
+78,BMW Motorrad,F900R,16480,Weiblich
+79,Jeep,Grand Cherokee,67159,Weiblich
+17,Tesla,Model 3,78802,Männlich
+48,Citroen,C3,23026,Männlich
+77,Peugeot,3008,8453,Männlich
+50,Peugeot,5008,26124,Weiblich
+22,Citroen,C3,28208,Männlich
+34,Opel,Mokka,15709,Männlich
+74,Alfa Romeo,MiTo,41135,Weiblich
+31,Nissan,Leaf,48226,Männlich
+40,Mazda,Mazda3,31450,Weiblich
+53,Peugeot,Partner,29958,Männlich
+24,Nissan,Leaf,42782,Männlich
+76,Kia,Ceed,15396,Weiblich
+76,Toyota,Corolla,35285,Männlich
+75,Mitsubishi,Outlander,26301,Männlich
+26,Ford,Mondeo,9628,Weiblich
+58,Jeep,Grand Cherokee,41197,Weiblich
+46,Jeep,Renegade,30770,Weiblich
+48,Volvo,S60,46967,Männlich
+18,Toyota,Corolla,31367,Weiblich
+60,Porsche,Macan,85551,Männlich
+65,Kia,Ceed,16066,Weiblich
+38,Land Rover,Evoque,54213,Männlich
+57,Porsche,911,176786,Männlich
+35,Audi,A5,51816,Weiblich
+35,Nissan,Leaf,42562,Männlich
+43,BMW,5er,54794,Männlich
+36,Volkswagen,Touareg,55483,Weiblich
+41,Subaru,Forester,33745,Männlich
+16,Citroen,C5,29126,Männlich
+50,Land Rover,Defender,46560,Weiblich
+54,Mercedes,GLS,66552,Männlich
+52,Porsche,Cayenne,165498,Weiblich
+46,Volkswagen,ID.4,34763,Männlich
+19,Citroen,C4,34931,Weiblich
+74,Ford,Mondeo,24092,Weiblich
+41,Porsche,Taycan,124889,Weiblich
+19,Nissan,X-Trail,40272,Weiblich
+62,Volvo,V90,62577,Männlich
+22,Nissan,Navara,17671,Männlich
+28,Nissan,Navara,10384,Weiblich
+60,Alfa Romeo,Giulia,32202,Weiblich
+32,BMW,3er,118556,Männlich
+41,Alfa Romeo,Stelvio,72543,Männlich
+41,Toyota,Corolla,42374,Männlich
+16,Porsche,Taycan,172884,Weiblich
+71,Renault,Kadjar,22779,Männlich
+45,Land Rover,Discovery,119136,Männlich
+21,Audi,A5,93871,Weiblich
+21,Volkswagen,Passat,60869,Weiblich
+21,Hyundai,Nexo,13254,Männlich
+54,Tesla,Model S,58311,Männlich
+49,Alfa Romeo,Giulietta,30551,Weiblich
+24,Mercedes,GLE,52107,Männlich
+65,Skoda,Fabia,14919,Männlich
+44,Honda,CR-V,33223,Männlich
+67,Mazda,Mazda6,24786,Männlich
+50,Jeep,Compass,24408,Weiblich
+75,BMW Motorrad,S1000RR,21842,Männlich
+18,Honda,Jazz,16522,Männlich
+45,Skoda,Fabia,13080,Weiblich
+33,Audi,A8,29180,Weiblich
+52,Mitsubishi,ASX,23337,Männlich
+30,Skoda,Kodiaq,17075,Männlich
+72,Alfa Romeo,Stelvio,76409,Weiblich
+22,Opel,Zafira,22771,Männlich
+34,Skoda,Superb,21195,Weiblich
+39,Skoda,Fabia,42808,Weiblich
+40,Volkswagen,ID.4,10529,Weiblich
+71,Honda,HR-V,24718,Männlich
+24,Mitsubishi,L200,21857,Männlich
+73,Mitsubishi,Space Star,29729,Männlich
+57,Audi,A1,98170,Männlich
+37,Nissan,Leaf,48911,Männlich
+46,Mercedes,GLA,54923,Weiblich
+58,Jeep,Compass,37322,Weiblich
+37,Porsche,Cayenne,166884,Männlich
+27,Kia,Sportage,44419,Männlich
+25,BMW,i4,115086,Männlich
+68,Land Rover,Range Rover,77537,Männlich
+43,Volvo,V90,29177,Männlich
+43,Subaru,Impreza,29568,Männlich
+56,BMW,X1,84984,Männlich
+41,BMW,X1,42171,Männlich
+40,Ford,Edge,9469,Weiblich
+39,Toyota,Corolla,19624,Weiblich
+19,Toyota,Yaris,41506,Weiblich
+33,Honda,Civic,15344,Männlich
+42,Kia,Seltos,21608,Männlich
+74,Peugeot,3008,21340,Männlich
+33,Jeep,Renegade,19262,Männlich
+51,Honda,Accord,22693,Weiblich
+23,Hyundai,i10,10938,Weiblich
+23,Citroen,C5,21219,Weiblich
+31,Opel,Grandland,26440,Männlich
+76,BMW,3er,97206,Weiblich
+35,Peugeot,3008,7111,Weiblich
+18,Subaru,Outback,32226,Weiblich
+39,Subaru,Forester,11791,Männlich
+73,Porsche,Taycan,172823,Männlich
+27,Renault,Clio,30568,Männlich
+62,BMW Motorrad,S1000RR,10658,Weiblich
+69,Volvo,V90,52029,Weiblich
+22,Peugeot,308,28496,Männlich
+16,Citroen,C3 Aircross,9852,Männlich
+27,Alfa Romeo,Giulietta,69270,Männlich
+77,Mercedes,GLC,134302,Männlich
+72,Hyundai,i10,13202,Weiblich
+16,Ford,Edge,19257,Männlich
+35,Renault,Koleos,11072,Weiblich
+65,Nissan,Qashqai,17805,Weiblich
+76,Toyota,Yaris,53525,Männlich
+50,Porsche,911,88048,Männlich
+26,Toyota,Yaris,51766,Weiblich
+51,Land Rover,Discovery,115120,Weiblich
+68,Tesla,Model Y,76007,Weiblich
+26,BMW Motorrad,S1000RR,12000,Männlich
+78,Porsche,911,65668,Männlich
+80,Toyota,C-HR,54304,Weiblich
+34,Land Rover,Evoque,46762,Weiblich
+23,Toyota,Yaris,16409,Männlich
+23,Nissan,X-Trail,21972,Männlich
+53,Alfa Romeo,MiTo,25958,Weiblich
+56,Volvo,V90,36722,Männlich
+74,Jeep,Wrangler,61866,Männlich
+47,Tesla,Model S,65621,Weiblich
+77,Honda,Civic,19538,Männlich
+47,Mercedes,V-Klasse,111271,Weiblich
+74,Subaru,Impreza,11645,Männlich
+61,Mazda,Mazda3,18925,Weiblich
+44,Opel,Insignia,25630,Weiblich
+78,Audi,A4,49003,Weiblich
+36,Nissan,Leaf,22326,Männlich
+59,Subaru,Impreza,43556,Männlich
+56,Nissan,X-Trail,19288,Weiblich
+47,Hyundai,i20,15926,Weiblich
+39,BMW,Z4,57712,Männlich
+66,Porsche,911,147245,Männlich
+55,Peugeot,3008,10623,Weiblich
+50,Mercedes,S-Klasse,39707,Weiblich
+62,Honda,CR-V,17306,Männlich
+53,Hyundai,Santa Fe,30036,Weiblich
+67,Kia,Niro,20953,Weiblich
+26,Honda,Jazz,20714,Männlich
+48,Mercedes,B-Klasse,88783,Weiblich
+17,Toyota,Yaris,41248,Männlich
+31,Hyundai,i10,21522,Weiblich
+18,Hyundai,Nexo,17678,Männlich
+50,Mercedes,GLE,134227,Weiblich
+42,Peugeot,Partner,26665,Männlich
+77,BMW Motorrad,F900R,12028,Männlich
+39,Renault,Koleos,30542,Männlich
+53,Tesla,Model 3,76502,Männlich
+16,Hyundai,i30,22325,Männlich
+40,Kia,Stonic,16842,Weiblich
+65,Mitsubishi,Space Star,29660,Weiblich
+25,Mercedes,GLA,50139,Weiblich
+47,Porsche,Macan,148231,Weiblich
+69,Kia,Rio,8796,Weiblich
+62,Ford,Mustang,8609,Männlich
+71,Subaru,Impreza,14543,Männlich
+74,Citroen,C3 Aircross,17668,Männlich
+59,Peugeot,3008,28242,Männlich
+67,Ford,Fiesta,24586,Weiblich
+19,Land Rover,Discovery,79378,Männlich
+49,Volkswagen,Golf,40005,Weiblich
+67,Volkswagen,Passat,62967,Männlich
+18,Honda,CR-V,10999,Weiblich
+70,Skoda,Octavia,29038,Männlich
+77,Tesla,Model 3,69779,Männlich
+49,Mercedes,V-Klasse,66004,Männlich
+42,Volvo,XC40,20967,Weiblich
+35,Porsche,Macan,148042,Weiblich
+29,Land Rover,Discovery,92923,Männlich
+60,Jeep,Renegade,47825,Weiblich
+47,Volkswagen,ID.3,40891,Weiblich
+80,Peugeot,5008,22320,Männlich
+33,Mitsubishi,ASX,15399,Männlich
+49,Audi,Q3,108402,Weiblich
+41,Kia,Sportage,21192,Männlich
+25,Nissan,Qashqai,34386,Weiblich
+63,Jeep,Compass,52653,Männlich
+76,Ford,Kuga,37898,Männlich
+36,Toyota,Camry,11375,Weiblich
+43,Land Rover,Evoque,70506,Männlich
+56,Jeep,Grand Cherokee,20803,Männlich
+36,Citroen,C3 Aircross,30778,Männlich
+17,Ford,Mondeo,25187,Weiblich
+17,Tesla,Model 3,27869,Männlich
+68,Citroen,C4,16041,Weiblich
+21,Nissan,X-Trail,31197,Weiblich
+68,Ford,Fiesta,20774,Männlich
+68,Ford,Focus,25695,Weiblich
+45,Citroen,C3,14707,Weiblich
+62,Honda,Accord,23400,Männlich
+47,Porsche,Macan,75074,Männlich
+42,Tesla,Model 3,45347,Männlich
+32,Ford,Edge,25813,Männlich
+71,Skoda,Kodiaq,10533,Männlich
+64,Hyundai,i30,15117,Weiblich
+67,Alfa Romeo,Giulietta,24204,Weiblich
+53,Mercedes,GLE,77458,Weiblich
+17,BMW Motorrad,S1000RR,12750,Weiblich
+55,Jeep,Compass,47587,Weiblich
+21,Mercedes,GLS,52100,Männlich
+47,Alfa Romeo,Stelvio,43930,Weiblich
+64,Nissan,Juke,27619,Männlich
+28,BMW,i4,115235,Weiblich
+71,Citroen,C3 Aircross,29821,Weiblich
+80,Renault,Clio,21894,Männlich
+69,Peugeot,308,12603,Weiblich
+69,Mazda,Mazda3,23558,Männlich
+69,Toyota,Corolla,41283,Männlich
+20,Audi,A5,74904,Männlich
+76,BMW,4er,51048,Weiblich
+72,Alfa Romeo,Giulia,21317,Männlich
+24,Alfa Romeo,Giulia,57561,Weiblich
+45,Land Rover,Discovery,44843,Männlich
+45,BMW Motorrad,R1250GS,21619,Männlich
+77,Opel,Corsa,18970,Weiblich
+49,BMW Motorrad,R1200GS,14848,Männlich
+45,Kia,Ceed,41477,Weiblich
+40,Toyota,C-HR,33283,Männlich
+25,Opel,Zafira,23004,Weiblich
+17,Tesla,Model X,78125,Weiblich
+18,Volkswagen,Polo,30662,Weiblich
+29,Nissan,Micra,43728,Männlich
+15,Peugeot,508,12340,Weiblich
+29,Audi,A1,93953,Männlich
+24,Mazda,Mazda6,32958,Männlich
+71,Volvo,XC90,46501,Männlich
+30,Mitsubishi,ASX,24880,Weiblich
+44,Volvo,V90,38768,Männlich
+27,Mitsubishi,Space Star,24132,Männlich
+55,Hyundai,i20,32390,Weiblich
+50,Audi,A3,25205,Männlich
+61,Tesla,Model S,58454,Männlich
+78,Land Rover,Discovery,43957,Männlich
+21,Kia,Stonic,29421,Weiblich
+69,Jeep,Cherokee,53348,Weiblich
+68,Audi,A6,16479,Weiblich
+45,Subaru,XV,36360,Weiblich
+49,Opel,Corsa,17780,Männlich
+60,Alfa Romeo,Stelvio,55138,Männlich
+73,Alfa Romeo,MiTo,51377,Männlich
+32,Volkswagen,ID.3,40104,Männlich
+34,Skoda,Kamiq,43764,Weiblich
+44,BMW Motorrad,R1200GS,6062,Weiblich
+59,Citroen,C4,29731,Männlich
+61,Alfa Romeo,MiTo,35324,Männlich
+49,Alfa Romeo,Giulia,44043,Männlich
+24,Mazda,Mazda6,12251,Männlich
+30,Jeep,Compass,37962,Männlich
+54,Land Rover,Evoque,105135,Weiblich
+40,Jeep,Compass,42994,Weiblich
+72,Porsche,Taycan,139314,Weiblich
+55,BMW Motorrad,S1000RR,13643,Weiblich
+70,Kia,Ceed,37068,Weiblich
+44,Peugeot,308,24063,Männlich
+46,Tesla,Model 3,48636,Weiblich
+50,BMW,5er,72225,Männlich
+56,Citroen,C3,9917,Männlich
+41,Alfa Romeo,MiTo,77983,Weiblich
+55,Honda,HR-V,8176,Weiblich
+40,Hyundai,i10,43765,Männlich
+17,Mitsubishi,ASX,10848,Männlich
+31,Ford,Fiesta,38032,Männlich
+68,Tesla,Model X,30075,Männlich
+39,Mitsubishi,L200,35977,Weiblich
+79,Ford,Mondeo,10974,Weiblich
+64,Honda,Jazz,31395,Weiblich
+33,Volvo,V90,32841,Weiblich
+18,Subaru,Impreza,19086,Weiblich
+43,Mitsubishi,Space Star,31264,Männlich
+23,Toyota,C-HR,15899,Weiblich
+39,Honda,Accord,30262,Weiblich
+50,Volkswagen,Sharan,60652,Weiblich
+27,Opel,Corsa,10693,Weiblich
+25,Kia,Seltos,8416,Männlich
+49,BMW,i3,56976,Männlich
+53,Renault,Captur,32688,Männlich
+34,Citroen,C5,31874,Weiblich
+30,Jeep,Grand Cherokee,39412,Männlich
+26,Hyundai,i30,15911,Männlich
+56,Kia,Niro,37230,Weiblich
+26,Mitsubishi,ASX,28066,Weiblich
+34,Peugeot,208,24881,Weiblich
+34,Kia,Sportage,14341,Weiblich
+36,Renault,Kadjar,24061,Weiblich
+41,Peugeot,208,24369,Männlich
+35,Ford,Kuga,26696,Männlich
+41,Alfa Romeo,MiTo,50802,Weiblich
+61,Peugeot,5008,25354,Weiblich
+66,Subaru,Impreza,37909,Weiblich
+40,BMW Motorrad,F900R,7288,Weiblich
+45,Renault,Clio,32731,Weiblich
+55,Volkswagen,Touran,62735,Weiblich
+26,Peugeot,5008,28421,Männlich
+24,Peugeot,308,14732,Weiblich
+41,BMW Motorrad,S1000RR,7149,Männlich
+76,Renault,Talisman,16101,Weiblich
+55,Hyundai,Nexo,25886,Männlich
+29,Alfa Romeo,Giulietta,37294,Weiblich
+43,Jeep,Compass,20762,Weiblich
+68,Volvo,V90,43564,Weiblich
+56,Mazda,Mazda6,36953,Weiblich
+40,Citroen,C4,31702,Weiblich
+40,BMW,X6,112679,Männlich
+47,Citroen,C3 Aircross,5878,Weiblich
+69,Land Rover,Discovery,31035,Weiblich
+50,Mercedes,S-Klasse,118234,Weiblich
+40,Mazda,Mazda6,35309,Männlich
+80,Opel,Insignia,11619,Weiblich
+19,Land Rover,Evoque,117802,Männlich
+47,Hyundai,i10,18092,Weiblich
+74,Nissan,X-Trail,10266,Weiblich
+67,Renault,Kadjar,17745,Weiblich
+24,Volvo,XC60,64379,Weiblich
+70,BMW,2er,47828,Männlich
+68,Volkswagen,Golf,60038,Männlich
+60,Volkswagen,Tiguan,33527,Weiblich
+79,Volkswagen,Arteon,30895,Männlich
+26,Skoda,Scala,26573,Weiblich
+35,BMW Motorrad,F900R,8051,Männlich
+49,Jeep,Grand Cherokee,42588,Männlich
+57,Mazda,Mazda6,20128,Männlich
+29,Skoda,Kamiq,33980,Männlich
+45,BMW Motorrad,S1000RR,10079,Männlich
+44,Mitsubishi,L200,39993,Männlich
+15,Volkswagen,Polo,64953,Weiblich
+74,Hyundai,Tucson,42081,Weiblich
+32,BMW,X5,113512,Weiblich
+15,Hyundai,i20,29478,Weiblich
+51,Land Rover,Evoque,99540,Männlich
+16,Volvo,V90,49753,Weiblich
+49,Volvo,XC40,79845,Männlich
+15,Alfa Romeo,Stelvio,79220,Männlich
+70,Hyundai,Santa Fe,37089,Weiblich
+80,Land Rover,Range Rover,91607,Weiblich
+78,Alfa Romeo,MiTo,42745,Männlich
+27,Jeep,Cherokee,31887,Weiblich
+43,BMW,X5,30411,Weiblich
+80,Kia,Rio,9739,Männlich
+74,Ford,Focus,31967,Männlich
+22,Alfa Romeo,MiTo,38863,Männlich
+36,Mercedes,GLC,51262,Männlich
+27,Volvo,V90,61709,Weiblich
+57,Land Rover,Defender,89359,Weiblich
+54,Citroen,C3,12997,Weiblich
+26,Mitsubishi,Outlander,7992,Männlich
+60,Jeep,Renegade,35147,Männlich
+41,Honda,HR-V,16945,Weiblich
+29,Land Rover,Evoque,54122,Weiblich
+80,Peugeot,208,28818,Weiblich
+71,BMW,X5,100305,Männlich
+53,Subaru,Outback,27256,Weiblich
+49,Peugeot,508,9200,Männlich
+17,Tesla,Model X,63768,Männlich
+36,Hyundai,i30,44772,Weiblich
+69,Subaru,XV,33335,Männlich
+70,Skoda,Fabia,23679,Männlich
+65,Jeep,Compass,19967,Weiblich
+20,Peugeot,508,10533,Weiblich
+43,Honda,CR-V,14559,Weiblich
+51,Skoda,Octavia,16381,Männlich
+56,Volkswagen,ID.4,26439,Weiblich
+57,Volkswagen,Tiguan,56936,Weiblich
+67,Mercedes,GLA,116966,Männlich
+63,Subaru,Forester,31142,Weiblich
+55,Toyota,RAV4,44160,Weiblich
+19,Citroen,C3 Aircross,27158,Weiblich
+16,Nissan,Leaf,12807,Männlich
+36,Honda,HR-V,24675,Weiblich
+46,Toyota,RAV4,48491,Männlich
+33,Volkswagen,ID.4,65054,Weiblich
+79,Land Rover,Evoque,96376,Weiblich
+29,Kia,Stonic,32436,Männlich
+65,Opel,Grandland,19141,Männlich
+59,Mazda,Mazda6,35286,Weiblich
+35,Skoda,Fabia,27108,Weiblich
+60,Mercedes,E-Klasse,23431,Männlich
+27,Volkswagen,Sharan,30773,Männlich
+75,Skoda,Superb,44033,Weiblich
+24,Toyota,RAV4,32224,Männlich
+56,Land Rover,Range Rover,35572,Weiblich
+46,Nissan,Leaf,26387,Weiblich
+46,Kia,Sportage,33508,Weiblich
+33,Toyota,Camry,26395,Männlich
+18,BMW,1er,72648,Männlich
+49,Subaru,Impreza,28239,Weiblich
+66,Subaru,XV,37527,Weiblich
+71,Tesla,Model Y,50745,Männlich
+33,Hyundai,i10,17663,Weiblich
+17,Volkswagen,Tiguan,36022,Weiblich
+79,Volvo,S60,43107,Weiblich
+34,Subaru,Outback,16717,Männlich
+40,Alfa Romeo,Giulietta,24001,Weiblich
+78,Mitsubishi,Space Star,38529,Weiblich
+32,Alfa Romeo,Stelvio,42806,Weiblich
+22,Citroen,C4,20610,Weiblich
+28,Mazda,Mazda2,20952,Männlich
+71,Citroen,C4,20611,Männlich
+27,Opel,Grandland,10814,Weiblich
+68,Ford,Kuga,30026,Männlich
+40,Porsche,Cayenne,129549,Männlich
+38,Volvo,V90,15760,Weiblich
+62,Ford,Kuga,38497,Männlich
+76,Honda,Jazz,11481,Männlich
+27,Kia,Stonic,44142,Weiblich
+29,Tesla,Model Y,76729,Weiblich
+33,Skoda,Fabia,31480,Männlich
+17,Subaru,Outback,29305,Weiblich
+58,Subaru,Outback,31406,Männlich
+33,Mitsubishi,L200,35396,Weiblich
+16,Volkswagen,Sharan,54481,Männlich
+24,Audi,A7,79267,Männlich
+20,Skoda,Scala,19867,Männlich
+69,Kia,Stonic,22584,Weiblich
+28,Nissan,Leaf,43005,Männlich
+52,Land Rover,Defender,117291,Männlich
+78,Honda,Civic,23251,Weiblich
+37,BMW Motorrad,F900R,19950,Männlich
+51,Citroen,C5 Aircross,18664,Männlich
+51,Land Rover,Range Rover,36053,Männlich
+38,Opel,Astra,11697,Männlich
+27,Audi,A4,31040,Weiblich
+66,Volkswagen,Golf,18099,Männlich
+43,Mazda,Mazda6,38148,Weiblich
+25,Porsche,911,62944,Weiblich
+33,Skoda,Octavia,28685,Männlich
+72,Mitsubishi,Space Star,37831,Männlich
+34,Mitsubishi,Space Star,34648,Weiblich
+65,Porsche,Macan,113869,Männlich
+29,Opel,Astra,8911,Männlich
+23,Volvo,S60,77416,Männlich
+67,Porsche,Panamera,102235,Männlich
+35,Mercedes,AMG GT,96180,Männlich
+37,Citroen,C5,10375,Männlich
+55,Honda,HR-V,21338,Männlich
+77,Jeep,Grand Cherokee,62497,Männlich
+59,Mercedes,C-Klasse,91065,Männlich
+40,Skoda,Octavia,35554,Weiblich
+17,Hyundai,i20,19646,Weiblich
+35,Subaru,Forester,26753,Weiblich
+36,Porsche,911,131951,Weiblich
+52,Citroen,C5 Aircross,20413,Männlich
+44,Skoda,Octavia,20408,Weiblich
+71,Volvo,S60,75626,Männlich
+36,Peugeot,5008,14925,Weiblich
+72,Mercedes,A-Klasse,111219,Weiblich
+22,Tesla,Model 3,72340,Männlich
+80,Citroen,C3,28898,Männlich
+52,BMW Motorrad,F900R,22510,Männlich
+59,Hyundai,i30,32409,Weiblich
+39,Peugeot,Partner,11979,Männlich
+44,Volkswagen,Polo,29031,Weiblich
+52,Volkswagen,Passat,52569,Weiblich
+57,Peugeot,5008,14884,Männlich
+37,Kia,Seltos,9745,Männlich
+62,Hyundai,Kona,44737,Männlich
+76,Audi,A3,32028,Weiblich
+45,Renault,Talisman,17538,Männlich
+37,Peugeot,Partner,7789,Männlich
+74,Hyundai,i20,14243,Weiblich
+31,Mazda,CX-5,13265,Männlich
+74,Subaru,XV,40164,Weiblich
+41,Tesla,Model S,37877,Männlich
+17,Hyundai,i10,39331,Männlich
+62,Skoda,Superb,26605,Weiblich
+30,Kia,Rio,36497,Weiblich
+32,Volkswagen,Touareg,11755,Männlich
+49,Alfa Romeo,MiTo,75609,Männlich
+75,Nissan,X-Trail,30108,Männlich
+27,Volvo,V90,73943,Männlich
+54,Kia,Sportage,13411,Männlich
+53,Kia,Rio,12705,Männlich
+31,Opel,Corsa,18609,Männlich
+59,Nissan,Qashqai,28926,Männlich
+52,BMW Motorrad,R1200GS,21134,Weiblich
+76,Tesla,Model Y,62825,Männlich
+53,Kia,Rio,27872,Männlich
+24,Nissan,Leaf,32884,Weiblich
+65,Alfa Romeo,Giulia,19581,Männlich
+76,Tesla,Model S,49331,Weiblich
+41,Honda,Accord,16334,Männlich
+41,BMW Motorrad,R1250GS,19011,Männlich
+29,Skoda,Scala,35092,Weiblich
+41,Volvo,V90,51598,Weiblich
+33,Subaru,Impreza,38589,Weiblich
+25,Mercedes,S-Klasse,135755,Weiblich
+77,Porsche,Panamera,168988,Weiblich
+19,BMW,3er,45043,Weiblich
+35,Honda,HR-V,31697,Männlich
+66,Skoda,Kodiaq,17562,Weiblich
+61,Porsche,Taycan,192291,Männlich
+24,Toyota,Land Cruiser,53196,Männlich
+79,Skoda,Scala,32058,Weiblich
+33,Land Rover,Discovery,25948,Männlich
+68,Jeep,Compass,57088,Männlich
+24,Honda,HR-V,10346,Männlich
+73,Audi,A5,102308,Weiblich
+74,Mazda,Mazda6,35812,Weiblich
+33,Toyota,RAV4,33437,Weiblich
+18,Ford,Mustang,27251,Weiblich
+56,Volvo,XC90,26342,Weiblich
+29,Ford,Edge,27322,Männlich
+80,BMW Motorrad,R1250GS,17840,Weiblich
+50,Toyota,C-HR,35549,Männlich
+31,Mazda,Mazda2,13649,Weiblich
+43,Porsche,911,107779,Männlich
+48,Jeep,Compass,25827,Männlich
+47,Kia,Niro,42313,Weiblich
+20,Subaru,Impreza,23516,Männlich
+43,Kia,Seltos,35601,Weiblich
+29,BMW Motorrad,F900R,22729,Männlich
+23,Volkswagen,Touran,67947,Weiblich
+33,BMW Motorrad,R1250GS,24907,Männlich
+72,Volvo,XC40,28210,Weiblich
+57,Citroen,C3 Aircross,29629,Weiblich
+46,Subaru,XV,23092,Weiblich
+42,Jeep,Compass,58691,Männlich
+71,Subaru,Forester,24246,Weiblich
+55,Kia,Seltos,40904,Weiblich
+46,Peugeot,3008,14168,Männlich
+38,Citroen,C5,23265,Männlich
+35,Tesla,Model Y,40980,Männlich
+31,Porsche,Macan,92487,Weiblich
+43,Honda,HR-V,24506,Weiblich
+55,Renault,Kadjar,5002,Weiblich
+61,Porsche,Macan,96730,Männlich
+15,Alfa Romeo,Stelvio,50978,Weiblich
+34,Porsche,Taycan,146564,Weiblich
+44,Kia,Niro,29846,Männlich
+40,Alfa Romeo,Stelvio,62037,Weiblich
+64,Nissan,Juke,33114,Männlich
+41,Mercedes,GLE,38204,Weiblich
+38,Hyundai,Santa Fe,26388,Weiblich
+42,Nissan,Leaf,32789,Weiblich
+20,BMW,7er,29886,Männlich
+73,Ford,Kuga,25783,Männlich
+50,Citroen,C5 Aircross,8262,Weiblich
+15,Jeep,Renegade,49806,Männlich
+76,Jeep,Renegade,59237,Weiblich
+62,Opel,Insignia,27603,Männlich
+25,Skoda,Kodiaq,19788,Weiblich
+32,Mazda,Mazda2,35678,Weiblich
+31,Renault,Clio,17771,Weiblich
+19,Audi,A4,74447,Weiblich
+69,Mercedes,AMG GT,125710,Weiblich
+27,Honda,Accord,20422,Männlich
+23,Peugeot,5008,13067,Weiblich
+60,BMW Motorrad,F900R,10662,Männlich
+19,Opel,Grandland,10930,Weiblich
+51,Porsche,Macan,194802,Männlich
+16,Ford,Kuga,38331,Weiblich
+53,Land Rover,Defender,102387,Männlich
+21,Alfa Romeo,Giulietta,60403,Männlich
+55,Land Rover,Discovery,109669,Weiblich
+78,Hyundai,i10,27557,Weiblich
+74,Citroen,C4,9392,Männlich
+46,Honda,Jazz,14812,Männlich
+34,Citroen,C3 Aircross,14319,Männlich
+18,Jeep,Cherokee,15172,Männlich
+50,Mazda,Mazda2,29266,Männlich
+16,Skoda,Kodiaq,16445,Weiblich
+35,Nissan,X-Trail,21707,Männlich
+64,Toyota,Yaris,54875,Weiblich
+24,Renault,Megane,6005,Männlich
+26,Alfa Romeo,Stelvio,18523,Weiblich
+49,Citroen,C5 Aircross,31687,Weiblich
+30,Honda,CR-V,15886,Männlich
+31,Peugeot,208,16575,Weiblich
+54,Renault,Clio,11511,Weiblich
+32,BMW,X1,98025,Männlich
+80,Volkswagen,Tiguan,30325,Weiblich
+74,Tesla,Model S,59465,Weiblich
+42,Land Rover,Range Rover,72021,Weiblich
+54,Land Rover,Discovery,118897,Männlich
+39,Volkswagen,Touran,44153,Weiblich
+25,Jeep,Wrangler,17828,Weiblich
+73,Land Rover,Defender,90020,Männlich
+42,Kia,Stonic,32043,Männlich
+45,Alfa Romeo,Giulietta,19665,Männlich
+76,BMW,3er,18923,Weiblich
+60,Ford,Kuga,27815,Männlich
+27,Volvo,XC60,36292,Männlich
+22,Ford,Edge,31543,Weiblich
+16,Volkswagen,Sharan,40856,Männlich
+43,Peugeot,208,29214,Weiblich
+74,Tesla,Model Y,45531,Männlich
+28,Citroen,C3 Aircross,20903,Weiblich
+69,Audi,A4,105838,Männlich
+61,Hyundai,i20,21679,Weiblich
+17,Nissan,Qashqai,32638,Männlich
+49,Ford,Mondeo,8639,Männlich
+54,BMW Motorrad,R1200GS,10952,Weiblich
+64,Nissan,Navara,24880,Männlich
+25,Volvo,V90,36928,Männlich
+29,Ford,Focus,38276,Weiblich
+32,Kia,Seltos,36070,Weiblich
+25,Subaru,Impreza,38627,Weiblich
+46,Kia,Ceed,14343,Weiblich
+21,Volvo,V90,65794,Männlich
+45,Volkswagen,ID.4,13296,Weiblich
+63,Hyundai,Tucson,30859,Weiblich
+61,Nissan,Juke,42893,Männlich
+23,Peugeot,308,9006,Männlich
+61,Volvo,XC40,33511,Weiblich
+66,BMW Motorrad,R1250GS,23836,Männlich
+17,BMW,X5,35227,Männlich
+46,Subaru,XV,34045,Männlich
+48,Mitsubishi,Space Star,14165,Weiblich
+53,Subaru,Forester,34923,Weiblich
+78,Nissan,Qashqai,44516,Männlich
+34,Opel,Insignia,9461,Weiblich
