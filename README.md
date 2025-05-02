@@ -32,7 +32,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 - [x] Ein MongoDB Datenbank erstellen
 - [x] Ein Datensatz für mein Projekt suchen oder selber erstellen
-- [x] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
+- [ ] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
 - [x] Wichtigsten Punkte für eine Vorhersage wählen und die Fragen welche gestellt werden sollen überlegen (📵)
 
 ✍️ Heute habe ich als erstes die Machbarkeit des letzten Feature bewisen in dem ich ein MongoDB Datenbank erstellt habe. Danach habe ich mit Hilfe von KI ein Datensatz für mein ML Projekt erstellt. Diesen Datensatz habe ich mit pymongo in meine Datenbakn gespeichert. Später habe ich dann die Daten von meiner MongoDB DB in python mit pandas gespeichert und kann sie nun verwenden um mein ML Modell zu trainieren.
@@ -41,15 +41,15 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf: 
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. ML Modell Trainieren
+2. Daten von MongoDB lesen, verändern, löschen und hinzufügen
+3. In console Nach Daten fragen und verwenden um eine Vorhersage zu treffen.
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Daten anpassen so dass sie der ML Modell verwenden kann.
+- [ ] DecisionTree Modell importieren und trainieren
+- [ ] ML Modell testen und verbessern
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -57,10 +57,10 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 ## 16.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Daten von MongoDB einlesen in py
+- [ ] Daten von MongoDB ändern in py
+- [ ] Daten von MongoDB löschen in py
+- [ ] Daten in MongoDB hinzufügen von py
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
