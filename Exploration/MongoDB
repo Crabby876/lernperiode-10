@@ -1,0 +1,5 @@
+mongosh
+
+use db explorationCarsDB
+
+db.answers.insertMany([{"age": 25, "cartype": "Cabrio", "carbrand": "BMW", "price": 30000},{"age": 30, "cartype": "Coupe", "carbrand": "Mercede", "price": 25000},{"age": 35, "cartype": "Cabrio", "carbrand": "Audi", "price": 35000},{"age": 40, "cartype": "SUV", "carbrand": "Mercedes", "price": 50000},{"age": 45, "cartype": "SUV", "carbrand": "Jeep", "price": 45000},{"age": 50, "cartype": "Coupe", "carbrand": "BMW", "price": 28000}])
