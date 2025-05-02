@@ -30,14 +30,12 @@ Heute habe ich getestet, ob mein Projekt umsetzbar ist, mit mein Wissen, in dem 
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] Ein MongoDB Datenbank erstellen
-- [ ] Ein Datensatz für mein Projekt suchen oder selber erstellen
-- [ ] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
-- [ ] Wichtigsten Punkte für eine Vorhersage wählen und die Fragen welche gestellt werden sollen überlegen (📵)
+- [x] Ein MongoDB Datenbank erstellen
+- [x] Ein Datensatz für mein Projekt suchen oder selber erstellen
+- [x] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
+- [x] Wichtigsten Punkte für eine Vorhersage wählen und die Fragen welche gestellt werden sollen überlegen (📵)
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+✍️ Heute habe ich als erstes die Machbarkeit des letzten Feature bewisen in dem ich ein MongoDB Datenbank erstellt habe. Danach habe ich mit Hilfe von KI ein Datensatz für mein ML Projekt erstellt. Diesen Datensatz habe ich mit pymongo in meine Datenbakn gespeichert. Später habe ich dann die Daten von meiner MongoDB DB in python mit pandas gespeichert und kann sie nun verwenden um mein ML Modell zu trainieren.
 
 ## 9.5
 
