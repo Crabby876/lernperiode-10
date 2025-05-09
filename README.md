@@ -47,8 +47,8 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Daten anpassen so dass sie der ML Modell verwenden kann.
-- [ ] DecisionTree Modell importieren und trainieren
+- [x] Daten anpassen so dass sie der ML Modell verwenden kann.
+- [ ] RandomForest Modell importieren und trainieren
 - [ ] ML Modell testen und verbessern
 
 ✍️ Heute habe ich... (50-100 Wörter)
