@@ -48,12 +48,10 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
 - [x] Daten anpassen so dass sie der ML Modell verwenden kann.
-- [ ] RandomForest Modell importieren und trainieren
-- [ ] ML Modell testen und verbessern
+- [x] RandomForest Modell importieren und trainieren
+- [x] ML Modell testen und verbessern
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+Heute habe ich den ML Modell für mein Projekt erstellt und trainiert. Dafür musste ich als Erstes die Daten anpassen und entscheiden, welche relevant und welche irrelevant sind. Danach konnte ich ein RF Modell implementieren mit 100 Bäumen. Der Test lief sehr gut mit einer Genauigkeit von 99%, was darauf hinweist, dass die Anzahl Bäume gut gewählt sind.
 
 ## 16.5
 
