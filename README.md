@@ -22,9 +22,7 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 - [ ] Ein MongoDB Datenbank erstellen
 
 
-Heute habe ich getestet, ob mein Projekt umsetzbar ist, mit mein Wissen, in dem ich die wichtigsten Features mit kleinen Prototypen getestet habe. Ich konnte leider nur zwei von drei Projekte fertigstellen, da es beim ML Komplikationen gab. Ich habe im Internet recherchiert und konnte alle Probleme lösen und eine KI trainieren mit einem sehr kleinen Datensatz. Zum Erstellen von DB in MongoDB bin ich noch nicht gekommen und werde es das nächste Mal fertigstellen.
-
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
+Heute habe ich getestet, ob mein Projekt umsetzbar ist, mit mein Wissen, in dem ich die wichtigsten Features mit kleinen Prototypen getestet habe. Ich konnte leider nur zwei von drei Projekte fertigstellen, da es beim ML Komplikationen gab. Ich habe im Internet recherchiert und konnte alle Probleme lösen und einen Modell trainieren mit einem sehr kleinen Datensatz. Zum Erstellen von DB in MongoDB bin ich noch nicht gekommen und werde es das nächste Mal fertigstellen.
 
 ## 2.5
 
@@ -32,10 +30,10 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 - [x] Ein MongoDB Datenbank erstellen
 - [x] Ein Datensatz für mein Projekt suchen oder selber erstellen
-- [ ] Den Datensatz in py einlesen und vorbereiten für ein Desicion Tree KI
+- [ ] Den Datensatz in py einlesen und vorbereiten für ein Random Forest
 - [x] Wichtigsten Punkte für eine Vorhersage wählen und die Fragen welche gestellt werden sollen überlegen (📵)
 
-✍️ Heute habe ich als erstes die Machbarkeit des letzten Feature bewisen in dem ich ein MongoDB Datenbank erstellt habe. Danach habe ich mit Hilfe von KI ein Datensatz für mein ML Projekt erstellt. Diesen Datensatz habe ich mit pymongo in meine Datenbakn gespeichert. Später habe ich dann die Daten von meiner MongoDB DB in python mit pandas gespeichert und kann sie nun verwenden um mein ML Modell zu trainieren.
+Heute habe ich als erstes die Machbarkeit des letzten Feature bewisen in dem ich ein MongoDB Datenbank erstellt habe. Danach habe ich mit Hilfe von KI ein Datensatz für mein ML Projekt erstellt. Diesen Datensatz habe ich mit pymongo in meine Datenbakn gespeichert. Später habe ich dann die Daten von meiner MongoDB DB in python mit pandas gespeichert und kann sie nun verwenden um mein ML Modell zu trainieren.
 
 ## 9.5
 
@@ -52,6 +50,7 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 - [x] ML Modell testen und verbessern
 
 Heute habe ich den ML Modell für mein Projekt erstellt und trainiert. Dafür musste ich als Erstes die Daten anpassen und entscheiden, welche relevant und welche irrelevant sind. Danach konnte ich ein RF Modell implementieren mit 100 Bäumen. Der Test lief sehr gut mit einer Genauigkeit von 99%, was darauf hinweist, dass die Anzahl Bäume gut gewählt sind.
+Dazu habe ich noch meinen Datensatz geändert, da sie nicht so geignet war für mein Projekt.
 
 ## 16.5
 
