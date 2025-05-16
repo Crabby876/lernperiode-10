@@ -55,9 +55,9 @@ Dazu habe ich noch meinen Datensatz geändert, da sie nicht so geignet war für 
 ## 16.5
 
 - [ ] Daten von MongoDB einlesen in py
-- [ ] Daten von MongoDB ändern in py
-- [ ] Daten von MongoDB löschen in py
 - [ ] Daten in MongoDB hinzufügen von py
+- [ ] Über Konsole alle nötigen Daten abfragen
+- [ ] Alle Daten speichern und dem ML Model geben für eine vorhersage
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
