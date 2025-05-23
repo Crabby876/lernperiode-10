@@ -65,10 +65,9 @@ Dazu habe ich noch meinen Datensatz geändert, da sie nicht so geignet war für 
 
 ## 23.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Programm soll nachfragen ob der User zufriden ist mit der Vorhersage
+- [ ] Fals user unzufrieden wird er nach dem Vahrzeug gefragt, den er sich vorgestellt hat
+- [ ] die daten mit dem Fahrzeug und Modell werden nun zum DatenSatz hinzugefügt
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
