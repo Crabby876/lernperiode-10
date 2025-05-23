@@ -59,28 +59,24 @@ Dazu habe ich noch meinen Datensatz geändert, da sie nicht so geignet war für 
 - [x] Über Konsole alle nötigen Daten abfragen
 - [x] Alle Daten speichern und dem ML Model geben für eine vorhersage
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
 
-- [ ] Programm soll nachfragen ob der User zufriden ist mit der Vorhersage
-- [ ] Fals user unzufrieden wird er nach dem Vahrzeug gefragt, den er sich vorgestellt hat
-- [ ] die daten mit dem Fahrzeug und Modell werden nun zum DatenSatz hinzugefügt
+- [x] Programm soll nachfragen ob der User zufriden ist mit der Vorhersage
+- [x] Fals user unzufrieden wird er nach dem Vahrzeug gefragt, den er sich vorgestellt hat
+- [x] die daten mit dem Fahrzeug und Modell werden nun zum DatenSatz hinzugefügt
+- [x] Das Modell speicher und laden, damit man nicht immer trainieren muss.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mein ML Modell weiter entwickelt und es kann nun von den Usern neues lernen. Ich habe das gemacht, indem mein Programm den User fragt, ob er zufrieden ist mit der Empfehlung. Falls der User unzufrieden ist, kann er das Fahrzeug, welches er sich vorgestellt hatte eingeben und das speicher sich dann die KI und benutzt es das nächste Mal. Ausserdem wird jetzt das trainierte Modell gespeichert und wieder geladen, wenn nötig, wo durch die Effizienz des Projektes gesteigert wird. Nach hinzufügen von Daten wird das Model erneut trainiert und gespeichert.
 
-☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Code verschönern und überarbeiten, so dass es für 3. Personen verständlich ist
+- [ ] HTML erstellen und mein Py mit HTML verbinden
+- [ ] Mit HTML Fragen und Antwortmöglichkeiten erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -88,8 +84,8 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 ## 13.6
 
-- [ ] ...
-- [ ] ...
+- [ ] Antworte an Py weiter geben so dass sie verarbeitet werden können.
+- [ ] CSS für den Projekt erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
