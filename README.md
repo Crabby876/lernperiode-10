@@ -74,13 +74,11 @@ Heute habe ich mein ML Modell weiter entwickelt und es kann nun von den Usern ne
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] Code verschönern und überarbeiten, so dass es für 3. Personen verständlich ist
-- [ ] HTML erstellen und mein Py mit HTML verbinden
-- [ ] Mit HTML Fragen und Antwortmöglichkeiten erstellen
+- [x] Code verschönern und überarbeiten, so dass es für 3. Personen verständlich ist
+- [x] HTML erstellen und mein Py mit HTML verbinden
+- [x] Mit HTML Fragen und Antwortmöglichkeiten erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+Heute habe ich ein Frontend für mein AutoEpmpfehlerAi erstellt. Ich habe als Erstes nach Lösungen recherchiert, wie ich mein Python mit HTML und CSS verbinden kann und bin auf Flask gestossen. Mithilfe von Flask habe ich dann ein sehr einfaches Frontend erstellt, wo es einfacher für den User macht eine Vorhersage zu erhalten.
 
 ## 13.6
 
