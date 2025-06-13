@@ -82,18 +82,19 @@ Heute habe ich ein Frontend für mein AutoEpmpfehlerAi erstellt. Ich habe als Er
 
 ## 13.6
 
-- [ ] Antworte an Py weiter geben so dass sie verarbeitet werden können.
-- [ ] CSS für den Projekt erstellen
+- [x] Antworte an Py weiter geben so dass sie verarbeitet werden können.
+- [x] CSS für den Projekt erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+✍️ Heute habe ich den Design meines Projektes verbessert, indem ich eine CSS Datei hinzugefügt habe und alles designt habe. (50-100 Wörter)
 
 ## 20.6
 
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] ...
+- [ ] Neues Fahrzeug der DB hinzufügen debuggen
+- [ ] Design verbessern mit CSS
+- [ ] Neue Version ohne DB connection, um Projekt auf bewerbungswebseite hochzuladen
+- [ ] Projekt zu meiner Webseite hinzufügen
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
