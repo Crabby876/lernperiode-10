@@ -45,7 +45,6 @@ def index():
             except:
                 feedback = "Fehler: Bitte gib Marke und Modell im Format 'BMW 1 Series' an."
         elif 'zufrieden' in request.form:
-            flash("Super, freut mich!") 
             return redirect(url_for('index'))
 
         else:
@@ -82,5 +81,6 @@ def index():
             vorhersage = RF.predict(input_df)[0]
 
     return render_template("index.html", getriebe_typen=getriebe_typen, antrieb_typen=antrieb_typen, karosserie_typen=karosserie_typen, vorhersage=vorhersage, feedback=feedback)
+
 if __name__ == "__main__":
     app.run(debug=True)
